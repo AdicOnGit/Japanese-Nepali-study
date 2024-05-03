@@ -1,0 +1,6 @@
+I will provide you a text with Japanese words, you need to look at them one by one and return in this following JSON format:
+{
+"word": "Japanese word",
+"Nep-meaning": "Nepali meaning of the word"
+}.
+This is the text:
