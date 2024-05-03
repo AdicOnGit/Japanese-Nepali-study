@@ -1,7 +1,7 @@
 import genanki
 import csv
 
-file_version = "second500"
+file_version = "first500"
 # Define the CSS styles for the front and back of the card
 front_style = """
 * {
@@ -11,12 +11,12 @@ front_style = """
   }
   
   #card {
-    height: 100vh;
-    width: 100vw;
-    background-color: pink;
-    display: flex;
-    flex-direction: column;
-    overflow: hidden;
+   height: 100vh;
+  width: calc(100vw - 2px);  /* Adjusted width to account for potential border */
+  background-color: pink;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
   }
   
   .sub-div1 {
@@ -26,7 +26,7 @@ front_style = """
     display: flex;
     align-items: center;
     justify-content: center;
-    padding-left: 10px;
+    padding: 10px;
   }
   
   .header {
@@ -51,7 +51,7 @@ front_style = """
     flex-direction: column;
     align-items: flex-start;
     justify-content: space-evenly;
-    padding-left: 10px;
+    padding: 10px;
   }
   
   .common-lvl,
@@ -187,11 +187,14 @@ back_style = """
   font-size: 40px;
   font-weight: bold;
 }
+.header, .sub-div1, .sub-div2, .main-div1, .main-div2, .main-div3 {
+  box-sizing: border-box;  /* Re-emphasizing box-sizing for all components */
+}
 
 @media (max-width: 430px) and (max-height: 930px) {
   #card {
     height: 930px;
-    width: 430px;
+    width: 100%;
   }
 
   .header {
