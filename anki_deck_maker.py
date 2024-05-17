@@ -1,7 +1,7 @@
 import genanki
 import csv
 
-file_version = "first500"
+file_version = "second500"
 # Define the CSS styles for the front and back of the card
 front_style = """
 * {
@@ -127,12 +127,13 @@ back_style = """
   padding: 10px;
 }
 
+.kanji,
+.vocab-meaning-eng,
 .vocab-kana,
-.vocab-meaning,
-.nepali-meaning,
 .sentence-expression,
 .sentence-kana,
-.sentence-meaning{
+.sentence-meaning-eng,
+.sentence-meaning-nep{
   height: 25%;
   background-color: black;
   width: 80%;
@@ -165,14 +166,15 @@ back_style = """
 
 .sentence-expression,
 .sentence-kana,
-.sentence-meaning {
+.sentence-meaning-eng,
+.sentence-meaning-nep {
   background-color: #FFF5E0;
   color: #141E46;
   box-shadow: none;
   width: 91%;
 }
 
-.nepali-meaning{
+.vocab-kana{
   height: 35%;
   justify-content: center;
   background: linear-gradient(to right, 
@@ -223,12 +225,13 @@ back_style = """
     width: 19%;
   }
 
+  .kanji,
+  .vocab-meaning-eng,
   .vocab-kana,
-  .vocab-meaning,
-  .nepali-meaning,
   .sentence-expression,
   .sentence-kana,
-  .sentence-meaning {
+  .sentence-meaning-eng,
+  .sentence-meaning-nep {
     font-size: 16px;
     width: 100%;
   }
@@ -246,7 +249,7 @@ back_style = """
 front_template = """
 <div id="card">
 <div class="sub-div1">
- <div class="header">{{Japanese Word}}</div>
+ <div class="header">{{Nepali-meaning}}</div>
  </div>
  <div class="sub-div2">
  <div class="common-lvl">Common Level: {{Common Level}}</div>
@@ -260,13 +263,13 @@ front_template = """
 back_template = """
 <div id="card">
       <div class="main-div1">
-        <div class="header">{{Japanese Word}}</div>
+        <div class="header">{{Nepali-meaning}}</div>
       </div>
       <div class="main-div2">
         <div class="main-div2-sub-div1">
           <div class="vocab-kana">{{Vocab-kana}}</div>
-          <div class="vocab-meaning">{{Vocab-meaning}}</div>
-          <div class="nepali-meaning">{{Nepali-meaning}}</div>
+          <div class="kanji">Kanji: {{Kanji}}</div>
+          <div class="vocab-meaning-eng">English: {{Vocab-meaning-eng}}</div>
         </div>
         <div class="main-div2-sub-div2">
           <div class="common-lvl">Common: {{Common Level}}</div>
@@ -278,7 +281,9 @@ back_template = """
         <div class="main-div3-sub-div1">
           <div class="sentence-expression">{{Sentence-expression}}</div>
           <div class="sentence-kana">{{Sentence-kana}}</div>
-          <div class="sentence-meaning">{{Sentence-meaning}}</div>
+          <div class="sentence-meaning-nep">{{Sentence-meaning-nep}}</div>
+        </div>
+          <div class="sentence-meaning-eng">{{Sentence-meaning-eng}}</div>
         </div>
       </div>
     </div>
@@ -291,14 +296,15 @@ my_model = genanki.Model(
     fields=[
         {'name': 'Common Level'},
         {'name': 'JLPT Level'},
-        {'name': 'Japanese Word'},
+        {'name': 'Kanji'},
         {'name': 'Vocab-pos'},
         {'name': 'Vocab-kana'},
-        {'name': 'Vocab-meaning'},
+        {'name': 'Vocab-meaning-eng'},
         {'name': 'Nepali-meaning'},
         {'name': 'Sentence-expression'},
         {'name': 'Sentence-kana'},
-        {'name': 'Sentence-meaning'},
+        {'name': 'Sentence-meaning-eng'},
+        {'name': 'Sentence-meaning-nep'},
     ],
     templates=[
         {
@@ -327,11 +333,12 @@ with open(f'versions/{file_version}/Jap-Nep-{file_version}.csv', 'r', encoding='
                 row['Vocab-expression'],
                 row['Vocab-pos'],
                 row['Vocab-kana'],
-                row['Vocab-meaning'],
+                row['Vocab-meaning-eng'],
                 row['Nep-meaning'],
                 row['Sentence-expression'],
+                row['Sentence-meaning-nep'],
                 row['Sentence-kana'],
-                row['Sentence-meaning'],
+                row['Sentence-meaning-eng'],
             ]
         )
         my_deck.add_note(my_note)

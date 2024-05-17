@@ -1,2000 +1,2502 @@
-[{
-    "word": "技術",
-    "Nep-meaning": "प्रविधि"
-    },
-    {
-    "word": "まま",
-    "Nep-meaning": "यस्तैगरी"
-    },
-    {
-    "word": "完成",
-    "Nep-meaning": "पूरा गर्नु"
-    },
-    {
-    "word": "変化",
-    "Nep-meaning": "परिवर्तन"
-    },
-    {
-    "word": "存在",
-    "Nep-meaning": "अस्तित्व"
-    },
-    {
-    "word": "参加",
-    "Nep-meaning": "सहभागी हुनु"
-    },
-    {
-    "word": "テレビ",
-    "Nep-meaning": "टेलिभिजन"
-    },
-    {
-    "word": "土地",
-    "Nep-meaning": "जमिन"
-    },
-    {
-    "word": "減る",
-    "Nep-meaning": "घट्नु"
-    },
-    {
-    "word": "検討",
-    "Nep-meaning": "विचार गर्नु"
-    },
-    {
-    "word": "政治",
-    "Nep-meaning": "राजनीति"
-    },
-    {
-    "word": "実施",
-    "Nep-meaning": "कार्यान्वयन गर्नु"
-    },
-    {
-    "word": "開始",
-    "Nep-meaning": "सुरु गर्नु"
-    },
-    {
-    "word": "備える",
-    "Nep-meaning": "तयार हुनु"
-    },
-    {
-    "word": "輸入",
-    "Nep-meaning": "आयात गर्नु"
-    },
-    {
-    "word": "最大",
-    "Nep-meaning": "सबैभन्दा बढी"
-    },
-    {
-    "word": "競争",
-    "Nep-meaning": "प्रतिस्पर्धा"
-    },
-    {
-    "word": "部分",
-    "Nep-meaning": "अंश"
-    },
-    {
-    "word": "消える",
-    "Nep-meaning": "हराउनु"
-    },
-    {
-    "word": "家族",
-    "Nep-meaning": "परिवार"
-    },
-    {
-    "word": "内容",
-    "Nep-meaning": "विषयवस्तु"
-    },
-    {
-    "word": "比べる",
-    "Nep-meaning": "तुलना गर्नु"
-    },
-    {
-    "word": "生まれる",
-    "Nep-meaning": "जन्मनु"
-    },
-    {
-    "word": "与える",
-    "Nep-meaning": "दिनु"
-    },
-    {
-    "word": "選挙",
-    "Nep-meaning": "निर्वाचन"
-    },
-    {
-    "word": "対立",
-    "Nep-meaning": "विरोध"
-    },
-    {
-    "word": "理由",
-    "Nep-meaning": "कारण"
-    },
-    {
-    "word": "構成",
-    "Nep-meaning": "संरचना"
-    },
-    {
-    "word": "管理",
-    "Nep-meaning": "व्यवस्थापन"
-    },
-    {
-    "word": "増加",
-    "Nep-meaning": "वृद्धि"
-    },
-    {
-    "word": "改革",
-    "Nep-meaning": "सुधार"
-    },
-    {
-    "word": "会談",
-    "Nep-meaning": "वार्ता"
-    },
-    {
-    "word": "会長",
-    "Nep-meaning": "अध्यक्ष"
-    },
-    {
-    "word": "ソフト",
-    "Nep-meaning": "सफ्टवेयर"
-    },
-    {
-    "word": "提供",
-    "Nep-meaning": "प्रदान गर्नु"
-    },
-    {
-    "word": "ただ",
-    "Nep-meaning": "मात्र"
-    },
-    {
-    "word": "これら",
-    "Nep-meaning": "यी कुराहरू"
-    },
-    {
-    "word": "広がる",
-    "Nep-meaning": "फैलिनु"
-    },
-    {
-    "word": "特徴",
-    "Nep-meaning": "विशेषता"
-    },
-    {
-    "word": "調べる",
-    "Nep-meaning": "अनुसन्धान गर्नु"
-    },
-    {
-    "word": "強調",
-    "Nep-meaning": "जोड दिनु"
-    },
-    {
-    "word": "制度",
-    "Nep-meaning": "प्रणाली"
-    },
-    {
-    "word": "方針",
-    "Nep-meaning": "नीति"
-    },
-    {
-    "word": "従来",
-    "Nep-meaning": "पहिलेदेखि"
-    },
-    {
-    "word": "いずれ",
-    "Nep-meaning": "कुनै पनि"
-    },
-    {
-    "word": "事故",
-    "Nep-meaning": "दुर्घटना"
-    },
-    {
-    "word": "電話",
-    "Nep-meaning": "टेलिफोन"
-    },
-    {
-    "word": "外国",
-    "Nep-meaning": "विदेश"
-    },
-    {
-    "word": "目的",
-    "Nep-meaning": "उद्देश्य"
-    },
-    {
-    "word": "自由",
-    "Nep-meaning": "स्वतन्त्रता"
-    },
-    {
-    "word": "資金",
-    "Nep-meaning": "कोष"
-    },
-    {
-    "word": "銀行",
-    "Nep-meaning": "बैंक"
-    },
-    {
-    "word": "事実",
-    "Nep-meaning": "वास्तविकता"
-    },
-    {
-    "word": "決定",
-    "Nep-meaning": "निर्णय"
-    },
-    {
-    "word": "方向",
-    "Nep-meaning": "दिशा"
-    },
-    {
-    "word": "住宅",
-    "Nep-meaning": "आवास"
-    },
-    {
-    "word": "代表",
-    "Nep-meaning": "प्रतिनिधि"
-    },
-    {
-    "word": "激しい",
-    "Nep-meaning": "कडा"
-    },
-    {
-    "word": "株",
-    "Nep-meaning": "शेयर"
-    },
-    {
-    "word": "交渉",
-    "Nep-meaning": "वार्ता"
-    },
-    {
-    "word": "結果",
-    "Nep-meaning": "परिणाम"
-    },
-    {
-    "word": "全体",
-    "Nep-meaning": "पूरा"
-    },
-    {
-    "word": "後",
-    "Nep-meaning": "पछि"
-    },
-    {
-    "word": "命令",
-    "Nep-meaning": "आदेश"
-    },
-    {
-    "word": "十分",
-    "Nep-meaning": "पर्याप्त"
-    },
-    {
-    "word": "あまり",
-    "Nep-meaning": "धेरै"
-    },
-    {
-    "word": "経営",
-    "Nep-meaning": "व्यवस्थापन"
-    },
-    {
-    "word": "原因",
-    "Nep-meaning": "कारण"
-    },
-    {
-    "word": "写真",
-    "Nep-meaning": "फोटो"
-    },
-    {
-    "word": "立場",
-    "Nep-meaning": "अवस्था"
-    },
-    {
-    "word": "対策",
-    "Nep-meaning": "उपाय"
-    },
-    {
-    "word": "繰り返す",
-    "Nep-meaning": "दोहोर्याउनु"
-    },
-    {
-    "word": "評価",
-    "Nep-meaning": "मूल्यांकन"
-    },
-    {
-    "word": "なお",
-    "Nep-meaning": "अझै"
-    },
-    {
-    "word": "計算",
-    "Nep-meaning": "गणना"
-    },
-    {
-    "word": "投資",
-    "Nep-meaning": "लगानी"
-    },
-    {
-    "word": "可能",
-    "Nep-meaning": "सम्भव"
-    },
-    {
-    "word": "加える",
-    "Nep-meaning": "थप्नु"
-    },
-    {
-    "word": "種類",
-    "Nep-meaning": "प्रकार"
-    },
-    {
-    "word": "強化",
-    "Nep-meaning": "सुदृढीकरण"
-    },
-    {
-    "word": "意見",
-    "Nep-meaning": "राय"
-    },
-    {
-    "word": "伴う",
-    "Nep-meaning": "साथ दिनु"
-    },
-    {
-    "word": "新聞",
-    "Nep-meaning": "समाचारपत्र"
-    },
-    {
-    "word": "文章",
-    "Nep-meaning": "लेख"
-    },
-    {
-    "word": "目立つ",
-    "Nep-meaning": "देखिनु"
-    },
-    {
-    "word": "設計",
-    "Nep-meaning": "डिजाइन"
-    },
-    {
-    "word": "構造",
-    "Nep-meaning": "संरचना"
-    },
-    {
-    "word": "国会",
-    "Nep-meaning": "संसद"
-    },
-    {
-    "word": "ほぼ",
-    "Nep-meaning": "प्रायः"
-    },
-    {
-    "word": "相手",
-    "Nep-meaning": "विपक्षी"
-    },
-    {
-    "word": "発生",
-    "Nep-meaning": "उत्पन्न हुनु"
-    },
-    {
-    "word": "採用",
-    "Nep-meaning": "कार्यान्वयन गर्नु"
-    },
-    {
-    "word": "残る",
-    "Nep-meaning": "बाँकी रहनु"
-    },
-    {
-    "word": "段階",
-    "Nep-meaning": "चरण"
-    },
-    {
-    "word": "報告",
-    "Nep-meaning": "प्रतिवेदन"
-    },
-    {
-    "word": "商品",
-    "Nep-meaning": "वस्तु"
-    },
-    {
-    "word": "都市",
-    "Nep-meaning": "शहर"
-    },
-    {
-    "word": "病院",
-    "Nep-meaning": "अस्पताल"
-    },
-    {
-    "word": "規模",
-    "Nep-meaning": "आकार"
-    },
+[
     {
-    "word": "業者",
-    "Nep-meaning": "व्यवसायी"
+      "word": "技術",
+      "Nep-meaning": "कौशल, प्रविधि",
+      "sent-Nep": "उनीसँग धेरै उच्च प्रविधि छ।"
     },
     {
-    "word": "経験",
-    "Nep-meaning": "अनुभव"
+      "word": "まま",
+      "Nep-meaning": "जस्ताको तस्तै, अझै (वर्तमान अवस्थामा)",
+      "sent-Nep": "बत्ती अझै बालिएको छ।"
     },
     {
-    "word": "能力",
-    "Nep-meaning": "क्षमता"
+      "word": "完成",
+      "Nep-meaning": "सम्पन्नता, पूरा",
+      "sent-Nep": "नयाँ होमपेज पूरा भएको छ।"
     },
     {
-    "word": "最初",
-    "Nep-meaning": "सुरु"
+      "word": "変化",
+      "Nep-meaning": "परिवर्तन",
+      "sent-Nep": "यो वर्ष परिवर्तनले भरिएको थियो।"
     },
     {
-    "word": "国際",
-    "Nep-meaning": "अन्तर्राष्ट्रिय"
+      "word": "存在",
+      "Nep-meaning": "अस्तित्व",
+      "sent-Nep": "के तपाईलाई एलियन्सको अस्तित्वमा विश्वास छ?"
     },
     {
-    "word": "議員",
-    "Nep-meaning": "सांसद"
+      "word": "参加",
+      "Nep-meaning": "भाग लिने",
+      "sent-Nep": "भोलि म नागरिक म्याराथनमा भाग लिन्छु।"
     },
     {
-    "word": "記者",
-    "Nep-meaning": "पत्रकार"
+      "word": "テレビ",
+      "Nep-meaning": "टेलिभिजन",
+      "sent-Nep": "म धेरै टेलिभिजन हेर्दिन।"
     },
     {
-    "word": "場所",
-    "Nep-meaning": "स्थान"
+      "word": "土地",
+      "Nep-meaning": "जमीन",
+      "sent-Nep": "यो मेरो बाबुको जमीन हो।"
     },
     {
-    "word": "運動",
-    "Nep-meaning": "आन्दोलन"
+      "word": "減る",
+      "Nep-meaning": "घट्नु",
+      "sent-Nep": "मेरो तौल धेरै घट्यो।"
     },
     {
-    "word": "サービス",
-    "Nep-meaning": "सेवा"
+      "word": "検討",
+      "Nep-meaning": "विचार, निरीक्षण",
+      "sent-Nep": "कृपया आज यो समस्याको निरीक्षण गर्नुहोस्।"
     },
     {
-    "word": "集まる",
-    "Nep-meaning": "भेला हुनु"
+      "word": "政治",
+      "Nep-meaning": "राजनीति",
+      "sent-Nep": "म राजनीतिमा रुचि राख्छु।"
     },
     {
-    "word": "政策",
-    "Nep-meaning": "नीति"
+      "word": "実施",
+      "Nep-meaning": "कार्यान्वयन",
+      "sent-Nep": "हाल, विशेष अभियान चलिरहेको छ।"
     },
     {
-    "word": "車",
-    "Nep-meaning": "गाडी"
+      "word": "開始",
+      "Nep-meaning": "सुरुआत",
+      "sent-Nep": "खेल प्रतियोगिता ९ बजे सुरु हुनेछ।"
     },
     {
-    "word": "拡大",
-    "Nep-meaning": "विस्तार"
+      "word": "備える",
+      "Nep-meaning": "तयार गर्नु, सुसज्जित गर्नु",
+      "sent-Nep": "मैले विपदका लागि धेरै पानी किनें।"
     },
     {
-    "word": "進む",
-    "Nep-meaning": "अगाडि बढ्नु"
+      "word": "輸入",
+      "Nep-meaning": "आयात",
+      "sent-Nep": "यो इटालीबाट आयात गरिएको कपडा हो।"
     },
     {
-    "word": "達する",
-    "Nep-meaning": "पुग्नु"
+      "word": "最大",
+      "Nep-meaning": "सबैभन्दा ठूलो",
+      "sent-Nep": "यो विश्वको सबैभन्दा ठूलो जहाज हो।"
     },
     {
-    "word": "会議",
-    "Nep-meaning": "बैठक"
+      "word": "競争",
+      "Nep-meaning": "प्रतिस्पर्धा",
+      "sent-Nep": "दुई कम्पनीहरु एक आपसमा प्रतिस्पर्धा गरिरहेका छन्।"
     },
     {
-    "word": "装置",
-    "Nep-meaning": "उपकरण"
+      "word": "部分",
+      "Nep-meaning": "भाग",
+      "sent-Nep": "यो भागमा कुनै समस्या छैन।"
     },
     {
-    "word": "主張",
-    "Nep-meaning": "दावी"
+      "word": "消える",
+      "Nep-meaning": "अलप हुनु",
+      "sent-Nep": "अचानक बत्ती हरायो।"
     },
     {
-    "word": "記録",
-    "Nep-meaning": "रेकर्ड"
+      "word": "家族",
+      "Nep-meaning": "परिवार",
+      "sent-Nep": "हाम्रो परिवारमा पाँच जना छन्।"
     },
     {
-    "word": "年度",
-    "Nep-meaning": "वार्षिक"
+      "word": "内容",
+      "Nep-meaning": "सामग्री",
+      "sent-Nep": "कृपया यस किताबको सामग्रीको व्याख्या गर्नुहोस्।"
     },
     {
-    "word": "産業",
-    "Nep-meaning": "उद्योग"
+      "word": "比べる",
+      "Nep-meaning": "तुलना गर्नु",
+      "sent-Nep": "मैले यस महिना र गत महिनाको बिक्री तुलना गरें।"
     },
     {
-    "word": "背景",
-    "Nep-meaning": "पृष्ठभूमि"
+      "word": "生まれる",
+      "Nep-meaning": "जन्मिनु",
+      "sent-Nep": "मेरो दिदी-भिनाजुलाई छोरो जन्मिएको छ।"
     },
     {
-    "word": "材料",
-    "Nep-meaning": "सामग्री"
+      "word": "与える",
+      "Nep-meaning": "दिनु",
+      "sent-Nep": "त्यो समाचारले उनलाई ठूलो धक्का दियो।"
     },
     {
-    "word": "要求",
-    "Nep-meaning": "माग"
+      "word": "選挙",
+      "Nep-meaning": "चुनाव",
+      "sent-Nep": "उनी चुनावमा उत्रन चाहन्छन्।"
     },
     {
-    "word": "市民",
-    "Nep-meaning": "नागरिक"
+      "word": "対立",
+      "Nep-meaning": "विरोध",
+      "sent-Nep": "ती दुई कम्पनीहरु एक आपसमा विरोध गरिरहेका छन्।"
     },
     {
-    "word": "世紀",
-    "Nep-meaning": "शताब्दी"
+      "word": "理由",
+      "Nep-meaning": "कारण",
+      "sent-Nep": "तपाईं ढिलो हुनुको कारण बताउनुहोस्।"
     },
     {
-    "word": "大幅",
-    "Nep-meaning": "ठूलो"
+      "word": "構成",
+      "Nep-meaning": "संरचना",
+      "sent-Nep": "मैले सिस्टमको संरचना परिवर्तन गरें।"
     },
     {
-    "word": "加工",
-    "Nep-meaning": "प्रशोधन"
+      "word": "管理",
+      "Nep-meaning": "व्यवस्थापन",
+      "sent-Nep": "उनले मेरो तालिका व्यवस्थापन गर्छिन्।"
     },
     {
-    "word": "実行",
-    "Nep-meaning": "कार्यान्वयन"
+      "word": "増加",
+      "Nep-meaning": "बृद्धि",
+      "sent-Nep": "टापुको जनसंख्या हरेक वर्ष बढिरहेको छ।"
     },
     {
-    "word": "判断",
-    "Nep-meaning": "निर्णय"
+      "word": "改革",
+      "Nep-meaning": "सुधार",
+      "sent-Nep": "उनी प्रशासनमा सुधार ल्याउन चाहन्छन्।"
     },
     {
-    "word": "組織",
-    "Nep-meaning": "संगठन"
+      "word": "会談",
+      "Nep-meaning": "बातचीत",
+      "sent-Nep": "बातचीतको सामग्री सार्वजनिक गरियो।"
     },
     {
-    "word": "輸出",
-    "Nep-meaning": "निर्यात"
+      "word": "会長",
+      "Nep-meaning": "अध्यक्ष",
+      "sent-Nep": "पहिले अध्यक्षले अभिवादन गरे।"
     },
     {
-    "word": "警察",
-    "Nep-meaning": "प्रहरी"
+      "word": "ソフト",
+      "Nep-meaning": "सफ्टवेयर",
+      "sent-Nep": "यस सफ्टवेयरबाट तपाई जापानी भाषा सिक्न सक्नुहुन्छ।"
     },
     {
-    "word": "伝える",
-    "Nep-meaning": "सम्प्रेषण गर्नु"
+      "word": "提供",
+      "Nep-meaning": "प्रदान",
+      "sent-Nep": "उहाँले पार्टीको स्थल प्रदान गर्नुभयो।"
     },
     {
-    "word": "公開",
-    "Nep-meaning": "सार्वजनिक गर्नु"
+      "word": "ただ",
+      "Nep-meaning": "मुफ्त",
+      "sent-Nep": "यो तातो पानी स्नान स्थल निःशुल्क हो।"
     },
     {
-    "word": "向かう",
-    "Nep-meaning": "जानु"
+      "word": "これら",
+      "Nep-meaning": "यी",
+      "sent-Nep": "आज हामी यी समस्याहरूको बारेमा छलफल गर्छौं।"
     },
     {
-    "word": "直す",
-    "Nep-meaning": "सच्चाउनु"
+      "word": "広がる",
+      "Nep-meaning": "फैलिनु",
+      "sent-Nep": "विदेश अध्ययन गरेपछि मेरो संसार फैलियो।"
     },
     {
-    "word": "具体的",
-    "Nep-meaning": "वास्तविक"
+      "word": "特徴",
+      "Nep-meaning": "विशेषता",
+      "sent-Nep": "यो कारको विशेषता यस कर्भ हो।"
     },
     {
-    "word": "願う",
-    "Nep-meaning": "इच्छा गर्नु"
+      "word": "調べる",
+      "Nep-meaning": "जाँच गर्नु",
+      "sent-Nep": "यस शब्दको अर्थ शब्दकोशमा जाँचौं।"
     },
     {
-    "word": "グループ",
-    "Nep-meaning": "समूह"
+      "word": "強調",
+      "Nep-meaning": "जोर दिनु",
+      "sent-Nep": "उनीले राम्रो पक्ष मात्र जोर दिए।"
     },
     {
-    "word": "個人",
-    "Nep-meaning": "व्यक्ति"
+      "word": "制度",
+      "Nep-meaning": "प्रणाली",
+      "sent-Nep": "अर्को वर्षदेखि नयाँ प्रणाली सुरु हुनेछ।"
     },
     {
-    "word": "基づく",
-    "Nep-meaning": "आधारित हुनु"
+      "word": "方針",
+      "Nep-meaning": "नीति",
+      "sent-Nep": "अर्को कदमको नीति निर्णय गरियो।"
     },
     {
-    "word": "全く",
-    "Nep-meaning": "पूर्ण रूपले"
+      "word": "従来",
+      "Nep-meaning": "पूर्व, पुरानो",
+      "sent-Nep": "यो प्रिन्टर पूर्वको भन्दा छिटो छ।"
     },
     {
-    "word": "見方",
-    "Nep-meaning": "दृष्टिकोण"
+      "word": "いずれ",
+      "Nep-meaning": "अन्ततः",
+      "sent-Nep": "अन्ततः फेरि भेटौँ।"
     },
     {
-    "word": "姿勢",
-    "Nep-meaning": "मुद्रा"
+      "word": "事故",
+      "Nep-meaning": "दुर्घटना",
+      "sent-Nep": "उनी दुर्घटनामा घाइते भए।"
     },
     {
-    "word": "協力",
-    "Nep-meaning": "सहयोग"
+      "word": "電話",
+      "Nep-meaning": "फोन",
+      "sent-Nep": "पछि फोन गर्छु।"
     },
     {
-    "word": "担当",
-    "Nep-meaning": "जिम्मेवारी"
+      "word": "外国",
+      "Nep-meaning": "विदेश",
+      "sent-Nep": "ममीले अझै विदेशमा यात्रा गर्नुभएको छैन।"
     },
     {
-    "word": "提案",
-    "Nep-meaning": "प्रस्ताव"
+      "word": "目的",
+      "Nep-meaning": "उद्देश्य",
+      "sent-Nep": "उनी किन आएका हुन् थाहा भएन।"
     },
     {
-    "word": "最後",
-    "Nep-meaning": "अन्तिम"
-    }, 
-    {
-    "word": "招く",
-    "Nep-meaning": "बोलाउनु"
-    },
-    {
-    "word": "ホテル",
-    "Nep-meaning": "होटल"
-    },
-    {
-    "word": "再び",
-    "Nep-meaning": "फेरि"
-    },
-    {
-    "word": "上昇",
-    "Nep-meaning": "वृद्धि"
-    },
-    {
-    "word": "機械",
-    "Nep-meaning": "मेशिन"
-    },
-    {
-    "word": "注目",
-    "Nep-meaning": "ध्यान दिनु"
-    },
-    {
-    "word": "過去",
-    "Nep-meaning": "बितेको"
-    },
-    {
-    "word": "作品",
-    "Nep-meaning": "कृति"
-    },
-    {
-    "word": "直接",
-    "Nep-meaning": "प्रत्यक्ष"
-    },
-    {
-    "word": "批判",
-    "Nep-meaning": "आलोचना"
-    },
-    {
-    "word": "文化",
-    "Nep-meaning": "संस्कृति"
-    },
-    {
-    "word": "施設",
-    "Nep-meaning": "सुविधा"
-    },
-    {
-    "word": "成功",
-    "Nep-meaning": "सफलता"
-    },
-    {
-    "word": "実際",
-    "Nep-meaning": "वास्तविक रूपमा"
-    },
-    {
-    "word": "当然",
-    "Nep-meaning": "स्वभाविक रूपमा"
-    },
-    {
-    "word": "年間",
-    "Nep-meaning": "वार्षिक"
-    },
-    {
-    "word": "簡単",
-    "Nep-meaning": "सरल"
-    },
-    {
-    "word": "迫る",
-    "Nep-meaning": "नजिकिनु"
-    },
-    {
-    "word": "まとめる",
-    "Nep-meaning": "संक्षेप गर्नु"
-    },
-    {
-    "word": "占める",
-    "Nep-meaning": "ओगट्नु"
-    },
-    {
-    "word": "残す",
-    "Nep-meaning": "छोड्नु"
-    },
-    {
-    "word": "言語",
-    "Nep-meaning": "भाषा"
-    },
-    {
-    "word": "教育",
-    "Nep-meaning": "शिक्षा"
-    },
-    {
-    "word": "他",
-    "Nep-meaning": "अरू"
-    },
-    {
-    "word": "取引",
-    "Nep-meaning": "कारोबार"
-    },
-    {
-    "word": "自動車",
-    "Nep-meaning": "गाडी"
-    },
-    {
-    "word": "反対",
-    "Nep-meaning": "विरोध"
-    },
-    {
-    "word": "若者",
-    "Nep-meaning": "युवा"
-    },
-    {
-    "word": "分",
-    "Nep-meaning": "भाग"
-    },
-    {
-    "word": "課題",
-    "Nep-meaning": "कार्य"
-    },
-    {
-    "word": "通常",
-    "Nep-meaning": "सामान्यतया"
-    },
-    {
-    "word": "同様",
-    "Nep-meaning": "समान रूपमा"
-    },
-    {
-    "word": "程度",
-    "Nep-meaning": "हदसम्म"
-    },
-    {
-    "word": "当たる",
-    "Nep-meaning": "लाग्नु"
-    },
-    {
-    "word": "訴える",
-    "Nep-meaning": "दावी गर्नु"
-    },
-    {
-    "word": "事情",
-    "Nep-meaning": "परिस्थिति"
-    },
-    {
-    "word": "発言",
-    "Nep-meaning": "भनाइ"
-    },
-    {
-    "word": "傾向",
-    "Nep-meaning": "प्रवृत्ति"
-    },
-    {
-    "word": "開催",
-    "Nep-meaning": "आयोजना गर्नु"
-    },
-    {
-    "word": "文字",
-    "Nep-meaning": "लिपि"
-    },
-    {
-    "word": "子",
-    "Nep-meaning": "बच्चा"
-    },
-    {
-    "word": "述べる",
-    "Nep-meaning": "बताउनु"
-    },
-    {
-    "word": "活動",
-    "Nep-meaning": "गतिविधि"
-    },
-    {
-    "word": "期間",
-    "Nep-meaning": "अवधि"
-    },
-    {
-    "word": "一定",
-    "Nep-meaning": "निश्चित"
-    },
-    {
-    "word": "住民",
-    "Nep-meaning": "बासिन्दा"
-    },
-    {
-    "word": "届く",
-    "Nep-meaning": "पुग्नु"
-    },
-    {
-    "word": "やはり",
-    "Nep-meaning": "फेरि पनि"
-    },
-    {
-    "word": "効果",
-    "Nep-meaning": "प्रभाव"
-    },
-    {
-    "word": "状況",
-    "Nep-meaning": "अवस्था"
+      "word": "自由",
+      "Nep-meaning": "स्वतन्त्रता",
+      "sent-Nep": "आज मसँग धेरै स्वतन्त्र समय छ।"
     },
     {
-    "word": "確認",
-    "Nep-meaning": "पुष्टि गर्नु"
+      "word": "資金",
+      "Nep-meaning": "पुँजी",
+      "sent-Nep": "हामी अहिले विवाहको पुँजी बचाइरहेका छौं।"
     },
     {
-    "word": "位置",
-    "Nep-meaning": "स्थान"
+      "word": "銀行",
+      "Nep-meaning": "बैंक",
+      "sent-Nep": "बैंक तीन बजेसम्म खुला हुन्छ।"
     },
     {
-    "word": "はっきり",
-    "Nep-meaning": "स्पष्ट रूपमा"
-    }, 
-    {
-    "word": "つまり",
-    "Nep-meaning": "अर्थात्"
-    },
-    {
-    "word": "通過",
-    "Nep-meaning": "पारित हुनु"
-    },
-    {
-    "word": "深い",
-    "Nep-meaning": "गहिरो"
-    },
-    {
-    "word": "候補",
-    "Nep-meaning": "उम्मेदवार"
-    },
-    {
-    "word": "選手",
-    "Nep-meaning": "खेलाडी"
-    },
-    {
-    "word": "音",
-    "Nep-meaning": "आवाज"
-    },
-    {
-    "word": "大会",
-    "Nep-meaning": "प्रतियोगिता"
-    },
-    {
-    "word": "基本",
-    "Nep-meaning": "मूलभूत"
-    },
-    {
-    "word": "契約",
-    "Nep-meaning": "सम्झौता"
-    },
-    {
-    "word": "発見",
-    "Nep-meaning": "पत्ता लगाउनु"
-    },
-    {
-    "word": "当時",
-    "Nep-meaning": "त्यसबेला"
-    },
-    {
-    "word": "自宅",
-    "Nep-meaning": "घर"
-    },
-    {
-    "word": "空気",
-    "Nep-meaning": "हावा"
-    },
-    {
-    "word": "設ける",
-    "Nep-meaning": "स्थापना गर्नु"
-    },
-    {
-    "word": "歴史",
-    "Nep-meaning": "इतिहास"
-    },
-    {
-    "word": "各国",
-    "Nep-meaning": "प्रत्येक देश"
-    },
-    {
-    "word": "特に",
-    "Nep-meaning": "विशेषगरी"
-    },
-    {
-    "word": "実験",
-    "Nep-meaning": "प्रयोग"
-    },
-    {
-    "word": "訪れる",
-    "Nep-meaning": "भ्रमण गर्नु"
-    },
-    {
-    "word": "建物",
-    "Nep-meaning": "भवन"
-    },
-    {
-    "word": "ビル",
-    "Nep-meaning": "भवन"
-    },
-    {
-    "word": "彼ら",
-    "Nep-meaning": "तिनीहरू"
-    },
-    {
-    "word": "少年",
-    "Nep-meaning": "किशोर"
-    },
-    {
-    "word": "諸国",
-    "Nep-meaning": "विभिन्न देशहरू"
-    },
-    {
-    "word": "もちろん",
-    "Nep-meaning": "निश्चय नै"
+      "word": "事実",
+      "Nep-meaning": "वास्तविकता",
+      "sent-Nep": "के यी सबै वास्तविकता हुन्?"
     },
     {
-    "word": "事務所",
-    "Nep-meaning": "कार्यालय"
+      "word": "決定",
+      "Nep-meaning": "निर्णय",
+      "sent-Nep": "बैठकमा महत्वपूर्ण निर्णय भयो।"
     },
     {
-    "word": "責任",
-    "Nep-meaning": "जिम्मेवारी"
+      "word": "方向",
+      "Nep-meaning": "दिशा",
+      "sent-Nep": "तिनीहरू सबै एउटै दिशातिर हेर्दै छन्।"
     },
     {
-    "word": "かつて",
-    "Nep-meaning": "पहिले"
+      "word": "住宅",
+      "Nep-meaning": "आवास",
+      "sent-Nep": "यो शान्त आवासीय क्षेत्र हो।"
     },
     {
-    "word": "限る",
-    "Nep-meaning": "सीमित हुनु"
+      "word": "代表",
+      "Nep-meaning": "प्रतिनिधि",
+      "sent-Nep": "उनी कक्षाको प्रतिनिधि हुन्।"
     },
     {
-    "word": "海外",
-    "Nep-meaning": "विदेश"
+      "word": "激しい",
+      "Nep-meaning": "तीव्र",
+      "sent-Nep": "तीव्र वर्षा भइरहेको छ।"
     },
     {
-    "word": "条件",
-    "Nep-meaning": "शर्त"
+      "word": "株",
+      "Nep-meaning": "सेयर",
+      "sent-Nep": "म हालसालै सेयर बजारमा सहभागी भएको छु।"
     },
     {
-    "word": "家庭",
-    "Nep-meaning": "घरपरिवार"
+      "word": "交渉",
+      "Nep-meaning": "मोलतोल",
+      "sent-Nep": "हामी मूल्यमा मोलतोल गर्दैछौं।"
     },
     {
-    "word": "教授",
-    "Nep-meaning": "प्राध्यापक"
+      "word": "結果",
+      "Nep-meaning": "नतिजा",
+      "sent-Nep": "म खेलको नतिजा चाँडै जान्न चाहन्छु।"
     },
     {
-    "word": "人口",
-    "Nep-meaning": "जनसङ्ख्या"
+      "word": "全体",
+      "Nep-meaning": "सम्पूर्ण",
+      "sent-Nep": "सम्पूर्णको ८० प्रतिशत पूरा भयो।"
     },
     {
-    "word": "海",
-    "Nep-meaning": "समुद्र"
+      "word": "後",
+      "Nep-meaning": "पछि",
+      "sent-Nep": "पछि उनी प्रधानमन्त्री भए।"
     },
     {
-    "word": "基準",
-    "Nep-meaning": "मापदण्ड"
+      "word": "命令",
+      "Nep-meaning": "आदेश",
+      "sent-Nep": "उनले आदेश पालना गरेनन्।"
     },
     {
-    "word": "攻撃",
-    "Nep-meaning": "आक्रमण"
+      "word": "十分",
+      "Nep-meaning": "पर्याप्त",
+      "sent-Nep": "हामीसँग अझै पर्याप्त पैसा छ।"
     },
     {
-    "word": "時代",
-    "Nep-meaning": "युग"
+      "word": "あまり",
+      "Nep-meaning": "धेरै (असकारात्मकमा)",
+      "sent-Nep": "यो बियर धेरै स्वादिलो छैन।"
     },
     {
-    "word": "時期",
-    "Nep-meaning": "समय"
+      "word": "経営",
+      "Nep-meaning": "व्यवस्थापन",
+      "sent-Nep": "हाम्रो कम्पनीको व्यवस्थापन राम्रो छ।"
     },
     {
-    "word": "製造",
-    "Nep-meaning": "निर्माण"
+      "word": "原因",
+      "Nep-meaning": "कारण",
+      "sent-Nep": "यस दुर्घटनाको कारण के हो?"
     },
     {
-    "word": "大型",
-    "Nep-meaning": "ठूलो"
+      "word": "写真",
+      "Nep-meaning": "फोटो",
+      "sent-Nep": "फोटो राम्रो सम्झना हुन्छ।"
     },
     {
-    "word": "周辺",
-    "Nep-meaning": "वरिपरी"
+      "word": "立場",
+      "Nep-meaning": "अवस्था",
+      "sent-Nep": "उनी आफ्नो अवस्था बुझ्दिनन्।"
     },
     {
-    "word": "異なる",
-    "Nep-meaning": "फरक"
+      "word": "対策",
+      "Nep-meaning": "उपाय",
+      "sent-Nep": "सँगै उपाय सोचौं।"
     },
     {
-    "word": "逮捕",
-    "Nep-meaning": "पक्राउ"
+      "word": "繰り返す",
+      "Nep-meaning": "पुन: गर्नु",
+      "sent-Nep": "उनले एउटै गल्ती पुन: गरे।"
     },
     {
-    "word": "関連",
-    "Nep-meaning": "सम्बन्धित"
+      "word": "評価",
+      "Nep-meaning": "मूल्यांकन",
+      "sent-Nep": "हालसालै, उनको मूल्यांकन बढेको छ।"
     },
     {
-    "word": "貿易",
-    "Nep-meaning": "व्यापार"
+      "word": "なお",
+      "Nep-meaning": "अझै पनि",
+      "sent-Nep": "अझै पनि, वर्षा भएमा रद्द हुनेछ।"
     },
     {
-    "word": "社員",
-    "Nep-meaning": "कर्मचारी"
+      "word": "計算",
+      "Nep-meaning": "गणना",
+      "sent-Nep": "त्यो गणना गलत छ।"
     },
     {
-    "word": "結合",
-    "Nep-meaning": "मिलन"
+      "word": "投資",
+      "Nep-meaning": "लगानी",
+      "sent-Nep": "मैले चार कम्पनीमा लगानी गरेको छु।"
     },
     {
-    "word": "自然",
-    "Nep-meaning": "प्रकृति"
+      "word": "可能",
+      "Nep-meaning": "सम्भव",
+      "sent-Nep": "के २० किलो वजन घटाउन सम्भव छ?"
     },
     {
-    "word": "スポーツ",
-    "Nep-meaning": "खेलकुद"
+      "word": "加える",
+      "Nep-meaning": "थप्नु",
+      "sent-Nep": "नून र खुर्सानी थप्नुहोस्।"
     },
     {
-    "word": "患者",
-    "Nep-meaning": "बिरामी"
-    }, 
-    {
-    "word": "なぜ",
-    "Nep-meaning": "किन"
-    },
-    {
-    "word": "映画",
-    "Nep-meaning": "चलचित्र"
-    },
-    {
-    "word": "並ぶ",
-    "Nep-meaning": "लाइन बस्नु"
-    },
-    {
-    "word": "生徒",
-    "Nep-meaning": "विद्यार्थी"
-    },
-    {
-    "word": "そのまま",
-    "Nep-meaning": "यस्तै"
-    },
-    {
-    "word": "今度",
-    "Nep-meaning": "यस पटक"
-    },
-    {
-    "word": "分ける",
-    "Nep-meaning": "विभाजन गर्नु"
-    },
-    {
-    "word": "運ぶ",
-    "Nep-meaning": "ओसार्नु"
-    },
-    {
-    "word": "複雑",
-    "Nep-meaning": "जटिल"
-    },
-    {
-    "word": "回る",
-    "Nep-meaning": "घुम्नु"
-    },
-    {
-    "word": "高校",
-    "Nep-meaning": "माध्यमिक विद्यालय"
-    },
-    {
-    "word": "工事",
-    "Nep-meaning": "निर्माण कार्य"
-    },
-    {
-    "word": "毎日",
-    "Nep-meaning": "दैनिक"
+      "word": "種類",
+      "Nep-meaning": "प्रकार",
+      "sent-Nep": "गुलाबमा विभिन्न प्रकारहरू छन्।"
     },
     {
-    "word": "帰国",
-    "Nep-meaning": "स्वदेश फर्कनु"
+      "word": "強化",
+      "Nep-meaning": "मजबुती",
+      "sent-Nep": "देशले भाषा शिक्षालाई मजबुत बनाइरहेको छ।"
     },
     {
-    "word": "雨",
-    "Nep-meaning": "वर्षा"
+      "word": "意見",
+      "Nep-meaning": "राय",
+      "sent-Nep": "म तपाईंको राय सुन्न चाहन्छु।"
     },
     {
-    "word": "経つ",
-    "Nep-meaning": "बित्नु"
+      "word": "伴う",
+      "Nep-meaning": "साथमा",
+      "sent-Nep": "त्यो कामले जोखिम साथमा लिन्छ।"
     },
     {
-    "word": "花",
-    "Nep-meaning": "फूल"
+      "word": "新聞",
+      "Nep-meaning": "समाचारपत्र",
+      "sent-Nep": "आजको समाचारपत्र कहाँ राखेको?"
     },
     {
-    "word": "出席",
-    "Nep-meaning": "उपस्थिति"
+      "word": "文章",
+      "Nep-meaning": "लेख",
+      "sent-Nep": "उहाँको लेख राम्रो छ।"
     },
     {
-    "word": "外国人",
-    "Nep-meaning": "विदेशी"
+      "word": "目立つ",
+      "Nep-meaning": "प्रमुख हुनु",
+      "sent-Nep": "उनीहरुको ठूलो टोपी निकै प्रमुख छ।"
     },
     {
-    "word": "道路",
-    "Nep-meaning": "सडक"
+      "word": "設計",
+      "Nep-meaning": "डिजाइन",
+      "sent-Nep": "मेरा दाजु जहाजको डिजाइन गर्छन्।"
     },
     {
-    "word": "地球",
-    "Nep-meaning": "पृथ्वी"
+      "word": "構造",
+      "Nep-meaning": "संरचना",
+      "sent-Nep": "यो भवनको संरचना जटिल छ।"
     },
     {
-    "word": "英語",
-    "Nep-meaning": "अंग्रेजी"
+      "word": "国会",
+      "Nep-meaning": "संसद",
+      "sent-Nep": "संसद पुनः सुरु भयो।"
     },
     {
-    "word": "危険",
-    "Nep-meaning": "खतरा"
+      "word": "ほぼ",
+      "Nep-meaning": "लगभग",
+      "sent-Nep": "काम लगभग समाप्त भयो।"
     },
     {
-    "word": "普通",
-    "Nep-meaning": "सामान्य"
+      "word": "相手",
+      "Nep-meaning": "प्रतिद्वन्द्वी",
+      "sent-Nep": "खेलको प्रतिद्वन्द्वी को हुन्?"
     },
     {
-    "word": "説明",
-    "Nep-meaning": "व्याख्या"
+      "word": "発生",
+      "Nep-meaning": "घटना",
+      "sent-Nep": "चोकमा दुर्घटना भयो।"
     },
     {
-    "word": "半分",
-    "Nep-meaning": "आधा"
+      "word": "採用",
+      "Nep-meaning": "रोजगारी",
+      "sent-Nep": "त्यो कम्पनीले धेरै महिलाहरुलाई रोजगारी दिँदैछ।"
     },
     {
-    "word": "注意",
-    "Nep-meaning": "ध्यान"
+      "word": "残る",
+      "Nep-meaning": "बाँकी रहनु",
+      "sent-Nep": "धेरै खाना बाँकी रह्यो।"
     },
     {
-    "word": "安全",
-    "Nep-meaning": "सुरक्षा"
+      "word": "段階",
+      "Nep-meaning": "चरण",
+      "sent-Nep": "यो चरणमा, निर्णय लिनु पहिले छ।"
     },
     {
-    "word": "手紙",
-    "Nep-meaning": "पत्र"
+      "word": "報告",
+      "Nep-meaning": "प्रतिवेदन",
+      "sent-Nep": "हिजोको बैठकको बारेमा प्रतिवेदन छ।"
     },
     {
-    "word": "努力",
-    "Nep-meaning": "प्रयास"
+      "word": "商品",
+      "Nep-meaning": "सामान",
+      "sent-Nep": "यो सामान राम्रोसँग बेचिँदैछ।"
     },
     {
-    "word": "手術",
-    "Nep-meaning": "शल्यक्रिया"
+      "word": "都市",
+      "Nep-meaning": "शहर",
+      "sent-Nep": "टोकियो जापानको सबैभन्दा ठूलो शहर हो।"
     },
     {
-    "word": "準備",
-    "Nep-meaning": "तयारी"
+      "word": "病院",
+      "Nep-meaning": "अस्पताल",
+      "sent-Nep": "अस्पताल कहाँ छ?"
     },
     {
-    "word": "守る",
-    "Nep-meaning": "पालन गर्नु"
+      "word": "規模",
+      "Nep-meaning": "आकार वा क्षमता",
+      "sent-Nep": "यो चिडियाखाना जापानको सबैभन्दा ठूलो आकार को हो।"
     },
     {
-    "word": "驚く",
-    "Nep-meaning": "छक्क पर्नु"
+      "word": "業者",
+      "Nep-meaning": "व्यवसायी",
+      "sent-Nep": "मैले व्यवसायीलाई स्थानान्तरणको लागि सोधें।"
     },
     {
-    "word": "地震",
-    "Nep-meaning": "भूकम्प"
+      "word": "経験",
+      "Nep-meaning": "अनुभव",
+      "sent-Nep": "आजको खेल राम्रो अनुभव भयो।"
     },
     {
-    "word": "話し合う",
-    "Nep-meaning": "छलफल गर्नु"
+      "word": "能力",
+      "Nep-meaning": "क्षमता",
+      "sent-Nep": "उनी क्षमता भएको कर्मचारी हुन्।"
     },
     {
-    "word": "木",
-    "Nep-meaning": "रुख"
+      "word": "最初",
+      "Nep-meaning": "सुरु",
+      "sent-Nep": "५ पृष्ठको सुरु हेर्नुहोस्।"
     },
     {
-    "word": "許す",
-    "Nep-meaning": "अनुमति दिनु"
+      "word": "国際",
+      "Nep-meaning": "अन्तर्राष्ट्रिय",
+      "sent-Nep": "यहाँ अन्तर्राष्ट्रिय सम्मेलन हुनेछ।"
     },
     {
-    "word": "雪",
-    "Nep-meaning": "हिउँ"
+      "word": "議員",
+      "Nep-meaning": "सांसद",
+      "sent-Nep": "उनी सांसद हुन्।"
     },
     {
-    "word": "動物",
-    "Nep-meaning": "जनावर"
+      "word": "記者",
+      "Nep-meaning": "पत्रकार",
+      "sent-Nep": "उनी समाचारपत्रका पत्रकार हुन्।"
     },
     {
-    "word": "合う",
-    "Nep-meaning": "मिल्नु"
+      "word": "場所",
+      "Nep-meaning": "स्थान",
+      "sent-Nep": "कम्पनीको स्थान बताउनुहोस्।"
     },
     {
-    "word": "平和",
-    "Nep-meaning": "शान्ति"
+      "word": "運動",
+      "Nep-meaning": "व्यायाम",
+      "sent-Nep": "उनीले धेरै व्यायाम गर्नु पर्छ।"
     },
     {
-    "word": "非常に",
-    "Nep-meaning": "अत्यन्त"
+      "word": "サービス",
+      "Nep-meaning": "सेवा",
+      "sent-Nep": "यो पसलको सेवा राम्रो छ।"
     },
     {
-    "word": "遅れる",
-    "Nep-meaning": "ढिलो हुनु"
+      "word": "集まる",
+      "Nep-meaning": "भेला हुनु",
+      "sent-Nep": "स्टेशन अगाडि मानिसहरु भेला भएका छन्।"
     },
     {
-    "word": "もし",
-    "Nep-meaning": "यदि"
+      "word": "政策",
+      "Nep-meaning": "नीति",
+      "sent-Nep": "नयाँ नीति खासै राम्रो छैन।"
     },
     {
-    "word": "卒業",
-    "Nep-meaning": "स्नातक"
+      "word": "車",
+      "Nep-meaning": "कार",
+      "sent-Nep": "यो सडकमा धेरै कारहरु छन्।"
     },
     {
-    "word": "移る",
-    "Nep-meaning": "सर्नु"
+      "word": "拡大",
+      "Nep-meaning": "वृद्धि",
+      "sent-Nep": "यो चित्रको कपी बढाउनुहोस्।"
     },
     {
-    "word": "農業",
-    "Nep-meaning": "कृषि"
+      "word": "進む",
+      "Nep-meaning": "अगाडि बढ्नु",
+      "sent-Nep": "अगाडि बढ्नुहोस्।"
     },
     {
-    "word": "空港",
-    "Nep-meaning": "विमानस्थल"
+      "word": "達する",
+      "Nep-meaning": "पुग्नु",
+      "sent-Nep": "तापक्रम ३५ डिग्रीमा पुग्यो।"
     },
     {
-    "word": "珍しい",
-    "Nep-meaning": "दुर्लभ"
+      "word": "会議",
+      "Nep-meaning": "बैठक",
+      "sent-Nep": "आज दिउँसो महत्वपूर्ण बैठक छ।"
     },
     {
-    "word": "急ぐ",
-    "Nep-meaning": "चाँडो गर्नु"
+      "word": "装置",
+      "Nep-meaning": "उपकरण",
+      "sent-Nep": "प्रयोगमा यस उपकरणलाई प्रयोग गरिन्छ।"
     },
     {
-    "word": "つもり",
-    "Nep-meaning": "योजना"
-    }, 
-    {
-    "word": "必ず",
-    "Nep-meaning": "अवश्य"
-    },
-    {
-    "word": "数字",
-    "Nep-meaning": "अङ्क"
-    },
-    {
-    "word": "やっと",
-    "Nep-meaning": "अन्ततः"
-    },
-    {
-    "word": "旅行",
-    "Nep-meaning": "यात्रा"
-    },
-    {
-    "word": "音楽",
-    "Nep-meaning": "सङ्गीत"
-    },
-    {
-    "word": "川",
-    "Nep-meaning": "नदी"
-    },
-    {
-    "word": "例えば",
-    "Nep-meaning": "उदाहरणको लागि"
-    },
-    {
-    "word": "小学校",
-    "Nep-meaning": "प्राथमिक विद्यालय"
-    },
-    {
-    "word": "壁",
-    "Nep-meaning": "भित्ता"
-    },
-    {
-    "word": "流れる",
-    "Nep-meaning": "बग्नु"
-    },
-    {
-    "word": "夢",
-    "Nep-meaning": "सपना"
+      "word": "主張",
+      "Nep-meaning": "आग्रह, दावा, घोषणा, अभिवृत्ति, अडान",
+      "sent-Nep": "मेरे मालिकले मेरो अडान स्वीकार गरे।"
     },
     {
-    "word": "逃げる",
-    "Nep-meaning": "भाग्नु"
+      "word": "記録",
+      "Nep-meaning": "रेकार्ड",
+      "sent-Nep": "म्याराथनमा विश्व रेकार्ड बन्यो।"
     },
     {
-    "word": "過ぎる",
-    "Nep-meaning": "बित्नु"
+      "word": "年度",
+      "Nep-meaning": "वर्ष",
+      "sent-Nep": "बिक्री वर्ष अनुसार फरक हुन्छ।"
     },
     {
-    "word": "首都",
-    "Nep-meaning": "राजधानी"
+      "word": "産業",
+      "Nep-meaning": "उद्योग",
+      "sent-Nep": "जापानको कार उद्योग विश्वप्रसिद्ध छ।"
     },
     {
-    "word": "教師",
-    "Nep-meaning": "शिक्षक"
+      "word": "背景",
+      "Nep-meaning": "पृष्ठभूमि",
+      "sent-Nep": "घटनाको पृष्ठभूमिमा के थियो होला?"
     },
     {
-    "word": "相談",
-    "Nep-meaning": "परामर्श"
+      "word": "材料",
+      "Nep-meaning": "सामग्री",
+      "sent-Nep": "मैले सलादको सामग्री जुटाए।"
     },
     {
-    "word": "用意",
-    "Nep-meaning": "तयारी"
+      "word": "要求",
+      "Nep-meaning": "माग",
+      "sent-Nep": "उनीहरूले मेरो माग पूरा गरे।"
     },
     {
-    "word": "ニュース",
-    "Nep-meaning": "समाचार"
+      "word": "市民",
+      "Nep-meaning": "नागरिक",
+      "sent-Nep": "नागरिकको सुरक्षा महत्वपूर्ण छ।"
     },
     {
-    "word": "法律",
-    "Nep-meaning": "कानून"
+      "word": "世紀",
+      "Nep-meaning": "शताब्दी",
+      "sent-Nep": "यो नयाँ शताब्दीको सुरुवात हो।"
     },
     {
-    "word": "大変",
-    "Nep-meaning": "कठिन"
+      "word": "大幅",
+      "Nep-meaning": "धेरै नै, ठूलो हदसम्म",
+      "sent-Nep": "मैले योजनामा धेरै नै परिवर्तन गरें।"
     },
     {
-    "word": "戦争",
-    "Nep-meaning": "युद्ध"
+      "word": "加工",
+      "Nep-meaning": "प्रशोधन",
+      "sent-Nep": "यस कारखानामा माछाको प्रशोधन गरिन्छ।"
     },
     {
-    "word": "ずっと",
-    "Nep-meaning": "लामो समयदेखि"
+      "word": "実行",
+      "Nep-meaning": "कार्यान्वयन",
+      "sent-Nep": "उनीहरूले त्यो योजना कार्यान्वयन गरे।"
     },
     {
-    "word": "自然",
-    "Nep-meaning": "प्रकृति"
+      "word": "判断",
+      "Nep-meaning": "निर्णय",
+      "sent-Nep": "उनको निर्णय सही थियो।"
     },
     {
-    "word": "島",
-    "Nep-meaning": "टापु"
+      "word": "組織",
+      "Nep-meaning": "संगठन",
+      "sent-Nep": "उनी एउटा संगठनका नेता हुन्।"
     },
     {
-    "word": "窓",
-    "Nep-meaning": "झ्याल"
+      "word": "輸出",
+      "Nep-meaning": "निर्यात",
+      "sent-Nep": "उनको कम्पनीले कार निर्यात गर्दछ।"
     },
     {
-    "word": "考え",
-    "Nep-meaning": "विचार"
+      "word": "警察",
+      "Nep-meaning": "प्रहरी",
+      "sent-Nep": "प्रहरीलाई बोलाउनुहोस्।"
     },
     {
-    "word": "ビデオ",
-    "Nep-meaning": "भिडियो"
+      "word": "伝える",
+      "Nep-meaning": "सञ्चार गर्नु",
+      "sent-Nep": "सबैलाई यो कुरा जानकारी गराउनुहोस्।"
     },
     {
-    "word": "マンション",
-    "Nep-meaning": "अपार्टमेन्ट"
+      "word": "公開",
+      "Nep-meaning": "सार्वजनिक",
+      "sent-Nep": "त्यो चलचित्र आज सार्वजनिक भयो।"
     },
     {
-    "word": "健康",
-    "Nep-meaning": "स्वास्थ्य"
+      "word": "向かう",
+      "Nep-meaning": "तर्फ",
+      "sent-Nep": "म अहिले कम्पनीतर्फ जाँदैछु।"
     },
     {
-    "word": "通り",
-    "Nep-meaning": "सडक"
+      "word": "直す",
+      "Nep-meaning": "मर्मत गर्नु",
+      "sent-Nep": "मैले यसलाई मर्मत गरे।"
     },
     {
-    "word": "喜ぶ",
-    "Nep-meaning": "खुसी हुनु"
+      "word": "具体的",
+      "Nep-meaning": "विशिष्ट",
+      "sent-Nep": "केही विशिष्ट उदाहरणहरू देखाउनुहोस्।"
     },
     {
-    "word": "入院",
-    "Nep-meaning": "भर्ना हुनु"
+      "word": "願う",
+      "Nep-meaning": "कामना गर्नु",
+      "sent-Nep": "म उहाँको स्वास्थ्यको कामना गर्छु।"
     },
     {
-    "word": "増やす",
-    "Nep-meaning": "बढाउनु"
+      "word": "グループ",
+      "Nep-meaning": "समूह",
+      "sent-Nep": "दोकानमा विद्यार्थीहरूको समूह आयो।"
     },
     {
-    "word": "育てる",
-    "Nep-meaning": "हुर्काउनु"
+      "word": "個人",
+      "Nep-meaning": "व्यक्तिगत",
+      "sent-Nep": "यो मेरो व्यक्तिगत राय हो।"
     },
     {
-    "word": "温度",
-    "Nep-meaning": "तापक्रम"
+      "word": "基づく",
+      "Nep-meaning": "आधारित",
+      "sent-Nep": "यो कुरा सत्यमा आधारित छ।"
     },
     {
-    "word": "雑誌",
-    "Nep-meaning": "पत्रिका"
+      "word": "全く",
+      "Nep-meaning": "पूर्ण रूपमा",
+      "sent-Nep": "मलाई पूर्ण रूपमा थाहा छैन।"
     },
     {
-    "word": "私たち",
-    "Nep-meaning": "हामीहरू"
+      "word": "見方",
+      "Nep-meaning": "दृष्टिकोण",
+      "sent-Nep": "उनीप्रति मेरो दृष्टिकोण परिवर्तन भयो।"
     },
     {
-    "word": "食事",
-    "Nep-meaning": "खाना"
+      "word": "姿勢",
+      "Nep-meaning": "अवस्था",
+      "sent-Nep": "उनी सधैं गलत अवस्थामा बस्छिन्।"
     },
     {
-    "word": "風",
-    "Nep-meaning": "बतास"
+      "word": "協力",
+      "Nep-meaning": "सहयोग",
+      "sent-Nep": "यस परियोजनाका लागि सबैको सहयोग आवश्यक छ।"
     },
     {
-    "word": "早く",
-    "Nep-meaning": "छिटो"
+      "word": "担当",
+      "Nep-meaning": "प्रभारी",
+      "sent-Nep": "म बिक्रीको प्रभारी छु।"
     },
     {
-    "word": "明るい",
-    "Nep-meaning": "उज्यालो"
+      "word": "提案",
+      "Nep-meaning": "प्रस्ताव",
+      "sent-Nep": "त्यो आइडिया उनको प्रस्ताव हो।"
     },
     {
-    "word": "運転",
-    "Nep-meaning": "चलाउनु"
+      "word": "最後",
+      "Nep-meaning": "अन्तिम",
+      "sent-Nep": "आज गर्मी बिदाको अन्तिम दिन हो।"
     },
     {
-    "word": "しばらく",
-    "Nep-meaning": "केहीबेर"
+      "word": "招く",
+      "Nep-meaning": "आमन्त्रित गर्नु",
+      "sent-Nep": "मैले मेरा बाबुआमालाई खानामा आमन्त्रित गरे।"
     },
     {
-    "word": "高さ",
-    "Nep-meaning": "उचाइ"
+      "word": "ホテル",
+      "Nep-meaning": "होटल",
+      "sent-Nep": "म अहिले होटलमा पुगेको छु।"
     },
     {
-    "word": "借りる",
-    "Nep-meaning": "भाडामा लिनु"
+      "word": "再び",
+      "Nep-meaning": "फेरि",
+      "sent-Nep": "उनी फेरि यहाँ आए।"
     },
     {
-    "word": "放送",
-    "Nep-meaning": "प्रसारण"
+      "word": "上昇",
+      "Nep-meaning": "बृद्धि",
+      "sent-Nep": "पृथ्वीको तापक्रम बढिरहेको छ।"
     },
     {
-    "word": "就職",
-    "Nep-meaning": "रोजगारी"
+      "word": "機械",
+      "Nep-meaning": "मेशिन",
+      "sent-Nep": "नयाँ मेशिन बिग्रियो।"
     },
     {
-    "word": "大きさ",
-    "Nep-meaning": "आकार"
+      "word": "注目",
+      "Nep-meaning": "ध्यान",
+      "sent-Nep": "हामी त्यो कम्पनीमा ध्यान दिँदैछौं।"
     },
     {
-    "word": "困る",
-    "Nep-meaning": "अलमलिनु"
+      "word": "過去",
+      "Nep-meaning": "अतीत",
+      "sent-Nep": "त्यो अतीतको कुरा हो।"
     },
     {
-    "word": "通る",
-    "Nep-meaning": "जानु"
+      "word": "作品",
+      "Nep-meaning": "कृति",
+      "sent-Nep": "यो चित्र गोगको कृति हो।"
     },
     {
-    "word": "ガス",
-    "Nep-meaning": "ग्याँस"
+      "word": "直接",
+      "Nep-meaning": "प्रत्यक्ष",
+      "sent-Nep": "उनीसँग प्रत्यक्ष अनुरोध गर्नुहोस्।"
     },
     {
-    "word": "夫婦",
-    "Nep-meaning": "लोग्नेस्वास्नी"
-    }, 
-    {
-    "word": "立てる",
-    "Nep-meaning": "खडा गर्नु"
-    },
-    {
-    "word": "伸びる",
-    "Nep-meaning": "लम्बिनु"
+      "word": "批判",
+      "Nep-meaning": "आलोचना",
+      "sent-Nep": "उनीले आफ्नो सहकर्मीलाई आलोचना गरे।"
     },
     {
-    "word": "聞こえる",
-    "Nep-meaning": "सुन्नु"
+      "word": "文化",
+      "Nep-meaning": "संस्कृति",
+      "sent-Nep": "म यो देशको संस्कृति अध्ययन गर्दै छु।"
     },
     {
-    "word": "殺す",
-    "Nep-meaning": "मार्नु"
+      "word": "施設",
+      "Nep-meaning": "सुविधा",
+      "sent-Nep": "त्यो होटलमा धेरै मनोरञ्जन सुविधा छन्।"
     },
     {
-    "word": "静か",
-    "Nep-meaning": "शान्त"
+      "word": "成功",
+      "Nep-meaning": "सफलता",
+      "sent-Nep": "अन्ततः प्रयोग सफल भयो।"
     },
     {
-    "word": "分かれる",
-    "Nep-meaning": "विभाजित हुनु"
+      "word": "実際",
+      "Nep-meaning": "वास्तविकता",
+      "sent-Nep": "वास्तवमा उनी धेरै अग्लो छैनन्।"
     },
     {
-    "word": "詳しい",
-    "Nep-meaning": "विस्तृत"
+      "word": "当然",
+      "Nep-meaning": "स्वाभाविक",
+      "sent-Nep": "उनको रिसाउनु स्वाभाविक हो।"
     },
     {
-    "word": "正確",
-    "Nep-meaning": "सही"
+      "word": "年間",
+      "Nep-meaning": "वर्ष",
+      "sent-Nep": "हामीलाई वार्षिक ५०,००० मानिसहरू यहाँ आउँछन्।"
     },
     {
-    "word": "うまい",
-    "Nep-meaning": "मिठो"
+      "word": "簡単",
+      "Nep-meaning": "सरल",
+      "sent-Nep": "यो खाना धेरै सरल छ।"
     },
     {
-    "word": "打つ",
-    "Nep-meaning": "हान्नु"
+      "word": "迫る",
+      "Nep-meaning": "नजिकिनु",
+      "sent-Nep": "समाप्तिको समय नजिकिँदैछ।"
     },
     {
-    "word": "工業",
-    "Nep-meaning": "उद्योग"
+      "word": "まとめる",
+      "Nep-meaning": "संग्रह गर्नु",
+      "sent-Nep": "उनले आफ्नो सामानहरू सङ्कलन गरेर बाहिर गइन्।"
     },
     {
-    "word": "サラリーマン",
-    "Nep-meaning": "कर्मचारी"
+      "word": "占める",
+      "Nep-meaning": "धारण गर्नु",
+      "sent-Nep": "मलाई पठाइएका इमेलहरूको ७०% स्प्याम हुन्छन्।"
     },
     {
-    "word": "有名",
-    "Nep-meaning": "प्रसिद्ध"
+      "word": "残す",
+      "Nep-meaning": "छोड्नु",
+      "sent-Nep": "उनले सन्देश छोडेकी छन्।"
     },
     {
-    "word": "捨てる",
-    "Nep-meaning": "फ्याँक्नु"
+      "word": "言語",
+      "Nep-meaning": "भाषा",
+      "sent-Nep": "उनी एशियाका भाषाहरूको अध्ययन गर्दैछन्।"
     },
     {
-    "word": "移す",
-    "Nep-meaning": "सार्नु"
+      "word": "教育",
+      "Nep-meaning": "शिक्षा",
+      "sent-Nep": "उनले विदेशमा शिक्षा पाएका छन्।"
     },
     {
-    "word": "正しい",
-    "Nep-meaning": "सही"
+      "word": "他",
+      "Nep-meaning": "अरु",
+      "sent-Nep": "विद्यार्थीहरूको ७०% एशियाका छन्, र बाँकी अरु हुन्।"
     },
     {
-    "word": "売れる",
-    "Nep-meaning": "बिक्नु"
+      "word": "取引",
+      "Nep-meaning": "व्यापार",
+      "sent-Nep": "हामी चीनको कम्पनीसँग व्यापार गर्छौं।"
     },
     {
-    "word": "番組",
-    "Nep-meaning": "कार्यक्रम"
+      "word": "自動車",
+      "Nep-meaning": "गाडी",
+      "sent-Nep": "उनी गाडीको कम्पनीमा काम गर्छन्।"
     },
     {
-    "word": "代わる",
-    "Nep-meaning": "बदलिनु"
+      "word": "反対",
+      "Nep-meaning": "विरोध",
+      "sent-Nep": "म विरोधमा छु।"
     },
     {
-    "word": "着く",
-    "Nep-meaning": "पुग्नु"
+      "word": "若者",
+      "Nep-meaning": "युवा",
+      "sent-Nep": "हालसालका युवाहरू पुस्तक पढ्दैनन्।"
     },
     {
-    "word": "バス",
-    "Nep-meaning": "बस"
+      "word": "分",
+      "Nep-meaning": "भाग",
+      "sent-Nep": "यो केक तपाईंको भाग हो।"
     },
     {
-    "word": "中学",
-    "Nep-meaning": "मावि"
+      "word": "課題",
+      "Nep-meaning": "कार्य",
+      "sent-Nep": "गर्मी बिदाको कार्य के हो?"
     },
     {
-    "word": "歌",
-    "Nep-meaning": "गीत"
+      "word": "通常",
+      "Nep-meaning": "सामान्यतया",
+      "sent-Nep": "सामान्यतया, हामी राति ८ बजे सम्म खुल्छौं।"
     },
     {
-    "word": "薄い",
-    "Nep-meaning": "पातलो"
+      "word": "同様",
+      "Nep-meaning": "उस्तै",
+      "sent-Nep": "हामी उनलाई परिवार उस्तै मान्छौं।"
     },
     {
-    "word": "減らす",
-    "Nep-meaning": "घटाउनु"
+      "word": "程度",
+      "Nep-meaning": "स्तर",
+      "sent-Nep": "यो स्तरको चोट ठिक छ।"
     },
     {
-    "word": "科学",
-    "Nep-meaning": "विज्ञान"
+      "word": "当たる",
+      "Nep-meaning": "लाग्नु",
+      "sent-Nep": "बल उनको टाउकोमा लाग्यो।"
     },
     {
-    "word": "約束",
-    "Nep-meaning": "वाचा"
+      "word": "訴える",
+      "Nep-meaning": "मुद्दा गर्नु",
+      "sent-Nep": "उनले कम्पनीमाथि मुद्दा गरिन्।"
     },
     {
-    "word": "出発",
-    "Nep-meaning": "प्रस्थान"
+      "word": "事情",
+      "Nep-meaning": "परिस्थिति",
+      "sent-Nep": "मलाई तपाईंको परिस्थिति राम्रोसँग थाहा भयो।"
     },
     {
-    "word": "動かす",
-    "Nep-meaning": "चलाउनु"
+      "word": "発言",
+      "Nep-meaning": "बयान",
+      "sent-Nep": "बैठकमा सबैले बयान गरे।"
     },
     {
-    "word": "紹介",
-    "Nep-meaning": "परिचय"
+      "word": "傾向",
+      "Nep-meaning": "प्रवृत्ति",
+      "sent-Nep": "हालसालका युवाहरू कठिन किताबहरू पढ्दैनन्।"
     },
     {
-    "word": "倒れる",
-    "Nep-meaning": "लड्नु"
+      "word": "開催",
+      "Nep-meaning": "आयोजन",
+      "sent-Nep": "क्योटोमा अन्तर्राष्ट्रिय सम्मेलन आयोजना गरियो।"
     },
     {
-    "word": "席",
-    "Nep-meaning": "सिट"
+      "word": "文字",
+      "Nep-meaning": "अक्षर",
+      "sent-Nep": "भित्तामा अक्षर लेखिएको थियो।"
     },
     {
-    "word": "熱",
-    "Nep-meaning": "ज्वरो"
+      "word": "子",
+      "Nep-meaning": "बालक",
+      "sent-Nep": "त्यो बच्चाले जापानी भाषा बुझ्दैन।"
     },
     {
-    "word": "値段",
-    "Nep-meaning": "मूल्य"
+      "word": "述べる",
+      "Nep-meaning": "बयान गर्नु",
+      "sent-Nep": "मालिकले आफ्नो विचार बयान गरे।"
     },
     {
-    "word": "長さ",
-    "Nep-meaning": "लम्बाइ"
+      "word": "活動",
+      "Nep-meaning": "क्रियाकलाप",
+      "sent-Nep": "उनी क्षेत्रीय क्रियाकलापमा सहभागी भए।"
     },
     {
-    "word": "クラス",
-    "Nep-meaning": "कक्षा"
+      "word": "期間",
+      "Nep-meaning": "अवधि",
+      "sent-Nep": "परीक्षाको अवधि १० देखि १५ सम्म छ।"
     },
     {
-    "word": "隣",
-    "Nep-meaning": "छिमेकी"
+      "word": "一定",
+      "Nep-meaning": "निश्चित",
+      "sent-Nep": "आवेदन गर्न निश्चित योग्यताहरू आवश्यक छन्।"
     },
     {
-    "word": "トラック",
-    "Nep-meaning": "ट्रक"
+      "word": "住民",
+      "Nep-meaning": "बासिन्दाहरू",
+      "sent-Nep": "क्षेत्रीय बासिन्दाहरू भेला भएर छलफल गरे।"
     },
     {
-    "word": "大使館",
-    "Nep-meaning": "दूतावास"
+      "word": "届く",
+      "Nep-meaning": "पुग्नु",
+      "sent-Nep": "हिजो, मलाई पिताको पत्र पुग्यो।"
     },
     {
-    "word": "亡くなる",
-    "Nep-meaning": "मृत्यु हुनु"
+      "word": "やはり",
+      "Nep-meaning": "जसरी अपेक्षा गरिएको थियो",
+      "sent-Nep": "उनी ढिला भए।"
     },
     {
-    "word": "パーティー",
-    "Nep-meaning": "पार्टी"
+      "word": "効果",
+      "Nep-meaning": "प्रभाव",
+      "sent-Nep": "यो औषधिमा पेटलाई सुरक्षा दिने प्रभाव छ।"
     },
     {
-    "word": "犬",
-    "Nep-meaning": "कुकुर"
+      "word": "状況",
+      "Nep-meaning": "परिस्थिति",
+      "sent-Nep": "यस परिस्थितिमा प्रस्थान गर्न गाह्रो छ।"
     },
     {
-    "word": "うまい",
-    "Nep-meaning": "मिठो"
+      "word": "確認",
+      "Nep-meaning": "पुष्टि",
+      "sent-Nep": "मैले आरक्षण पुनः पुष्टि गरें।"
     },
     {
-    "word": "特別",
-    "Nep-meaning": "विशेष"
+      "word": "位置",
+      "Nep-meaning": "स्थिति",
+      "sent-Nep": "मेरो शहर टोकियोको उत्तरमा स्थित छ।"
     },
     {
-    "word": "教室",
-    "Nep-meaning": "कोठा"
+      "word": "はっきり",
+      "Nep-meaning": "स्पष्ट रूपमा",
+      "sent-Nep": "आज पहाडहरू स्पष्ट रूपमा देखिन्छन्।"
     },
     {
-    "word": "ガラス",
-    "Nep-meaning": "काँच"
+      "word": "つまり",
+      "Nep-meaning": "संक्षेपमा",
+      "sent-Nep": "संक्षेपमा, तपाईंले केही थाहा छैन।"
     },
     {
-    "word": "振る",
-    "Nep-meaning": "हल्लाउनु"
+      "word": "通過",
+      "Nep-meaning": "पारगमन",
+      "sent-Nep": "अर्को स्टेशन पार गरिनेछ।"
     },
     {
-    "word": "落とす",
-    "Nep-meaning": "झार्नु"
+      "word": "深い",
+      "Nep-meaning": "गहिरो",
+      "sent-Nep": "त्यो पोखरी धेरै गहिरो छ।"
     },
     {
-    "word": "夕方",
-    "Nep-meaning": "साँझ"
+      "word": "候補",
+      "Nep-meaning": "उम्मेदवार",
+      "sent-Nep": "अध्यक्षको लागि तीन उम्मेदवार छन्।"
     },
-    {
-    "word": "コース",
-    "Nep-meaning": "पाठ्यक्रम"
-    }, 
     {
-    "word": "アパート",
-    "Nep-meaning": "अपार्टमेन्ट"
+      "word": "選手",
+      "Nep-meaning": "खिलाडी",
+      "sent-Nep": "उनी पेशेवर फुटबल खेलाडी हुन्।"
     },
     {
-    "word": "小説",
-    "Nep-meaning": "उपन्यास"
+      "word": "音",
+      "Nep-meaning": "ध्वनि",
+      "sent-Nep": "मलाई वर्षाको आवाज सुन्न सक्छ।"
     },
     {
-    "word": "レコード",
-    "Nep-meaning": "रेकर्ड"
+      "word": "大会",
+      "Nep-meaning": "प्रतियोगिता",
+      "sent-Nep": "गर्मीमा नदी किनारमा आतिशबाजी प्रतियोगिता हुन्छ।"
     },
     {
-    "word": "どんどん",
-    "Nep-meaning": "क्रमश:"
+      "word": "基本",
+      "Nep-meaning": "आधार",
+      "sent-Nep": "म अहिले ज्याज नृत्यको आधार सिक्दैछु।"
     },
     {
-    "word": "通う",
-    "Nep-meaning": "जानु"
+      "word": "契約",
+      "Nep-meaning": "सम्झौता",
+      "sent-Nep": "त्यो खेलाडीले नयाँ टिमसँग सम्झौता गर्यो।"
     },
     {
-    "word": "秘密",
-    "Nep-meaning": "गोप्य"
+      "word": "発見",
+      "Nep-meaning": "खोज",
+      "sent-Nep": "नयाँ तारा पत्ता लाग्यो।"
     },
     {
-    "word": "料理",
-    "Nep-meaning": "पकवान"
+      "word": "当時",
+      "Nep-meaning": "त्यतिबेला",
+      "sent-Nep": "उनी त्यतिबेला, अझै तीन वर्षकी थिइन्।"
     },
     {
-    "word": "苦しい",
-    "Nep-meaning": "कष्टकर"
+      "word": "自宅",
+      "Nep-meaning": "घर",
+      "sent-Nep": "घरमा फोन गर्नुहोस्।"
     },
     {
-    "word": "信じる",
-    "Nep-meaning": "विश्वास गर्नु"
+      "word": "空気",
+      "Nep-meaning": "हावा",
+      "sent-Nep": "यहाँको हावा शुद्ध छ।"
     },
     {
-    "word": "何か",
-    "Nep-meaning": "केही"
+      "word": "設ける",
+      "Nep-meaning": "स्थापना गर्नु",
+      "sent-Nep": "कक्षाको अन्त्यमा पुनरावृत्ति समय स्थापना गरियो।"
     },
     {
-    "word": "カメラ",
-    "Nep-meaning": "क्यामरा"
+      "word": "歴史",
+      "Nep-meaning": "इतिहास",
+      "sent-Nep": "म इतिहासमा रुचि राख्छु।"
     },
     {
-    "word": "下げる",
-    "Nep-meaning": "घटाउनु"
+      "word": "各国",
+      "Nep-meaning": "प्रत्येक देश",
+      "sent-Nep": "प्रत्येक देशका प्रतिनिधिहरू न्यूयोर्कमा भेला भए।"
     },
     {
-    "word": "留学",
-    "Nep-meaning": "विदेशमा अध्ययन"
+      "word": "特に",
+      "Nep-meaning": "विशेष गरी",
+      "sent-Nep": "विशेष गरी कुनै प्रश्न छैन।"
     },
     {
-    "word": "無理",
-    "Nep-meaning": "असम्भव"
+      "word": "実験",
+      "Nep-meaning": "प्रयोग",
+      "sent-Nep": "विज्ञानको कक्षामा प्रयोग गरियो।"
     },
     {
-    "word": "飾る",
-    "Nep-meaning": "सजाउनु"
+      "word": "訪れる",
+      "Nep-meaning": "भ्रमण गर्नु",
+      "sent-Nep": "म गर्मीमा क्योटो भ्रमण गरें।"
     },
     {
-    "word": "北",
-    "Nep-meaning": "उत्तर"
+      "word": "建物",
+      "Nep-meaning": "भवन",
+      "sent-Nep": "यो जापानको सबैभन्दा पुरानो भवन हो।"
     },
     {
-    "word": "訪ねる",
-    "Nep-meaning": "भेट्नु"
+      "word": "ビル",
+      "Nep-meaning": "भवन",
+      "sent-Nep": "मेरो कम्पनी त्यो भवनको आठौं तलामा छ।"
     },
     {
-    "word": "テープ",
-    "Nep-meaning": "टेप"
+      "word": "彼ら",
+      "Nep-meaning": "उनीहरू",
+      "sent-Nep": "उनीहरू बास्केटबल खेलाडी हुन्।"
     },
     {
-    "word": "馬",
-    "Nep-meaning": "घोडा"
+      "word": "少年",
+      "Nep-meaning": "केटा",
+      "sent-Nep": "केटाहरू फुटबल खेलिरहेका छन्।"
     },
     {
-    "word": "長男",
-    "Nep-meaning": "जेठा छोरा"
+      "word": "諸国",
+      "Nep-meaning": "विभिन्न देशहरू",
+      "sent-Nep": "उनी युरोपका विभिन्न देशहरू घुमे।"
     },
     {
-    "word": "近所",
-    "Nep-meaning": "छरछिमेक"
+      "word": "もちろん",
+      "Nep-meaning": "पक्कै",
+      "sent-Nep": "पक्कै म सँगै जान्छु।"
     },
     {
-    "word": "数学",
-    "Nep-meaning": "गणित"
+      "word": "事務所",
+      "Nep-meaning": "कार्यालय",
+      "sent-Nep": "पछि कार्यालयमा आउनुहोस्।"
     },
     {
-    "word": "入学",
-    "Nep-meaning": "भर्ना हुनु"
+      "word": "責任",
+      "Nep-meaning": "जिम्मेवारी",
+      "sent-Nep": "उनले असफलताको जिम्मेवारी लिँदै कम्पनी छोडे।"
     },
     {
-    "word": "黒い",
-    "Nep-meaning": "कालो"
+      "word": "かつて",
+      "Nep-meaning": "पहिले",
+      "sent-Nep": "यो कुरा मैले विद्यार्थी भएको बेलाको हो।"
     },
     {
-    "word": "頼む",
-    "Nep-meaning": "अनुरोध गर्नु"
+      "word": "限る",
+      "Nep-meaning": "सीमित हुनु",
+      "sent-Nep": "यो सेवा सप्ताहन्तमा मात्र सीमित छ।"
     },
     {
-    "word": "並べる",
-    "Nep-meaning": "मिलाउनु"
+      "word": "海外",
+      "Nep-meaning": "विदेश",
+      "sent-Nep": "उनी लामो समयदेखि विदेशमा बसिरहेका छन्।"
     },
     {
-    "word": "受け取る",
-    "Nep-meaning": "लिनु"
+      "word": "条件",
+      "Nep-meaning": "सर्त",
+      "sent-Nep": "यी सर्तहरू धेरै कडा छन्।"
     },
     {
-    "word": "太陽",
-    "Nep-meaning": "घाम"
+      "word": "家庭",
+      "Nep-meaning": "परिवार",
+      "sent-Nep": "उनी आफ्नो परिवारलाई धेरै महत्व दिन्छन्।"
     },
     {
-    "word": "年寄り",
-    "Nep-meaning": "वृद्ध"
+      "word": "教授",
+      "Nep-meaning": "प्रोफेसर",
+      "sent-Nep": "उनी रसायन विज्ञानका प्रोफेसर हुन्।"
     },
     {
-    "word": "味",
-    "Nep-meaning": "स्वाद"
+      "word": "人口",
+      "Nep-meaning": "जनसंख्या",
+      "sent-Nep": "त्यो देशको जनसंख्या कति छ?"
     },
     {
-    "word": "思い出す",
-    "Nep-meaning": "सम्झनु"
+      "word": "海",
+      "Nep-meaning": "समुद्र",
+      "sent-Nep": "समुद्र फराकिलो र ठूलो छ।"
     },
     {
-    "word": "細かい",
-    "Nep-meaning": "सानो"
+      "word": "基準",
+      "Nep-meaning": "मानक",
+      "sent-Nep": "निर्णयको मानक प्रस्तुत गरियो।"
     },
     {
-    "word": "成績",
-    "Nep-meaning": "नतिजा"
+      "word": "攻撃",
+      "Nep-meaning": "हमला",
+      "sent-Nep": "२००३ मा अमेरिका इराकलाई आक्रमण गर्यो।"
     },
     {
-    "word": "涙",
-    "Nep-meaning": "आँसु"
+      "word": "時代",
+      "Nep-meaning": "युग",
+      "sent-Nep": "यो सुविधा र गतिका युग हो।"
     },
     {
-    "word": "横",
-    "Nep-meaning": "बाह्रैपट्टि"
+      "word": "時期",
+      "Nep-meaning": "समय",
+      "sent-Nep": "यो तपाईंको लागि महत्त्वपूर्ण समय हो।"
     },
     {
-    "word": "穴",
-    "Nep-meaning": "छिद्र"
+      "word": "製造",
+      "Nep-meaning": "उत्पादन",
+      "sent-Nep": "यस कारखानामा एसी उत्पादन गरिन्छ।"
     },
     {
-    "word": "季節",
-    "Nep-meaning": "ऋतु"
+      "word": "大型",
+      "Nep-meaning": "ठूलो",
+      "sent-Nep": "मैले ठूलो टिभी किनें।"
     },
     {
-    "word": "ビール",
-    "Nep-meaning": "बियर"
+      "word": "周辺",
+      "Nep-meaning": "वरिपरि",
+      "sent-Nep": "यो वरपर धेरै विश्वविद्यालयहरू छन्।"
     },
     {
-    "word": "故障",
-    "Nep-meaning": "खराबी"
+      "word": "異なる",
+      "Nep-meaning": "भिन्न",
+      "sent-Nep": "उनी र म सधैं भिन्न राय राख्छौं।"
     },
     {
-    "word": "裏",
-    "Nep-meaning": "पछाडि"
+      "word": "逮捕",
+      "Nep-meaning": "गिरफ्तारी",
+      "sent-Nep": "फरार अपराधीलाई गिरफ्तार गरियो।"
     },
     {
-    "word": "ページ",
-    "Nep-meaning": "पृष्ठ"
+      "word": "関連",
+      "Nep-meaning": "सम्बन्धित",
+      "sent-Nep": "सम्बन्धित विभागलाई सम्पर्क गरियो।"
     },
     {
-    "word": "迎える",
-    "Nep-meaning": "स्वागत गर्नु"
+      "word": "貿易",
+      "Nep-meaning": "व्यापार",
+      "sent-Nep": "मेरो बुबा व्यापारको काम गर्छन्।"
     },
     {
-    "word": "野菜",
-    "Nep-meaning": "तरकारी"
+      "word": "社員",
+      "Nep-meaning": "कर्मचारी",
+      "sent-Nep": "उनी एक उत्कृष्ट कर्मचारी हुन्।"
     },
     {
-    "word": "渡す",
-    "Nep-meaning": "पार गर्नु"
+      "word": "結合",
+      "Nep-meaning": "संयोजन",
+      "sent-Nep": "मैले फाइलहरू संयोजन गरें।"
     },
     {
-    "word": "贈る",
-    "Nep-meaning": "उपहार दिनु"
+      "word": "自然",
+      "Nep-meaning": "प्रकृति",
+      "sent-Nep": "सबै मिलेर प्रकृतिको संरक्षण गरौं।"
     },
     {
-    "word": "合格",
-    "Nep-meaning": "पास हुनु"
+      "word": "スポーツ",
+      "Nep-meaning": "खेलकुद",
+      "sent-Nep": "के तपाईं कुनै खेल खेल्नुहुन्छ?"
     },
     {
-    "word": "グラフ",
-    "Nep-meaning": "ग्राफ"
+      "word": "患者",
+      "Nep-meaning": "रोगी",
+      "sent-Nep": "रोगी सुतिरहेका छन्।"
     },
     {
-    "word": "公園",
-    "Nep-meaning": "पार्क"
+      "word": "なぜ",
+      "Nep-meaning": "किन",
+      "sent-Nep": "तपाईं किन आउनुभएन?"
     },
     {
-    "word": "戸",
-    "Nep-meaning": "ढोका"
+      "word": "映画",
+      "Nep-meaning": "चलचित्र",
+      "sent-Nep": "उनी अक्सर चलचित्र हेर्छन्।"
     },
     {
-    "word": "中学生",
-    "Nep-meaning": "माविको विद्यार्थी"
+      "word": "並ぶ",
+      "Nep-meaning": "लाइन लाग्नु",
+      "sent-Nep": "यहाँ लाइन लाग्नुहोस्।"
     },
     {
-    "word": "玄関",
-    "Nep-meaning": "मूल ढोका"
+      "word": "生徒",
+      "Nep-meaning": "विद्यार्थी",
+      "sent-Nep": "यस कक्षामा ३० विद्यार्थीहरू छन्।"
     },
     {
-    "word": "撮る",
-    "Nep-meaning": "खिच्नु"
+      "word": "そのまま",
+      "Nep-meaning": "त्यसै अवस्थामा",
+      "sent-Nep": "त्यसै अवस्थामा प्रतिक्षा गर्नुहोस्।"
     },
     {
-    "word": "夏休み",
-    "Nep-meaning": "गर्मी विदा"
+      "word": "今度",
+      "Nep-meaning": "यो समय",
+      "sent-Nep": "अर्को पटक कहाँ जान चाहनुहुन्छ?"
     },
     {
-    "word": "毎年",
-    "Nep-meaning": "हरेक वर्ष"
+      "word": "分ける",
+      "Nep-meaning": "विभाजन गर्नु",
+      "sent-Nep": "सबै मिलेर मिठाईहरू विभाजन गर्यौं।"
     },
     {
-    "word": "地図",
-    "Nep-meaning": "नक्सा"
+      "word": "運ぶ",
+      "Nep-meaning": "बोक्नु",
+      "sent-Nep": "कृपया कुर्सीलाई दोस्रो तलामा लैजानुहोस्।"
     },
     {
-    "word": "海岸",
-    "Nep-meaning": "किनारा"
+      "word": "複雑",
+      "Nep-meaning": "जटिल",
+      "sent-Nep": "यो कार्यक्रम धेरै जटिल छ।"
     },
     {
-    "word": "急に",
-    "Nep-meaning": "अचानक"
+      "word": "回る",
+      "Nep-meaning": "घुम्नु",
+      "sent-Nep": "चन्द्रमा पृथ्वीको वरिपरि घुम्छ।"
     },
     {
-    "word": "女の子",
-    "Nep-meaning": "केटी"
+      "word": "高校",
+      "Nep-meaning": "उच्च विद्यालय",
+      "sent-Nep": "मेरो बहिनी उच्च विद्यालयमा पढ्छिन्।"
     },
     {
-    "word": "ポスト",
-    "Nep-meaning": "हुलाक बाकस"
+      "word": "工事",
+      "Nep-meaning": "निर्माण",
+      "sent-Nep": "निर्माणको आवाजले धेरै ठूलो छ।"
     },
     {
-    "word": "暗い",
-    "Nep-meaning": "अँध्यारो"
+      "word": "毎日",
+      "Nep-meaning": "हरेक दिन",
+      "sent-Nep": "हामी हरेक दिन हिड्छौं।"
     },
     {
-    "word": "両方",
-    "Nep-meaning": "दुवै"
+      "word": "帰国",
+      "Nep-meaning": "आफ्नो देश फर्कनु",
+      "sent-Nep": "उनी आफ्नो देश फर्केका छन्।"
     },
     {
-    "word": "向こう",
-    "Nep-meaning": "उता"
+      "word": "雨",
+      "Nep-meaning": "वर्षा",
+      "sent-Nep": "वर्षा भइरहेको छ।"
     },
     {
-    "word": "忙しい",
-    "Nep-meaning": "व्यस्त"
+      "word": "経つ",
+      "Nep-meaning": "बित्न",
+      "sent-Nep": "त्यो घटना पछि १४ वर्ष बित्यो।"
     },
     {
-    "word": "給料",
-    "Nep-meaning": "तलब"
+      "word": "花",
+      "Nep-meaning": "फूल",
+      "sent-Nep": "सुन्दर फूल फुल्यो।"
     },
     {
-    "word": "テスト",
-    "Nep-meaning": "परीक्षा"
+      "word": "出席",
+      "Nep-meaning": "उपस्थिति",
+      "sent-Nep": "दिउँसो म बैठकमा उपस्थित हुनेछु।"
     },
     {
-    "word": "あちこち",
-    "Nep-meaning": "यहाँ तहाँ"
+      "word": "外国人",
+      "Nep-meaning": "विदेशी",
+      "sent-Nep": "जापानमा बस्ने विदेशीहरूको संख्या बढ्दै छ।"
     },
     {
-    "word": "切れる",
-    "Nep-meaning": "काटिनु"
+      "word": "道路",
+      "Nep-meaning": "सडक",
+      "sent-Nep": "यो सडक तीन वर्ष पहिले बनाइएको हो।"
     },
     {
-    "word": "野球",
-    "Nep-meaning": "बेसबल"
+      "word": "地球",
+      "Nep-meaning": "पृथ्वी",
+      "sent-Nep": "पृथ्वी गोलो छ।"
     },
     {
-    "word": "試験",
-    "Nep-meaning": "परीक्षा"
+      "word": "英語",
+      "Nep-meaning": "अंग्रेजी",
+      "sent-Nep": "के तपाईं अंग्रेजी बोल्न सक्नुहुन्छ?"
     },
     {
-    "word": "台風",
-    "Nep-meaning": "आँधी बेरी"
+      "word": "危険",
+      "Nep-meaning": "खतरा",
+      "sent-Nep": "यो क्षेत्र अहिले खतरा छ।"
     },
     {
-    "word": "規則",
-    "Nep-meaning": "नियम"
+      "word": "普通",
+      "Nep-meaning": "सामान्य",
+      "sent-Nep": "उनी सामान्य केटी हुन्।"
     },
     {
-    "word": "遠く",
-    "Nep-meaning": "टाढा"
+      "word": "説明",
+      "Nep-meaning": "व्याख्या",
+      "sent-Nep": "कृपया यो शब्दको अर्थ व्याख्या गर्नुहोस्।"
     },
     {
-    "word": "ゴルフ",
-    "Nep-meaning": "गोल्फ"
+      "word": "半分",
+      "Nep-meaning": "अर्ध",
+      "sent-Nep": "मैले मिठाईको आधा भाग साथीलाई दिए।"
     },
     {
-    "word": "看護婦",
-    "Nep-meaning": "नर्स"
+      "word": "注意",
+      "Nep-meaning": "ध्यान",
+      "sent-Nep": "कारलाई ध्यान दिनुहोस्।"
     },
     {
-    "word": "ラジオ",
-    "Nep-meaning": "रेडियो"
+      "word": "安全",
+      "Nep-meaning": "सुरक्षा",
+      "sent-Nep": "सुरक्षा पहिलो प्राथमिकता हो।"
     },
     {
-    "word": "逢う",
-    "Nep-meaning": "भेट्नु"
+      "word": "手紙",
+      "Nep-meaning": "पत्र",
+      "sent-Nep": "मैले साथीकोबाट पत्र प्राप्त गरें।"
     },
     {
-    "word": "タクシー",
-    "Nep-meaning": "ट्याक्सी"
+      "word": "努力",
+      "Nep-meaning": "प्रयास",
+      "sent-Nep": "हामी अझ धेरै प्रयास गरौं।"
     },
     {
-    "word": "来月",
-    "Nep-meaning": "आउँदो महिना"
+      "word": "手術",
+      "Nep-meaning": "शल्यक्रिया",
+      "sent-Nep": "मेरो बाबुले छातीको शल्यक्रिया गराए।"
     },
     {
-    "word": "教科書",
-    "Nep-meaning": "पाठ्यपुस्तक"
+      "word": "準備",
+      "Nep-meaning": "तयारी",
+      "sent-Nep": "मैले भोलिको बैठकको तयारी गरें।"
     },
     {
-    "word": "電気",
-    "Nep-meaning": "विद्युत्"
+      "word": "守る",
+      "Nep-meaning": "राख्नु",
+      "sent-Nep": "उनी वचन राख्ने मानिस हुन्।"
     },
     {
-    "word": "急",
-    "Nep-meaning": "चाँडो"
+      "word": "驚く",
+      "Nep-meaning": "आश्चर्यचकित हुनु",
+      "sent-Nep": "उनी रगत देखेर आश्चर्यचकित भए।"
     },
     {
-    "word": "ゆっくり",
-    "Nep-meaning": "बिस्तारै"
+      "word": "地震",
+      "Nep-meaning": "भूकम्प",
+      "sent-Nep": "जापानमा धेरै भूकम्प हुन्छ।"
     },
     {
-    "word": "兄弟",
-    "Nep-meaning": "दाजुभाइ"
+      "word": "話し合う",
+      "Nep-meaning": "वार्ता गर्नु",
+      "sent-Nep": "हामीले धेरै कुरा गर्यौं।"
     },
     {
-    "word": "牛肉",
-    "Nep-meaning": "गोरुको मासु"
+      "word": "木",
+      "Nep-meaning": "रुख",
+      "sent-Nep": "आँधीले रुख ढाल्यो।"
     },
     {
-    "word": "確か",
-    "Nep-meaning": "निश्चित रूपमा"
+      "word": "許す",
+      "Nep-meaning": "क्षमा गर्नु",
+      "sent-Nep": "मैले उनलाई क्षमा गरें।"
     },
     {
-    "word": "慣れる",
-    "Nep-meaning": "अभ्यस्त हुनु"
+      "word": "雪",
+      "Nep-meaning": "हिउँ",
+      "sent-Nep": "क्रिसमसमा हिउँ परेको थियो।"
     },
     {
-    "word": "厚い",
-    "Nep-meaning": "बाक्लो"
+      "word": "動物",
+      "Nep-meaning": "जनावर",
+      "sent-Nep": "म जनावरलाई धेरै माया गर्छु।"
     },
     {
-    "word": "返す",
-    "Nep-meaning": "फर्काउनु"
+      "word": "合う",
+      "Nep-meaning": "सुहाउनु",
+      "sent-Nep": "यो जुत्ता मेरो खुट्टामा सुहाउँछ।"
     },
     {
-    "word": "中学校",
-    "Nep-meaning": "माध्यमिक विद्यालय"
+      "word": "平和",
+      "Nep-meaning": "शान्ति",
+      "sent-Nep": "यो देश शान्त छ।"
     },
     {
-    "word": "森",
-    "Nep-meaning": "जंगल"
+      "word": "非常に",
+      "Nep-meaning": "धेरै",
+      "sent-Nep": "यो अत्यन्तै महत्त्वपूर्ण छ।"
     },
     {
-    "word": "降りる",
-    "Nep-meaning": "ओर्लनु"
+      "word": "遅れる",
+      "Nep-meaning": "ढिला हुनु",
+      "sent-Nep": "आज बिहान उनी विद्यालय ढिला भए।"
     },
     {
-    "word": "曲",
-    "Nep-meaning": "गीत"
+      "word": "もし",
+      "Nep-meaning": "यदि",
+      "sent-Nep": "यदि मैले पैसा पाएको भए, म संसार घुम्ने थिएँ।"
     },{
-    "word": "遊び",
-    "Nep-meaning": "खेल"
-    }
+        "word": "卒業",
+        "Nep-meaning": "स्नातक",
+        "sent-Nep": "म गत वर्ष विश्वविद्यालयबाट स्नातक भएँ।"
+      },
+      {
+        "word": "移る",
+        "Nep-meaning": "सर्नु, स्थानान्तरण हुनु",
+        "sent-Nep": "उनी नयाँ कम्पनीमा सरेकी छिन्।"
+      },
+      {
+        "word": "農業",
+        "Nep-meaning": "कृषि",
+        "sent-Nep": "म कृषि अध्ययन गर्दैछु।"
+      },
+      {
+        "word": "空港",
+        "Nep-meaning": "विमानस्थल",
+        "sent-Nep": "म विमानस्थलसम्म लिमोजिन बसबाट गएको थिएँ।"
+      },
+      {
+        "word": "珍しい",
+        "Nep-meaning": "दुर्लभ, मूल्यवान",
+        "sent-Nep": "हिजो मैले दुर्लभ फल खाएँ।"
+      },
+        {
+          "word": "急ぐ",
+          "Nep-meaning": "हडबड गर्नु, छिटो गर्नु",
+          "sent-Nep": "हामी स्टेसनतर्फ हडबड गर्‍यौं।"
+        },
+        {
+          "word": "つもり",
+          "Nep-meaning": "इरादा, उद्देश्य",
+          "sent-Nep": "भोलिदेखि चुरोट छोड्ने इरादा छ।"
+        },
+        {
+          "word": "必ず",
+          "Nep-meaning": "निश्चित रूपमा, पक्कै",
+          "sent-Nep": "निश्चित रूपमा सिटबेल्ट लगाउनुहोस्।"
+        },
+        {
+          "word": "数字",
+          "Nep-meaning": "संख्या, अंक",
+          "sent-Nep": "म अंकमा कमजोर छु।"
+        },
+        {
+          "word": "やっと",
+          "Nep-meaning": "अन्ततः, अन्त्यमा",
+          "sent-Nep": "अन्ततः काम सकियो।"
+        },
+        {
+          "word": "旅行",
+          "Nep-meaning": "यात्रा, भ्रमण",
+          "sent-Nep": "उनीलाई यात्रा मन पर्छ।"
+        },
+        {
+          "word": "音楽",
+          "Nep-meaning": "संगीत",
+          "sent-Nep": "मलाई संगीत सुन्न मन पर्छ।"
+        },
+        {
+          "word": "川",
+          "Nep-meaning": "नदी, खोलो",
+          "sent-Nep": "मैले सानो खोला तरेँ।"
+        },
+        {
+          "word": "例えば",
+          "Nep-meaning": "उदाहरणका लागि",
+          "sent-Nep": "उदाहरणका लागि, यस सफ्टवेयरबाट जापानी अध्ययन गर्न सकिन्छ।"
+        },
+        {
+          "word": "小学校",
+          "Nep-meaning": "प्राथमिक विद्यालय",
+          "sent-Nep": "घरको नजिकै एक प्राथमिक विद्यालय छ।"
+        },
+        {
+          "word": "壁",
+          "Nep-meaning": "पर्खाल, विभाजन",
+          "sent-Nep": "पर्खालमा चित्र टाँसिएको छ।"
+        },
+        {
+          "word": "流れる",
+          "Nep-meaning": "बहनु, प्रवाह हुनु",
+          "sent-Nep": "रेडियोबाट सुन्दर संगीत बजिरहेको छ।"
+        },
+        {
+          "word": "夢",
+          "Nep-meaning": "सपना",
+          "sent-Nep": "हिजो राति मैले डरलाग्दो सपना देखेँ।"
+        },
+        {
+          "word": "逃げる",
+          "Nep-meaning": "भाग्नु, उम्कनु",
+          "sent-Nep": "चराले झ्यालबाट भाग्यो।"
+        },
+        {
+          "word": "過ぎる",
+          "Nep-meaning": "बित्नु, पार गर्नु",
+          "sent-Nep": "समय छिटो बित्छ।"
+        },
+        {
+          "word": "首都",
+          "Nep-meaning": "राजधानी",
+          "sent-Nep": "टोक्यो जापानको राजधानी हो।"
+        },
+        {
+          "word": "教師",
+          "Nep-meaning": "शिक्षक, प्रशिक्षक",
+          "sent-Nep": "उहाँ उच्च विद्यालय शिक्षक हुनुहुन्छ।"
+        },
+        {
+          "word": "相談",
+          "Nep-meaning": "परामर्श, सल्लाह",
+          "sent-Nep": "मलाई परामर्श लिनु पर्ने कुरा छ।"
+        },
+        {
+          "word": "用意",
+          "Nep-meaning": "तयार गर्नु, तयारी गर्नु",
+          "sent-Nep": "खाना तयार भयो।"
+        },
+        {
+          "word": "ニュース",
+          "Nep-meaning": "समाचार",
+          "sent-Nep": "तपाईंले रातको समाचार हेर्नुभयो?।"
+        },
+        {
+          "word": "法律",
+          "Nep-meaning": "कानून",
+          "sent-Nep": "नयाँ कानून बन्यो।"
+        },
+        {
+          "word": "大変",
+          "Nep-meaning": "गम्भीर, कठिन",
+          "sent-Nep": "गम्भीर घटना भयो।"
+        },
+        {
+          "word": "戦争",
+          "Nep-meaning": "युद्ध, लडाइँ",
+          "sent-Nep": "सन् २००३ मा इराकमा युद्ध भयो।"
+        },
+        {
+          "word": "ずっと",
+          "Nep-meaning": "सधैँ, निरन्तर",
+          "sent-Nep": "बुबा छुट्टीको दिन सधैँ टिभी हेर्छन्।"
+        },
+        {
+          "word": "自然",
+          "Nep-meaning": "प्राकृतिक, स्वाभाविक",
+          "sent-Nep": "अभिभावकले बच्चालाई रक्षा गर्नु स्वाभाविक कुरा हो।"
+        },
+        {
+          "word": "島",
+          "Nep-meaning": "टापु",
+          "sent-Nep": "जापान एक टापु राष्ट्र हो।"
+        },
+        {
+          "word": "窓",
+          "Nep-meaning": "झ्याल",
+          "sent-Nep": "झ्याल खोलिदिनुहोस्।"
+        },
+        {
+          "word": "考え",
+          "Nep-meaning": "विचार, धारणा",
+          "sent-Nep": "यो राम्रो विचार हो।"
+        },
+        {
+          "word": "ビデオ",
+          "Nep-meaning": "भिडियो",
+          "sent-Nep": "मैले त्यो कार्यक्रमलाई भिडियोमा खिचें।"
+        },
+        {
+          "word": "マンション",
+          "Nep-meaning": "अपार्टमेन्ट",
+          "sent-Nep": "उनी अपार्टमेन्टमा बस्छन्।"
+        },
+        {
+          "word": "健康",
+          "Nep-meaning": "स्वास्थ्य",
+          "sent-Nep": "म स्वस्थ जीवन बिताउँदै छु।"
+        },
+        {
+          "word": "通り",
+          "Nep-meaning": "सडक, मार्ग",
+          "sent-Nep": "यो सडक निकै व्यस्त छ।"
+        },
+        {
+          "word": "喜ぶ",
+          "Nep-meaning": "खुसी हुनु, हर्षित हुनु",
+          "sent-Nep": "उनी धेरै खुसी भइन्।"
+        },
+        {
+          "word": "入院",
+          "Nep-meaning": "अस्पताल भर्ना",
+          "sent-Nep": "हिजो मेरी आमालाई अस्पताल भर्ना गरियो।"
+        },
+        {
+          "word": "増やす",
+          "Nep-meaning": "बढाउनु, थप्नु",
+          "sent-Nep": "त्यो सहरले हरियाली बढाउँदैछ।"
+        },
+        {
+          "word": "育てる",
+          "Nep-meaning": "पाल्नु, हुर्काउनु",
+          "sent-Nep": "उनी तीन बच्चालाई हुर्काएकी छिन्।"
+        },
+        {
+          "word": "温度",
+          "Nep-meaning": "तापक्रम",
+          "sent-Nep": "अहिले कोठाको तापक्रम २५ डिग्री छ।"
+        },
+        {
+          "word": "雑誌",
+          "Nep-meaning": "पत्रिका",
+          "sent-Nep": "यो पत्रिका राम्रो बिक्छ।"
+        },
+        {
+          "word": "私たち",
+          "Nep-meaning": "हामी",
+          "sent-Nep": "हामी अर्को महिना बिहे गर्दैछौं।"
+        },
+        {
+          "word": "食事",
+          "Nep-meaning": "खाना, भोजन",
+          "sent-Nep": "आज म बाससित भोजन गर्छु।"
+        },
+        {
+          "word": "風",
+          "Nep-meaning": "हावा",
+          "sent-Nep": "आज हावा कडा चल्दैछ।"
+        },
+        {
+          "word": "早く",
+          "Nep-meaning": "छिटो, चाँडै",
+          "sent-Nep": "जहाँसम्म चाँडो आउनुहोस्।"
+        },
+        {
+          "word": "明るい",
+          "Nep-meaning": "प्रकाश, हर्षित",
+          "sent-Nep": "उनी हर्षित स्वभावकी छिन्।"
+        },
+        {
+          "word": "運転",
+          "Nep-meaning": "गाडी चलाउनु",
+          "sent-Nep": "बुबा सुरक्षित गाडी चलाउँछन्।"
+        },
+        {
+          "word": "しばらく",
+          "Nep-meaning": "केही समय",
+          "sent-Nep": "त्यहाँ केही समय आराम गर्दैछु।"
+        },
+        {
+          "word": "高さ",
+          "Nep-meaning": "उचाइ",
+          "sent-Nep": "फुजि पर्वतको उचाइ ३,७७६ मिटर हो।"
+        },
+        {
+          "word": "借りる",
+          "Nep-meaning": "ऋण लिनु",
+          "sent-Nep": "मैले उनलाई भिडियो ऋण लिएँ।"
+        },
+        {
+          "word": "放送",
+          "Nep-meaning": "प्रसारण",
+          "sent-Nep": "त्यो कार्यक्रम अर्को हप्ता प्रसारण हुनेछ।"
+        },
+        {
+          "word": "就職",
+          "Nep-meaning": "रोजगारी पाउनु",
+          "sent-Nep": "हालसालै, युवाहरूको रोजगारी पाउनु गाह्रो हुँदै गएको छ।"
+        },
+        {
+          "word": "大きさ",
+          "Nep-meaning": "आकार",
+          "sent-Nep": "मलाई यो आकारको लिफाफा चाहिन्छ।"
+        },
+        {
+          "word": "困る",
+          "Nep-meaning": "समस्या हुनु, अप्ठ्यारो हुनु",
+          "sent-Nep": "मेरो मोबाइल हराएर समस्या भइरहेको छ।"
+        },
+        {
+          "word": "通る",
+          "Nep-meaning": "जाँदा, यात्रा गर्नु",
+          "sent-Nep": "म दैनिक यो बाटो हिँड्छु।"
+        },
+        {
+          "word": "ガス",
+          "Nep-meaning": "ग्यास",
+          "sent-Nep": "भूकम्पले ग्यास बन्द गर्यो।"
+        },
+        {
+          "word": "夫婦",
+          "Nep-meaning": "पति पत्नी",
+          "sent-Nep": "त्यो पति पत्नी धेरै मिल्ने छन्।"
+        },
+        {
+          "word": "立てる",
+          "Nep-meaning": "उभ्याउनु, स्थापना गर्नु",
+          "sent-Nep": "उनीले केकमा मैनबत्ती उभ्याए।"
+        },
+        {
+          "word": "伸びる",
+          "Nep-meaning": "फैलिनु, बढ्नु",
+          "sent-Nep": "तिम्रो कपाल धेरै बढेको छ।"
+        },
+        {
+          "word": "聞こえる",
+          "Nep-meaning": "सुन्नु, सुन्न सक्नु",
+          "sent-Nep": "छेउको कोठाबाट टिभीको आवाज सुन्न सकिन्छ।"
+        },
+        {
+          "word": "殺す",
+          "Nep-meaning": "मार्नु, नाश गर्नु",
+          "sent-Nep": "म जीवजन्तु मार्न मन पराउँदिन।"
+        },
+        {
+          "word": "静か",
+          "Nep-meaning": "शान्त, शान्तिपूर्ण",
+          "sent-Nep": "यो गर्मीको बिदामा म शान्त ठाउँमा जान चाहन्छु।"
+        },
+        {
+          "word": "分かれる",
+          "Nep-meaning": "विभाजित हुनु, छुटिनु",
+          "sent-Nep": "समूहमा विचारहरू विभाजित भए।"
+        },
+        {
+          "word": "詳しい",
+          "Nep-meaning": "विस्तृत, पूरा",
+          "sent-Nep": "कृपया थप विवरण दिनुहोस्।"
+        },
+        {
+          "word": "正確",
+          "Nep-meaning": "सही, ठ्याक्कै",
+          "sent-Nep": "उनको गणना सही छ।"
+        },
+        {
+          "word": "うまい",
+          "Nep-meaning": "राम्रो, स्वादिष्ट",
+          "sent-Nep": "उनी बेसबलमा राम्रा छन्।"
+        },
+        {
+          "word": "打つ",
+          "Nep-meaning": "प्रहार गर्नु, हान्नु",
+          "sent-Nep": "म लडेर घुँडा हानें।"
+        },
+        {
+          "word": "工業",
+          "Nep-meaning": "उद्योग",
+          "sent-Nep": "त्यो एक औद्योगिक सहर हो।"
+        },
+        {
+          "word": "サラリーマン",
+          "Nep-meaning": "कम्पनी कर्मचारी",
+          "sent-Nep": "मेरो बुबा एक कम्पनी कर्मचारी हुनुहुन्छ।"
+        },
+        {
+          "word": "有名",
+          "Nep-meaning": "प्रसिद्ध",
+          "sent-Nep": "बोर्डो वाइन उत्पादनको लागि प्रसिद्ध छ।"
+        },
+        {
+          "word": "捨てる",
+          "Nep-meaning": "फाल्नु, त्याग गर्नु",
+          "sent-Nep": "कृपया फोहोर फालिदिनुहोस्।"
+        },
+        {
+          "word": "移す",
+          "Nep-meaning": "सर्नु, स्थानान्तरण गर्नु",
+          "sent-Nep": "मैले टेबल झ्यालको छेउमा सारें।"
+        },
+        {
+          "word": "正しい",
+          "Nep-meaning": "सही, वैध",
+          "sent-Nep": "त्यो सही उत्तर हो।"
+        },
+        {
+          "word": "売れる",
+          "Nep-meaning": "बेच्नु, मागमा हुनु",
+          "sent-Nep": "यस वर्षको गर्मीमा एयर कन्डिसनर राम्रो बेचियो।"
+        },
+        {
+          "word": "番組",
+          "Nep-meaning": "कार्यक्रम",
+          "sent-Nep": "मलाई यो कार्यक्रम मन पर्छ।"
+        },
+        {
+          "word": "代わる",
+          "Nep-meaning": "प्रतिस्थापन गर्नु",
+          "sent-Nep": "म बैठकमा मेरो वरिष्ठको सट्टामा गएँ।"
+        },
+        {
+          "word": "着く",
+          "Nep-meaning": "पुग्नु, सम्पर्क गर्नु",
+          "sent-Nep": "म साँझ ८ बजे ओसाका पुग्छु।"
+        },
+        {
+          "word": "バス",
+          "Nep-meaning": "बस",
+          "sent-Nep": "हामी बसबाट जान्छौं।"
+        },
+        {
+          "word": "中学",
+          "Nep-meaning": "माध्यमिक विद्यालय",
+          "sent-Nep": "मेरो छोरो माध्यमिक विद्यालयमा जान्छ।"
+        },
+        {
+          "word": "歌",
+          "Nep-meaning": "गीत",
+          "sent-Nep": "म त्यो गीतलाई चिनेको छैन।"
+        },
+        {
+          "word": "薄い",
+          "Nep-meaning": "पातलो, हल्का",
+          "sent-Nep": "यो इलेक्ट्रोनिक शब्दकोश धेरै पातलो छ।"
+        },
+        {
+          "word": "減らす",
+          "Nep-meaning": "घटाउनु, कम गर्नु",
+          "sent-Nep": "हालसालै, मैले खाना घटाउँदैछु।"
+        },
+        {
+          "word": "科学",
+          "Nep-meaning": "विज्ञान",
+          "sent-Nep": "विज्ञान सधैं प्रगति गर्दैछ।"
+        },
+        {
+          "word": "約束",
+          "Nep-meaning": "प्रतिज्ञा",
+          "sent-Nep": "म वाचा पूरा गर्छु।"
+        },
+        {
+          "word": "出発",
+          "Nep-meaning": "प्रस्थान",
+          "sent-Nep": "१५ मिनेटमा प्रस्थान हुन्छ।"
+        },
+        {
+          "word": "動かす",
+          "Nep-meaning": "चलाउनु, सञ्चालन गर्नु",
+          "sent-Nep": "मैले कोठाका फर्निचर चलाएँ।"
+        },
+        {
+          "word": "紹介",
+          "Nep-meaning": "परिचय",
+          "sent-Nep": "मैले मेरा अभिभावकलाई उनको परिचय गराएँ।"
+        },
+        {
+          "word": "倒れる",
+          "Nep-meaning": "लड्नु, समर्पण गर्नु",
+          "sent-Nep": "बलियो हावाले रुख लडायो।"
+        },
+        {
+          "word": "席",
+          "Nep-meaning": "सिट",
+          "sent-Nep": "यो सिट खाली छ?।"
+        },
+        {
+          "word": "熱",
+          "Nep-meaning": "तापक्रम, ज्वरो",
+          "sent-Nep": "हिजो राति मलाई ज्वरो आयो।"
+        },
+        {
+          "word": "値段",
+          "Nep-meaning": "मूल्य",
+          "sent-Nep": "यो बेल्टको मूल्य २५०० येन थियो।"
+        },
+        {
+          "word": "長さ",
+          "Nep-meaning": "लम्बाइ",
+          "sent-Nep": "यो केबलको लम्बाइ १ मिटर हो।"
+        },
+        {
+          "word": "クラス",
+          "Nep-meaning": "कक्षा",
+          "sent-Nep": "यस विद्यालयमा एक कक्षामा ३० विद्यार्थी छन्।"
+        },
+        {
+          "word": "隣",
+          "Nep-meaning": "छिमेकी, छेउ",
+          "sent-Nep": "छेउको घरमा कुकुर छ।"
+        },
+        {
+          "word": "トラック",
+          "Nep-meaning": "ट्रक",
+          "sent-Nep": "के तपाईं ट्रक चलाउन सक्नुहुन्छ?"
+        },
+        {
+          "word": "大使館",
+          "Nep-meaning": "दूतावास",
+          "sent-Nep": "उनी दूतावासमा काम गर्छन्।"
+        },
+        {
+          "word": "亡くなる",
+          "Nep-meaning": "मर्नु, बित्नु",
+          "sent-Nep": "अर्को दिन, पुरानो साथी बित्यो।"
+        },
+        {
+          "word": "パーティー",
+          "Nep-meaning": "पार्टी",
+          "sent-Nep": "भोलि, हामी घरमा पार्टी गर्नेछौं।"
+        },
+        {
+          "word": "犬",
+          "Nep-meaning": "कुकुर",
+          "sent-Nep": "यो कुकुर धेरै होशियार छ।"
+        },
+        {
+          "word": "うまい",
+          "Nep-meaning": "स्वादिष्ट, राम्रो",
+          "sent-Nep": "मैले स्वादिष्ट सुशी पसल भेटें।"
+        },
+        {
+          "word": "特別",
+          "Nep-meaning": "विशेष",
+          "sent-Nep": "तिमी मेरो लागि विशेष व्यक्ति हौ।"
+        },
+        {
+          "word": "教室",
+          "Nep-meaning": "कक्षा",
+          "sent-Nep": "मेरो कक्षा तेस्रो तलामा छ।"
+        },
+        {
+          "word": "ガラス",
+          "Nep-meaning": "सिसा",
+          "sent-Nep": "मैले क्रिस्टल गिलासको फूलदानी किनेँ।"
+        },
+        {
+          "word": "振る",
+          "Nep-meaning": "हल्लाउनु, हल्लाउनु",
+          "sent-Nep": "कुकुरले पुच्छर हल्लाउँदैछ।"
+        },
+        {
+          "word": "落とす",
+          "Nep-meaning": "खसाल्नु, हटाउनु",
+          "sent-Nep": "मैले बाटोमा पर्स खसालें।"
+        },
+        {
+          "word": "夕方",
+          "Nep-meaning": "साँझ",
+          "sent-Nep": "साँझमा त्यहाँ पुग्छु।"
+        },
+        {
+          "word": "コース",
+          "Nep-meaning": "कोर्स",
+          "sent-Nep": "म जापानी भाषा कोर्स लिइरहेको छु।"
+        },
+        {
+          "word": "アパート",
+          "Nep-meaning": "अपार्टमेन्ट",
+          "sent-Nep": "उनी अपार्टमेन्टमा बस्छन्।"
+        },
+        {
+          "word": "小説",
+          "Nep-meaning": "उपन्यास",
+          "sent-Nep": "म महिनामा तीन उपन्यास पढ्छु।"
+        },
+        {
+          "word": "レコード",
+          "Nep-meaning": "रेकर्ड",
+          "sent-Nep": "मैले ज्याजको रेकर्ड बजाएँ।"
+        },
+        {
+          "word": "どんどん",
+          "Nep-meaning": "ठोक्नु",
+          "sent-Nep": "म ठोक्दै थिएँ।"
+        },
+        {
+          "word": "通う",
+          "Nep-meaning": "जाने, आउँदै-गर्दै",
+          "sent-Nep": "म जिममा जान्छु।"
+        },
+        {
+          "word": "秘密",
+          "Nep-meaning": "रहस्य",
+          "sent-Nep": "यो गोप्य कुरा हो।"
+        },
+        {
+          "word": "料理",
+          "Nep-meaning": "खाना बनाउने, व्यवस्थापन गर्ने",
+          "sent-Nep": "आमालाई खाना पकाउन राम्रो लाग्छ।"
+        },
+        {
+          "word": "苦しい",
+          "Nep-meaning": "पीडादायक, गाह्रो",
+          "sent-Nep": "धेरै खाएर पेट गाह्रो भयो।"
+        },
+        {
+          "word": "信じる",
+          "Nep-meaning": "विश्वास गर्नु",
+          "sent-Nep": "उनी क्राइस्टलाई विश्वास गर्छन्।"
+        },
+        {
+          "word": "何か",
+          "Nep-meaning": "केहि",
+          "sent-Nep": "बाटोमा केहि खसेको छ।"
+        },
+        {
+          "word": "カメラ",
+          "Nep-meaning": "क्यामेरा",
+          "sent-Nep": "क्यामेरा बिग्रियो।"
+        },
+        {
+          "word": "下げる",
+          "Nep-meaning": "घटाउनु, तल झार्नु",
+          "sent-Nep": "कृपया भोल्युम अलिकति घटाउनुहोस्।"
+        },
+        {
+          "word": "留学",
+          "Nep-meaning": "विदेश अध्ययन",
+          "sent-Nep": "म एक वर्ष अमेरिकामा अध्ययन गरें।"
+        },
+        {
+          "word": "無理",
+          "Nep-meaning": "असंभव, जबरजस्ती",
+          "sent-Nep": "घरमा ५ बजेसम्म फर्कन असम्भव छ।"
+        },
+        {
+          "word": "飾る",
+          "Nep-meaning": "सजाउनु, प्रदर्शन गर्नु",
+          "sent-Nep": "मैले टेबलमा फूल सजाएँ।"
+        },
+        {
+          "word": "北",
+          "Nep-meaning": "उत्तर",
+          "sent-Nep": "रूस जापानको उत्तरमा छ।"
+        },
+        {
+          "word": "訪ねる",
+          "Nep-meaning": "भेट्न जानु, कल गर्नु",
+          "sent-Nep": "उनी न्यूयोर्कका साथीलाई भेट्न गए।"
+        },
+        {
+          "word": "テープ",
+          "Nep-meaning": "टेप",
+          "sent-Nep": "उनीले त्यो कुराकानीलाई टेपमा रेकर्ड गरिन्।"
+        },
+        {
+          "word": "馬",
+          "Nep-meaning": "घोडा",
+          "sent-Nep": "उनी फार्ममा घोडामा चढे।"
+        },
+        {
+          "word": "長男",
+          "Nep-meaning": "ठूलो छोरा",
+          "sent-Nep": "उनको ठूलो छोरा ८ वर्षको छ।"
+        },
+        {
+          "word": "近所",
+          "Nep-meaning": "छिमेक",
+          "sent-Nep": "छिमेकमा क्यानाडेली बस्छन्।"
+        },
+        {
+          "word": "数学",
+          "Nep-meaning": "गणित",
+          "sent-Nep": "मेरो दाजु गणित शिक्षक हुन्।"
+        },
+        {
+          "word": "入学",
+          "Nep-meaning": "विद्यालय प्रवेश",
+          "sent-Nep": "मेरो बहिनी सेप्टेम्बरमा अमेरिकी विश्वविद्यालयमा भर्ना हुँदैछ।"
+        },
+        {
+          "word": "黒い",
+          "Nep-meaning": "कालो",
+          "sent-Nep": "उनीले कालो पोशाक लगाएकी छिन्।"
+        },
+        {
+          "word": "頼む",
+          "Nep-meaning": "माग्नु, अनुरोध गर्नु",
+          "sent-Nep": "मैले बर्गर अर्डर गरें।"
+        },
+        {
+          "word": "並べる",
+          "Nep-meaning": "लाइनमा राख्नु, प्रदर्शन गर्नु",
+          "sent-Nep": "मैले टेबलमा खाना राखें।"
+        },
+        {
+          "word": "受け取る",
+          "Nep-meaning": "प्राप्त गर्नु, बुझ्नु",
+          "sent-Nep": "मैले उनलाई इमेल प्राप्त गरें।"
+        },
+        {
+          "word": "太陽",
+          "Nep-meaning": "सूर्य",
+          "sent-Nep": "सूर्य बादलमा लुक्यो।"
+        },
+        {
+          "word": "年寄り",
+          "Nep-meaning": "बूढो व्यक्ति",
+          "sent-Nep": "त्यो गाउँमा धेरै बूढो व्यक्ति बस्छन्।"
+        },
+        {
+          "word": "味",
+          "Nep-meaning": "स्वाद",
+          "sent-Nep": "यो खाना स्वादमा हल्का छ।"
+        },
+        {
+          "word": "思い出す",
+          "Nep-meaning": "स्मरण गर्नु",
+          "sent-Nep": "महत्वपूर्ण काम सम्झें।"
+        },
+        {
+          "word": "細かい",
+          "Nep-meaning": "सूक्ष्म, विस्तृत",
+          "sent-Nep": "उनी सूक्ष्म कुरामा बढी ध्यान दिन्छिन्।"
+        },
+        {
+          "word": "成績",
+          "Nep-meaning": "परिणाम, कीर्तिमान",
+          "sent-Nep": "मेरो नतिजा सुधार भयो।"
+        },
+        {
+          "word": "涙",
+          "Nep-meaning": "आँसु",
+          "sent-Nep": "उनको आँखाबाट आँसु बगे।"
+        },
+        {
+          "word": "横",
+          "Nep-meaning": "साइड, चौडाइ",
+          "sent-Nep": "चौडाइ १ मिटर छ।"
+        },
+        {
+          "word": "穴",
+          "Nep-meaning": "प्वाल",
+          "sent-Nep": "जुत्तामा प्वाल छ।"
+        },
+        {
+          "word": "季節",
+          "Nep-meaning": "मौसम",
+          "sent-Nep": "मेरो मनपर्ने मौसम वसन्त हो।"
+        },
+        {
+          "word": "ビール",
+          "Nep-meaning": "बियर",
+          "sent-Nep": "गर्मीमा बियर धेरै स्वादिलो हुन्छ।"
+        },
+        {
+          "word": "故障",
+          "Nep-meaning": "बिग्रनु, दोष",
+          "sent-Nep": "फ्रिज बिग्रियो।"
+        },
+        {
+          "word": "裏",
+          "Nep-meaning": "पछाडि, भित्री",
+          "sent-Nep": "कम्पनीको पछाडि पार्क छ।"
+        },
+        {
+          "word": "ページ",
+          "Nep-meaning": "पृष्ठ",
+          "sent-Nep": "कृपया पृष्ठ ३२ खोल्नुहोस्।"
+        },
+        {
+          "word": "迎える",
+          "Nep-meaning": "स्वागत गर्नु, भेट्न जानु",
+          "sent-Nep": "मेरो दिदी विमानस्थलमा मलाई भेट्न आउँछिन्।"
+        },
+        {
+          "word": "野菜",
+          "Nep-meaning": "तरकारी",
+          "sent-Nep": "म दैनिक धेरै तरकारी खान्छु।"
+        },
+        {
+          "word": "渡す",
+          "Nep-meaning": "हस्तान्तरण गर्नु, सुम्पनु",
+          "sent-Nep": "मैले उनलाई पत्र दिएँ।"
+        },
+        {
+          "word": "贈る",
+          "Nep-meaning": "प्रदान गर्नु, उपहार दिनु",
+          "sent-Nep": "मैले आमालाई फूल दिएँ।"
+        },
+        {
+          "word": "合格",
+          "Nep-meaning": "परीक्षा पास गर्नु",
+          "sent-Nep": "मेरो छोरीले प्रवेश परीक्षा पास गरिन्।"
+        },
+        {
+          "word": "グラフ",
+          "Nep-meaning": "चार्ट, ग्राफ",
+          "sent-Nep": "उनले बिक्रीलाई ग्राफमा देखाए।"
+        },
+        {
+          "word": "公園",
+          "Nep-meaning": "पार्क",
+          "sent-Nep": "बच्चाहरू पार्कमा खेल्दैछन्।"
+        },
+        {
+          "word": "戸",
+          "Nep-meaning": "ढोका",
+          "sent-Nep": "कोठाको ढोका खुला छ।"
+        },
+        {
+          "word": "中学生",
+          "Nep-meaning": "माध्यमिक विद्यालय विद्यार्थी",
+          "sent-Nep": "मेरो छोरो माध्यमिक विद्यालयको विद्यार्थी हो।"
+        },
+        {
+          "word": "玄関",
+          "Nep-meaning": "प्रवेशद्वार",
+          "sent-Nep": "मैले प्रवेशद्वारमा फूल सजाएँ।"
+        },
+        {
+          "word": "撮る",
+          "Nep-meaning": "फोटो खिच्नु",
+          "sent-Nep": "मैले धेरै फोटो खिचें।"
+        },
+        {
+          "word": "夏休み",
+          "Nep-meaning": "गर्मीको बिदा",
+          "sent-Nep": "आज गर्मीको बिदाको अन्तिम दिन हो।"
+        },
+        {
+          "word": "毎年",
+          "Nep-meaning": "हरेक वर्ष",
+          "sent-Nep": "म हरेक वर्ष विदेश यात्रा गर्छु।"
+        },
+        {
+          "word": "地図",
+          "Nep-meaning": "नक्सा",
+          "sent-Nep": "नक्सा हेरेर आउनुहोस्।"
+        },
+        {
+          "word": "海岸",
+          "Nep-meaning": "समुद्र किनारा",
+          "sent-Nep": "समुद्र किनारमा हिँडौं।"
+        },
+        {
+          "word": "急に",
+          "Nep-meaning": "अचानक",
+          "sent-Nep": "अचानक मलाई काम सम्झना आयो।"
+        },
+        {
+          "word": "女の子",
+          "Nep-meaning": "केटी, छोरी",
+          "sent-Nep": "तपाईं त्यो केटीलाई चिन्नुहुन्छ?"
+        },
+        {
+          "word": "ポスト",
+          "Nep-meaning": "हुलाक बक्स",
+          "sent-Nep": "मैले पत्र हुलाक बक्समा हालेँ।"
+        },
+        {
+          "word": "暗い",
+          "Nep-meaning": "अँध्यारो",
+          "sent-Nep": "पूर्वको आकाश अँध्यारो छ।"
+        },
+        {
+          "word": "両方",
+          "Nep-meaning": "दुबै",
+          "sent-Nep": "मलाई चकलेट र केक दुबै दिनुहोस्।"
+        },
+        {
+          "word": "向こう",
+          "Nep-meaning": "उता, अर्को पक्ष",
+          "sent-Nep": "मेरो साथी उता छ।"
+        },
+        {
+          "word": "忙しい",
+          "Nep-meaning": "व्यस्त",
+          "sent-Nep": "म व्यस्त छु, कृपया मद्दत गर्नुहोस्।"
+        },
+        {
+          "word": "給料",
+          "Nep-meaning": "तलब",
+          "sent-Nep": "अर्को वर्षदेखि तलब बढ्नेछ।"
+        },
+        {
+          "word": "テスト",
+          "Nep-meaning": "परीक्षा",
+          "sent-Nep": "परीक्षा सुरु गर्नुहोस्।"
+        },
+        {
+          "word": "あちこち",
+          "Nep-meaning": "सर्वत्र",
+          "sent-Nep": "हामी बिहानैदेखि सर्वत्र घुम्यौं।"
+        },
+        {
+          "word": "切れる",
+          "Nep-meaning": "समाप्त हुनु, काट्न सक्नु",
+          "sent-Nep": "यो कैंचीले राम्रो काट्छ।"
+        },
+        {
+          "word": "野球",
+          "Nep-meaning": "बेसबल",
+          "sent-Nep": "मैले साथीहरूसँग बेसबल खेलेँ।"
+        },
+        {
+          "word": "試験",
+          "Nep-meaning": "परीक्षा",
+          "sent-Nep": "भोलिको परीक्षा, शुभकामना।"
+        },
+        {
+          "word": "台風",
+          "Nep-meaning": "तूफान",
+          "sent-Nep": "तूफान नजिकिदैछ।"
+        },
+        {
+          "word": "規則",
+          "Nep-meaning": "नियम",
+          "sent-Nep": "त्यो कम्पनीको नियम कडा छ।"
+        },
+        {
+          "word": "遠く",
+          "Nep-meaning": "दूर",
+          "sent-Nep": "दूर सिप देख्न सकिन्छ।"
+        },
+        {
+          "word": "ゴルフ",
+          "Nep-meaning": "गोल्फ",
+          "sent-Nep": "मेरो दाजुले गोल्फ सुरु गरे।"
+        },
+        {
+          "word": "看護婦",
+          "Nep-meaning": "महिला नर्स",
+          "sent-Nep": "मेरो आमा महिला नर्स हुनुहुन्छ।"
+        },
+        {
+          "word": "ラジオ",
+          "Nep-meaning": "रेडियो",
+          "sent-Nep": "उनी रेडियो सुनिरहेकी छिन्।"
+        },
+        {
+          "word": "逢う",
+          "Nep-meaning": "भेट्नु",
+          "sent-Nep": "अन्ततः म एक अद्भुत महिलालाई भेटें।"
+        },
+        {
+          "word": "タクシー",
+          "Nep-meaning": "ट्याक्सी",
+          "sent-Nep": "कृपया ट्याक्सी बोलाउनुहोस्।"
+        },
+        {
+          "word": "来月",
+          "Nep-meaning": "अर्को महिना",
+          "sent-Nep": "अर्को महिनादेखि म विश्वविद्यालय विद्यार्थी हुन्छु।"
+        },
+        {
+          "word": "教科書",
+          "Nep-meaning": "पाठ्यपुस्तक",
+          "sent-Nep": "मैले जापानी पाठ्यपुस्तक बिर्सें।"
+        },
+        {
+          "word": "電気",
+          "Nep-meaning": "बिजुली",
+          "sent-Nep": "कृपया बत्ती बाल्नुहोस्।"
+        },
+        {
+          "word": "急",
+          "Nep-meaning": "अत्यावश्यक, गम्भीर",
+          "sent-Nep": "हामीले गम्भीर उकालो चढ्यौं।"
+        },
+        {
+          "word": "ゆっくり",
+          "Nep-meaning": "बिस्तारै",
+          "sent-Nep": "अलि बिस्तारै बोल्नुहोस्।"
+        },
+        {
+          "word": "兄弟",
+          "Nep-meaning": "दाजुभाइ",
+          "sent-Nep": "उनी तीन दाजुभाइ छन्।"
+        },
+        {
+          "word": "牛肉",
+          "Nep-meaning": "गाईको मासु",
+          "sent-Nep": "रातको भोजनका लागि गाईको मासु किनें।"
+        },
+        {
+          "word": "確か",
+          "Nep-meaning": "निश्चित",
+          "sent-Nep": "उनको पदोन्नति निश्चित छ।"
+        },
+        {
+          "word": "慣れる",
+          "Nep-meaning": "बानी पर्नु",
+          "sent-Nep": "के तपाईं नयाँ घरमा बानी पर्नुभयो?"
+        },
+        {
+          "word": "厚い",
+          "Nep-meaning": "मोटो",
+          "sent-Nep": "त्यो शब्दकोश धेरै मोटो छ।"
+        },
+        {
+          "word": "返す",
+          "Nep-meaning": "फिर्ता गर्नु",
+          "sent-Nep": "मैले पुस्तक पुस्तकालयमा फिर्ता गरें।"
+        },
+        {
+          "word": "中学校",
+          "Nep-meaning": "माध्यमिक विद्यालय",
+          "sent-Nep": "मेरो छोरोको माध्यमिक विद्यालय घरबाट ५ मिनेट टाढा छ।"
+        },
+        {
+          "word": "森",
+          "Nep-meaning": "जङ्गल",
+          "sent-Nep": "मलाई जङ्गलमा हिँड्न मन पर्छ।"
+        },
+        {
+          "word": "降りる",
+          "Nep-meaning": "ओर्लनु",
+          "sent-Nep": "अर्को स्टेसनमा ओर्लन्छु।"
+        },
+        {
+          "word": "曲",
+          "Nep-meaning": "गाना, धुन",
+          "sent-Nep": "मलाई यो गाना धेरै मन पर्छ।"
+        },
+        {
+          "word": "遊び",
+          "Nep-meaning": "खेल",
+          "sent-Nep": "हामी नयाँ वर्षमा विभिन्न खेल खेल्छौं।"
+        }
+            
 ]
