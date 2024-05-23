@@ -165,7 +165,6 @@ vocab explanation
 */
 .vocab-explanation{
   color: var(--text-color-light);
-  padding-left: 10px;
 }
 .vocab-explanation p {
   margin-bottom: 10px;
@@ -176,17 +175,11 @@ vocab explanation
 }
 
 .vocab-explanation ul {
-  margin-left: 20px;
   margin-bottom: 10px;
 }
 
 .vocab-explanation ul li {
   margin-bottom: 5px;
-}
-
-.vocab-explanation ul li:before {
-  content: '• ';
-  color: #337ab7; 
 }
 
 .vocab-explanation strong {

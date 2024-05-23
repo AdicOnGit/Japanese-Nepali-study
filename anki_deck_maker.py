@@ -72,7 +72,7 @@ with open(f'versions/{file_version}/Jap-Nep-{file_version}.csv', 'r', encoding='
         try:
             # Parse the explanation JSON
             explanation = json.loads(explanation_str)
-            explanation_formatted = f"<strong>{explanation['word']} ({explanation['pronunciation']}):</strong><ul>"
+            explanation_formatted = f"<ul>"
             for meaning in explanation['meanings']:
                 explanation_formatted += f"<li><strong>{meaning['nepali']} ({meaning['english']}):</strong><ul>"
                 for detail in meaning['details']:
