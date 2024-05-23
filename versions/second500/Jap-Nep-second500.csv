@@ -1,501 +1,96 @@
-Core-index,jlpt,Vocab-expression,Vocab-kana,Vocab-meaning-eng,Nep-meaning,Vocab-pos,Sentence-expression,Sentence-meaning-nep,Sentence-kana,Sentence-meaning-eng
-501,JLPT3,技術,ぎじゅつ,"skill, technology","कौशल, प्रविधि",Noun,彼は非常に高い技術を持っている。,उनीसँग धेरै उच्च प्रविधि छ।,かれ は ひじょう に たかい ぎじゅつ を もって いる,He has very advanced skills.
-502,JLPT0,まま,まま,"as is, still (in the current state)","जस्ताको तस्तै, अझै (वर्तमान अवस्थामा)",Noun,電気がついたままですよ。,बत्ती अझै बालिएको छ।,でんき が ついた まま です よ,The light is still on.
-503,JLPT2,完成,かんせい,"completion, finish","सम्पन्नता, पूरा",Verbal Noun,新しいホームページが完成した。,नयाँ होमपेज पूरा भएको छ।,あたらしい ほーむぺーじ が かんせい した,We finished our new home page.
-504,JLPT2,変化,へんか,change,परिवर्तन,Verbal Noun,今年は変化の多い年でした。,यो वर्ष परिवर्तनले भरिएको थियो।,ことし は へんか の おおい とし でした,There was a lot of change this year.
-505,JLPT2,存在,そんざい,"existence, being",अस्तित्व,Verbal Noun,宇宙人は存在すると思いますか。,के तपाईलाई एलियन्सको अस्तित्वमा विश्वास छ?,うちゅうじん は そんざい する と おもいます か,Do you think that aliens exist?
-506,JLPT2,参加,さんか,participation,भाग लिने,Verbal Noun,明日は市民マラソンに参加します。,भोलि म नागरिक म्याराथनमा भाग लिन्छु।,あす は しみん まらそん に さんか します,I'll participate in the citizens' marathon tomorrow.
-507,JLPT4,テレビ,テレビ,television,टेलिभिजन,Noun,私はテレビをあまり見ません。,म धेरै टेलिभिजन हेर्दिन।,わたし は てれび を あまり みません,I don't watch much TV.
-508,JLPT2,土地,とち,land,जमीन,Noun,ここは父の土地です。,यो मेरो बाबुको जमीन हो।,ここ は ちち の とち です,This is my father's land.
-509,JLPT2,減る,へる,"decrease, diminish",घट्नु,Verb,体重がかなり減りました。,मेरो तौल धेरै घट्यो।,たいじゅう が かなり へりました,I've lost a lot of weight.
-510,JLPT2,検討,けんとう,"consideration, inspection","विचार, निरीक्षण",Verbal Noun,今日中にこの問題を検討してください。,कृपया आज यो समस्याको निरीक्षण गर्नुहोस्।,きょう じゅう に この もんだい を けんとう して ください,Please consider this problem by the end of the day.
-511,JLPT3,政治,せいじ,politics,राजनीति,Noun,私は政治に関心がある。,म राजनीतिमा रुचि राख्छु।,わたし は せいじ に かんしん が ある,I'm interested in politics.
-512,JLPT2,実施,じっし,"enforcement, implementation",कार्यान्वयन,Verbal Noun,現在、スペシャルキャンペーンを実施中です。,"हाल, विशेष अभियान चलिरहेको छ।",げんざい すぺしゃるきゃんぺーん を じっしちゅう です,A special campaign is now under way.
-513,JLPT2,開始,かいし,beginning,सुरुआत,Verbal Noun,運動会は9時開始です。,खेल प्रतियोगिता ९ बजे सुरु हुनेछ।,うんどうかい は くじ かいし です,The athletic meet begins at nine o'clock.
-514,JLPT2,備える,そなえる,"provide for, furnish","तयार गर्नु, सुसज्जित गर्नु",Verb,災害に備えて大量の水を買い込んだ。,मैले विपदका लागि धेरै पानी किनें।,さいがい に そなえて たいりょう の みず を かいこんだ,I bought large quantities of water to prepare for disasters.
-515,JLPT2,輸入,ゆにゅう,import,आयात,Verbal Noun,これはイタリアから輸入した服です。,यो इटालीबाट आयात गरिएको कपडा हो।,これ は いたりあ から ゆにゅう した ふく です,These clothes are imported from Italy.
-516,JLPT0,最大,さいだい,"biggest, largest",सबैभन्दा ठूलो,Noun,これは世界最大の船です。,यो विश्वको सबैभन्दा ठूलो जहाज हो।,これ は せかい さいだい の ふね です,This is the world's largest ship.
-517,JLPT3,競争,きょうそう,competition,प्रतिस्पर्धा,Verbal Noun,2社は互いに競争している。,दुई कम्पनीहरु एक आपसमा प्रतिस्पर्धा गरिरहेका छन्।,にしゃ は たがい に きょうそう して いる,Two companies are competing with each other.
-518,JLPT2,部分,ぶぶん,"part, section",भाग,Noun,この部分は問題ないです。,यो भागमा कुनै समस्या छैन।,この ぶぶん は もんだい ない です,There's no problem with this part.
-519,JLPT4,消える,きえる,"be extinguished, disappear",अलप हुनु,Verb,突然、電気が消えた。,अचानक बत्ती हरायो।,とつぜん でんき が きえた,Suddenly the electricity went out.
-520,JLPT4,家族,かぞく,"family, household",परिवार,Noun,うちは五人家族です。,हाम्रो परिवारमा पाँच जना छन्।,うち は ごにん かぞく です,We're a family of five.
-521,JLPT2,内容,ないよう,contents,सामग्री,Noun,この本の内容を説明してください。,कृपया यस किताबको सामग्रीको व्याख्या गर्नुहोस्।,この ほん の ないよう を せつめい して ください,Please explain the content of this book.
-522,JLPT3,比べる,くらべる,"compare, contrast",तुलना गर्नु,Verb,今月と先月の売上を比べた。,मैले यस महिना र गत महिनाको बिक्री तुलना गरें।,こんげつ と せんげつ の うりあげ を くらべた,I compared this month's sales with last month's.
-523,JLPT4,生まれる,うまれる,"be born, come into existence",जन्मिनु,Verb,姉夫婦に男の子が生まれました。,मेरो दिदी-भिनाजुलाई छोरो जन्मिएको छ।,あね ふうふ に おとこのこ が うまれました,My sister and her husband had a baby boy.
-524,JLPT2,与える,あたえる,give,दिनु,Verb,そのニュースは彼に大きなショックを与えた。,त्यो समाचारले उनलाई ठूलो धक्का दियो।,その にゅーす は かれ に おおき な しょっく を あたえた,The news gave him a great shock.
-525,JLPT1,選挙,せんきょ,election,चुनाव,Verbal Noun,彼は選挙に出るつもりだ。,उनी चुनावमा उत्रन चाहन्छन्।,かれ は せんきょ に でる つもり だ,He intends to run in the election.
-526,JLPT2,対立,たいりつ,"opposition, antagonism",विरोध,Verbal Noun,その2社は対立しています。,ती दुई कम्पनीहरु एक आपसमा विरोध गरिरहेका छन्।,その にしゃ は たいりつ して います,The two companies are against each other.
-527,JLPT3,理由,りゆう,"reason, cause",कारण,Noun,遅れた理由を教えてください。,तपाईं ढिलो हुनुको कारण बताउनुहोस्।,おくれた りゆう を おしえて ください,Please tell me why you were late.
-528,JLPT2,構成,こうせい,organization,संरचना,Verbal Noun,システムの構成を変えてみました。,मैले सिस्टमको संरचना परिवर्तन गरें।,しすてむ の こうせい を かえて みました,I've tried to reorganize the system.
-529,JLPT2,管理,かんり,"management, administration",व्यवस्थापन,Verbal Noun,彼女が私のスケジュールを管理している。,उनले मेरो तालिका व्यवस्थापन गर्छिन्।,かのじょ が わたし の すけじゅーる を かんり して いる,She manages my schedule.
-530,JLPT2,増加,ぞうか,"increase, gain",बृद्धि,Verbal Noun,島の人口は年々増加しています。,टापुको जनसंख्या हरेक वर्ष बढिरहेको छ।,しま の じんこう は ねんねん ぞうか して います,The population of the island increases every year.
-531,JLPT1,改革,かいかく,reform,सुधार,Verbal Noun,彼は行政を改革したいと思っている。,उनी प्रशासनमा सुधार ल्याउन चाहन्छन्।,かれ は ぎょうせい を かいかく したい と おもって いる,He wants to reform the administration.
-532,JLPT1,会談,かいだん,"conversation, meeting",बातचीत,Verbal Noun,会談の内容が発表されました。,बातचीतको सामग्री सार्वजनिक गरियो।,かいだん の ないよう が はっぴょう されました,The content of the talks was announced.
-533,JLPT0,会長,かいちょう,"president, chairperson",अध्यक्ष,Noun,初めに会長が挨拶した。,पहिले अध्यक्षले अभिवादन गरे।,はじめ に かいちょう が あいさつ した,First was the chairman's greetings.
-534,JLPT1,ソフト,ソフト,"software, programme",सफ्टवेयर,Noun,このソフトで日本語を勉強することができます。,यस सफ्टवेयरबाट तपाई जापानी भाषा सिक्न सक्नुहुन्छ।,この そふと で にほんご を べんきょう する こと が できます,You can study Japanese with this software.
-535,JLPT1,提供,ていきょう,"offer, provide",प्रदान,Verbal Noun,彼がパーティー会場を提供してくれました。,उहाँले पार्टीको स्थल प्रदान गर्नुभयो।,かれ が ぱーてぃー かいじょう を ていきょう して くれました,He provided us with the venue for the party.
-536,JLPT2,ただ,ただ,free,निःशुल्क,Noun,この温泉はただです。,यो तातो पानी स्नान स्थल निःशुल्क हो।,この おんせん は ただ です,This hot spring is free.
-537,JLPT2,これら,これら,these,यी,Noun,今日はこれらの問題について話し合います。,आज हामी यी समस्याहरूको बारेमा छलफल गर्छौं।,きょう は これら の もんだい に ついて はなしあいます,We will discuss these issues today.
-538,JLPT2,広がる,ひろがる,"spread out, reach",फैलिनु,Verb,留学してから私の世界が広がった。,विदेश अध्ययन गरेपछि मेरो संसार फैलियो।,りゅうがく して から わたし の せかい が ひろがった,My world expanded after studying abroad.
-539,JLPT2,特徴,とくちょう,"distinctive feature, characteristic",विशेषता,Noun,この曲線がこの車の特徴です。,यो कारको विशेषता यस कर्भ हो।,この きょくせん が この くるま の とくちょう です,These curves are a unique feature of this car.
-540,JLPT3,調べる,しらべる,"investigate, check",जाँच गर्नु,Verb,この単語の意味を辞書で調べましょう。,यस शब्दको अर्थ शब्दकोशमा जाँचौं।,この たんご の いみ を じしょ で しらべましょう,Let's look up the meaning of this word in the dictionary.
-541,JLPT2,強調,きょうちょう,"emphasis, stress",जोर दिनु,Verbal Noun,彼は良いところだけを強調した。,उनीले राम्रो पक्ष मात्र जोर दिए।,かれ は よい ところ だけ を きょうちょう した,He only emphasized the strong points.
-542,JLPT2,制度,せいど,"system, organization",प्रणाली,Noun,来年から新しい制度が始まります。,अर्को वर्षदेखि नयाँ प्रणाली सुरु हुनेछ।,らいねん から あたらしい せいど が はじまります,A new system will start from next year.
-543,JLPT2,方針,ほうしん,"course, policy",नीति,Noun,今後の方針が決まった。,अर्को कदमको नीति निर्णय गरियो।,こんご の ほうしん が きまった,We've decided our future policy.
-544,JLPT1,従来,じゅうらい,"former, old","पूर्व, पुरानो",Noun,このプリンターは従来のものより速い。,यो प्रिन्टर पूर्वको भन्दा छिटो छ।,この ぷりんたー は じゅうらい の もの より はやい,This printer prints faster than previous models.
-545,JLPT2,いずれ,いずれ,"eventually, sometime",अन्ततः,Adverb,いずれまたお会いしましょう。,अन्ततः फेरि भेटौँ।,いずれ また おあい しましょう,Let's meet again sometime.
-546,JLPT3,事故,じこ,"accident, incident",दुर्घटना,Noun,彼は事故で怪我をしました。,उनी दुर्घटनामा घाइते भए।,かれ は じこ で けが を しました,He was injured in the accident.
-547,JLPT4,電話,でんわ,"telephone, phone call",फोन,Verbal Noun,あとで電話します。,पछि फोन गर्छु।,あとで でんわ します,I will call you later.
-548,JLPT4,外国,がいこく,foreign country,विदेश,Noun,母はまだ外国に行ったことがありません。,ममीले अझै विदेशमा यात्रा गर्नुभएको छैन।,はは は まだ がいこく に いった こと が ありません,My mother hasn't been abroad yet.
-549,JLPT2,目的,もくてき,"object, purpose",उद्देश्य,Noun,彼が来た目的が分かりません。,उनी किन आएका हुन् थाहा भएन।,かれ が きた もくてき が わかりません,I don't know the purpose of his visit.
-550,JLPT3,自由,じゆう,freedom,स्वतन्त्रता,Adjectival Noun,今日は自由な時間が多い。,आज मसँग धेरै स्वतन्त्र समय छ।,きょう は じゆう な じかん が おおい,I have a lot of free time today.
-551,JLPT1,資金,しきん,"funds, capital",पुँजी,Noun,私たちは今、結婚資金を貯めています。,हामी अहिले विवाहको पुँजी बचाइरहेका छौं।,わたしたち は いま けっこん しきん を ためて います,We're saving for the wedding now.
-552,JLPT4,銀行,ぎんこう,bank,बैंक,Noun,銀行は3時まで開いています。,बैंक तीन बजेसम्म खुला हुन्छ।,ぎんこう は さんじ まで あいて います,The bank is open until three o'clock.
-553,JLPT2,事実,じじつ,"fact, truth",वास्तविकता,Noun,それは全て事実ですか。,के यी सबै वास्तविकता हुन्?,それ は すべて じじつ です か,Is it all true?
-554,JLPT2,決定,けってい,"decision, settlement",निर्णय,Verbal Noun,会議で重要な決定がありました。,बैठकमा महत्वपूर्ण निर्णय भयो।,かいぎ で じゅうよう な けってい が ありました,An important decision was made at the conference.
-555,JLPT2,方向,ほうこう,"direction, course",दिशा,Noun,あの人たちは皆、同じ方向を見ている。,तिनीहरू सबै एउटै दिशातिर हेर्दै छन्।,あの ひとたち は みな おなじ ほうこう を みて いる,Those people are all looking in the same direction.
-556,JLPT2,住宅,じゅうたく,"housing, residence",आवास,Noun,ここは静かな住宅地だ。,यो शान्त आवासीय क्षेत्र हो।,ここ は しずかな じゅうたくち だ,This is a quiet residential area.
-557,JLPT2,代表,だいひょう,representative,प्रतिनिधि,Verbal Noun,彼がクラスの代表だ。,उनी कक्षाको प्रतिनिधि हुन्।,かれ が くらす の だいひょう だ,He's the class representative.
-558,JLPT2,激しい,はげしい,"violent, intense",तीव्र,Adjective,激しい雨が降っています。,तीव्र वर्षा भइरहेको छ।,はげしい あめ が ふって います,A very heavy rain is falling.
-559,JLPT2,株,かぶ,"stocks, shares",सेयर,Noun,最近株を始めました。,म हालसालै सेयर बजारमा सहभागी भएको छु।,さいきん かぶ を はじめました,I recently started investing in stocks.
-560,JLPT1,交渉,こうしょう,"negotiation, bargaining",मोलतोल,Verbal Noun,今、値段を交渉しています。,हामी मूल्यमा मोलतोल गर्दैछौं।,いま ねだん を こうしょう して います,We're currently negotiating the price.
-561,JLPT2,結果,けっか,"result, outcome",नतिजा,Noun,試合の結果を早く知りたい。,म खेलको नतिजा चाँडै जान्न चाहन्छु।,しあい の けっか を はやく しりたい,I want to know soon the results of the game.
-562,JLPT2,全体,ぜんたい,"whole, total",सम्पूर्ण,Noun,全体の80パーセントが完成しました。,सम्पूर्णको ८० प्रतिशत पूरा भयो।,ぜんたい の はちじゅっぱーせんと が かんせい しました,80 percent of the total was completed.
-563,JLPT2,後,のち,"after, afterwards",पछि,Noun,後に彼は総理大臣になりました。,पछि उनी प्रधानमन्त्री भए।,のち に かれ は そうり だいじん に なりました,He would later become Prime Minister.
-564,JLPT2,命令,めいれい,"command, order",आदेश,Verbal Noun,彼女は命令に従わなかった。,उनले आदेश पालना गरेनन्।,かのじょ は めいれい に したがわなかった,She did not obey orders.
-565,JLPT3,十分,じゅうぶん,"full, plentiful",पर्याप्त,Adjectival Noun,お金はまだ十分あります。,हामीसँग अझै पर्याप्त पैसा छ।,おかね は まだ じゅうぶん あります,We still have plenty of money.
-566,JLPT4,あまり,あまり,(not) much,धेरै (असकारात्मकमा),Adverb,このビールはあまり美味しくありません。,यो बियर धेरै स्वादिलो छैन।,この びーる は あまり おいしく ありません,This beer isn't very good.
-567,JLPT2,経営,けいえい,"management, operation",व्यवस्थापन,Verbal Noun,我が社の経営はうまくいっています。,हाम्रो कम्पनीको व्यवस्थापन राम्रो छ।,わがしゃ の けいえい は うまく いって います,Our company is well managed.
-568,JLPT3,原因,げんいん,"cause, origin",कारण,Noun,この事故の原因は何ですか。,यस दुर्घटनाको कारण के हो?,このじこ の げんいん は なん です か,What's the cause of the accident?
-569,JLPT4,写真,しゃしん,photograph,फोटो,Noun,写真は良い思い出になります。,फोटो राम्रो सम्झना हुन्छ।,しゃしん は いい おもいで に なります,Photographs make a good souvenir.
-570,JLPT2,立場,たちば,"standpoint, position",अवस्था,Noun,彼女は自分の立場を分かっていない。,उनी आफ्नो अवस्था बुझ्दिनन्।,かのじょ は じぶん の たちば を わかって いない,She doesn't understand her position.
-571,JLPT2,対策,たいさく,"measure, action",उपाय,Noun,一緒に対策を考えましょう。,सँगै उपाय सोचौं।,いっしょ に たいさく を かんがえましょう,Let's think together about what measures we'll take.
-572,JLPT2,繰り返す,くりかえす,repeat,पुन: गर्नु,Verb,彼女は同じ間違いを繰り返した。,उनले एउटै गल्ती पुन: गरे।,かのじょ は おなじ まちがい を くりかえした,She repeated the same mistake.
-573,JLPT2,評価,ひょうか,"evaluation, appraisal",मूल्यांकन,Verbal Noun,最近、彼の評価が上がった。,"हालसालै, उनको मूल्यांकन बढेको छ।",さいきん かれ の ひょうか が あがった,He's been receiving more recognition lately.
-574,JLPT2,なお,なお,"still, in addition",अझै पनि,Adverb,なお、雨の場合は中止です。,"अझै पनि, वर्षा भएमा रद्द हुनेछ।",なお あめ の ばあい は ちゅうし です,"Moreover, it will be canceled in the event of rain."
-575,JLPT2,計算,けいさん,calculation,गणना,Verbal Noun,その計算は間違っている。,त्यो गणना गलत छ।,その けいさん は まちがって いる,That calculation is wrong.
-576,JLPT1,投資,とうし,investment,लगानी,Verbal Noun,私は4つの会社に投資しています。,मैले चार कम्पनीमा लगानी गरेको छु।,わたし は よっつ の かいしゃ に とうし して います,I'm investing in four companies.
-577,JLPT2,可能,かのう,"possible, potential",सम्भव,Adjectival Noun,20キロのダイエットは可能だと思いますか。,के २० किलो वजन घटाउन सम्भव छ?,にじゅっきろ の だいえっと は かのう だ と おもいます か,Do you think it's possible to go on a twenty kilogram diet?
-578,JLPT2,加える,くわえる,"add, include",थप्नु,Verb,塩、コショウを加えてください。,नून र खुर्सानी थप्नुहोस्।,しお こしょう を くわえて ください,Please add the salt and pepper.
-579,JLPT2,種類,しゅるい,"kind, species",प्रकार,Noun,バラには色々な種類があります。,गुलाबमा विभिन्न प्रकारहरू छन्।,ばら に は いろいろ な しゅるい が あります,There are many varieties of rose.
-580,JLPT2,強化,きょうか,strengthening,मजबुती,Verbal Noun,国は国語教育を強化しています。,देशले भाषा शिक्षालाई मजबुत बनाइरहेको छ।,くに は こくご きょういく を きょうか して います,Our government is strengthening its program in native language education.
-581,JLPT3,意見,いけん,opinion,राय,Noun,あなたの意見が聞きたいです。,म तपाईंको राय सुन्न चाहन्छु।,あなた の いけん が ききたい です,I want to hear your opinion.
-582,JLPT1,伴う,ともなう,"accompany, go with",साथमा,Verb,その仕事は危険を伴う。,त्यो कामले जोखिम साथमा लिन्छ।,その しごと は きけん を ともなう,Danger comes with the job.
-583,JLPT4,新聞,しんぶん,newspaper,समाचारपत्र,Noun,今日の新聞、どこに置いた?,आजको समाचारपत्र कहाँ राखेको?,きょう の しんぶん どこ に おいた,Where did you put today's newspaper?
-584,JLPT2,文章,ぶんしょう,"writing, prose",लेख,Noun,彼は文章がとてもうまい。,उहाँको लेख राम्रो छ।,かれ は ぶんしょう が とても うまい,His writing is very good.
-585,JLPT2,目立つ,めだつ,"stand out, be conspicuous",प्रमुख हुनु,Verb,彼女の大きな帽子はとても目立つ。,उनीहरुको ठूलो टोपी निकै प्रमुख छ।,かのじょ の おおき な ぼうし は とても めだつ,Her big hat really stands out.
-586,JLPT2,設計,せっけい,"design, plan",डिजाइन,Verbal Noun,兄は船の設計をしています。,मेरा दाजु जहाजको डिजाइन गर्छन्।,あに は ふね の せっけい を して います,My big brother is designing a ship.
-587,JLPT2,構造,こうぞう,"construction, structure",संरचना,Noun,この建物の構造は複雑です。,यो भवनको संरचना जटिल छ।,この たてもの の こうぞう は ふくざつ です,The structure of this building is complex.
-588,JLPT2,国会,こっかい,"National Diet, parliament",संसद,Noun,国会が再開した。,संसद पुनः सुरु भयो।,こっかい が さいかい した,The Diet reconvened.
-589,JLPT2,ほぼ,ほぼ,"almost, nearly",लगभग,Adverb,仕事がほぼ終わりました。,काम लगभग समाप्त भयो।,しごと が ほぼ おわりました,My work is almost finished.
-590,JLPT2,相手,あいて,opponent,प्रतिद्वन्द्वी,Noun,試合の相手は誰ですか。,खेलको प्रतिद्वन्द्वी को हुन्?,しあい の あいて は だれ です か,Who are they playing against?
-591,JLPT1,発生,はっせい,"occurrence, happening",घटना,Verbal Noun,交差点で事故が発生した。,चोकमा दुर्घटना भयो।,こうさてん で じこ が はっせい した,There was an accident at the intersection.
-592,JLPT1,採用,さいよう,employment,रोजगारी,Verbal Noun,その会社は女性を多く採用している。,त्यो कम्पनीले धेरै महिलाहरुलाई रोजगारी दिँदैछ।,その かいしゃ は じょせい を おおく さいよう して いる,This company employs many women.
-593,JLPT3,残る,のこる,"remain, be left over",बाँकी रहनु,Verb,料理がたくさん残りました。,धेरै खाना बाँकी रह्यो।,りょうり が たくさん のこりました,A lot of food was left over.
-594,JLPT2,段階,だんかい,stage,चरण,Noun,この段階では、決断するのはまだ早い。,"यो चरणमा, निर्णय लिनु पहिले छ।",この だんかい で は けつだん する の は まだ はやい,"At this stage, it is still early to decide."
-595,JLPT2,報告,ほうこく,report,प्रतिवेदन,Verbal Noun,昨日の会議について報告があります。,हिजोको बैठकको बारेमा प्रतिवेदन छ।,きのう の かいぎ に ついて ほうこく が あります,There's a report about yesterday's conference.
-596,JLPT2,商品,しょうひん,"goods, commodities",सामान,Noun,この商品はよく売れている。,यो सामान राम्रोसँग बेचिँदैछ।,この しょうひん は よく うれて いる,This product is selling well.
-597,JLPT2,都市,とし,"cities, urban community",शहर,Noun,東京は日本一大きな都市です。,टोकियो जापानको सबैभन्दा ठूलो शहर हो।,とうきょう は にほんいち おおき な とし です,Tokyo is the largest city in Japan.
-598,JLPT4,病院,びょういん,hospital,अस्पताल,Noun,病院はどこですか。,अस्पताल कहाँ छ?,びょういん は どこ です か,Where is the hospital?
-599,JLPT1,規模,きぼ,"scale, scope","आकार वा क्षमता",Noun,この動物園は日本一の規模です。,यो चिडियाखाना जापानको सबैभन्दा ठूलो आकार को हो।,この どうぶつえん は にっぽんいち の きぼ です,This is the largest zoo in Japan.
-600,JLPT1,業者,ぎょうしゃ,businessman,व्यवसायी,Noun,引っ越しを業者に頼んだ。,मैले व्यवसायीलाई स्थानान्तरणको लागि सोधें।,ひっこし を ぎょうしゃ に たのんだ,I asked a company to handle my move.
-601,JLPT3,経験,けいけん,experience,अनुभव,Verbal Noun,今日の試合はいい経験になりました。,आजको खेल राम्रो अनुभव भयो।,きょう の しあい は いい けいけん に なりました,Today's game was a good experience.
-602,JLPT2,能力,のうりょく,"ability, capacity",क्षमता,Noun,彼は能力のある社員です。,उनी क्षमता भएको कर्मचारी हुन्।,かれ は のうりょく の ある しゃいん です,He's a resourceful employee.
-603,JLPT3,最初,さいしょ,"first, outset",सुरु,Noun,5ページの最初を見てください。,५ पृष्ठको सुरु हेर्नुहोस्।,ごぺーじ の さいしょ を みて ください,Please look at the beginning of page 5.
-604,JLPT3,国際,こくさい,international,अन्तर्राष्ट्रिय,Noun,ここで国際会議が開かれます。,यहाँ अन्तर्राष्ट्रिय सम्मेलन हुनेछ।,ここ で こくさい かいぎ が ひらかれます,An international conference is going to be held here.
-605,JLPT2,議員,ぎいん,legislator,सांसद,Noun,彼は国会議員です。,उनी सांसद हुन्।,かれ は こっかい ぎいん です,He's a congressman.
-606,JLPT2,記者,きしゃ,"journalist, reporter",पत्रकार,Noun,彼は新聞記者です。,उनी समाचारपत्रका पत्रकार हुन्।,かれ は しんぶん きしゃ です,He's a newspaper journalist.
-607,JLPT2,場所,ばしょ,"place, space",स्थान,Noun,会社の場所を教えてください。,कम्पनीको स्थान बताउनुहोस्।,かいしゃ の ばしょ を おしえて ください,Please tell me where the office is.
-608,JLPT3,運動,うんどう,"movement, exercise",व्यायाम,Verbal Noun,彼はもっと運動した方がいい。,उनीले धेरै व्यायाम गर्नु पर्छ।,かれ は もっと うんどう した ほう が いい,He should exercise more.
-609,JLPT2,サービス,サービス,"service, on the house",सेवा,Verbal Noun,この店はサービスがいい。,यो पसलको सेवा राम्रो छ।,この みせ は さーびす が いい 。,The service in this store is good.
-610,JLPT0,集まる,あつまる,"gather, be collected",भेला हुनु,Verb,駅前に人が集まっています。,स्टेशन अगाडि मानिसहरु भेला भएका छन्।,えきまえ に ひと が あつまって います,Lots of people are gathered in front of the station.
-611,JLPT1,政策,せいさく,"policy, political measures",नीति,Noun,新しい政策はあまり良いとは思えません。,नयाँ नीति खासै राम्रो छैन।,あたらしい せいさく は あまり いい と は おもえません,I don't think the new policy is very good.
-612,JLPT4,車,くるま,car,कार,Noun,この道は車が多い。,यो सडकमा धेरै कारहरु छन्।,この みち は くるま が おおい,There are many cars on this road.
-613,JLPT2,拡大,かくだい,"magnification, enlargement",वृद्धि,Verbal Noun,この図を拡大コピーしてください。,यो चित्रको कपी बढाउनुहोस्।,この ず を かくだい こぴー して ください,Please make an enlargement of this chart.
-614,JLPT2,進む,すすむ,"advance, move forward",अगाडि बढ्नु,Verb,前に進んでください。,अगाडि बढ्नुहोस्।,まえ に すすんで ください,Please move forward.
-615,JLPT2,達する,たっする,"attain, reach",पुग्न,Verb,気温は35度に達した。,तापक्रम ३५ डिग्रीमा पुग्यो।,きおん は さんじゅうごど に たっした,The temperature reached 35 degrees.
-616,JLPT3,会議,かいぎ,"conference, meeting",बैठक,Verbal Noun,今日の午後、大事な会議があります。,आज दिउँसो महत्वपूर्ण बैठक छ।,きょう の ごご だいじ な かいぎ が あります,There's an important meeting this afternoon.
-617,JLPT2,装置,そうち,"equipment, device",उपकरण,Noun,実験にはこの装置を使います。,प्रयोगमा यस उपकरणलाई प्रयोग गरिन्छ।,じっけん に は この そうち を つかいます,We use this device in our experiments.
-618,JLPT2,主張,しゅちょう,"insistence, assertion",जोर,Verbal Noun,上司は私の主張を受け入れた。,मेरे मालिकले मेरो जोरलाई स्वीकार गरे।,じょうし は わたし の しゅちょう を うけいれた,My boss accepted my argument.
-619,JLPT2,記録,きろく,"record, documentation",रेकार्ड,Verbal Noun,マラソンで世界記録が出た。,म्याराथनमा विश्व रेकार्ड बन्यो।,まらそん で せかい きろく が でた,There was a new world record in the marathon.
-620,JLPT2,年度,ねんど,"year, school year",वर्ष,Noun,売り上げは年度によって違います。,बिक्री वर्ष अनुसार फरक हुन्छ।,うりあげ は ねんど に よって ちがいます,Sales differ by fiscal year.
-621,JLPT2,産業,さんぎょう,industry,उद्योग,Noun,日本の自動車産業は世界的に有名だ。,जापानको कार उद्योग विश्वप्रसिद्ध छ।,にほん の じどうしゃ さんぎょう は せかいてき に ゆうめい だ,The Japanese auto industry is famous worldwide.
-622,JLPT1,背景,はいけい,"background, scenery, setting",पृष्ठभूमि,Noun,事件の背景に何があったのだろう。,घटनाको पृष्ठभूमिमा के थियो होला?,じけん の はいけい に なに が あった の だろう,I wonder what was behind the incident.
-623,JLPT2,材料,ざいりょう,"material, factor",सामग्री,Noun,サラダの材料をそろえました。,मैले सलादको सामग्री जुटाए।,さらだ の ざいりょう を そろえました,I have all the ingredients for the salad.
-624,JLPT2,要求,ようきゅう,"requirement, demand",माग,Verbal Noun,彼は私の要求にこたえた。,उनीहरूले मेरो माग पूरा गरे।,かれ は わたし の ようきゅう に こたえた,He answered my demands.
-625,JLPT2,市民,しみん,"citizens, townsmen",नागरिक,Noun,市民の安全は大切だ。,नागरिकको सुरक्षा महत्वपूर्ण छ।,しみん の あんぜん は たいせつ だ,The citizens' safety is important.
-626,JLPT2,世紀,せいき,century,शताब्दी,Noun,新しい世紀の始まりです。,यो नयाँ शताब्दीको सुरुवात हो।,あたらしい せいき の はじまり です,It's the start of a new century.
-627,JLPT1,大幅,おおはば,"drastically, substantially",बिस्तारै,Adverb,計画を大幅に変更した。,मैले योजनामा ठूलो परिवर्तन गरें।,けいかく を おおはば に へんこう した,We substantially changed the plan.
-628,JLPT1,加工,かこう,"processing, manufacturing",प्रशोधन,Verbal Noun,この工場では魚を加工している。,यस कारखानामा माछाको प्रशोधन गरिन्छ।,この こうじょう で は さかな を かこう して いる,This factory processes fish.
-629,JLPT2,実行,じっこう,"practice, execution",कार्यान्वयन,Verbal Noun,彼はその計画を実行した。,उनीहरूले त्यो योजना कार्यान्वयन गरे।,かれ は その けいかく を じっこう した,He executed the plan.
-630,JLPT2,判断,はんだん,"judgment, decision",निर्णय,Verbal Noun,彼の判断は正しい。,उनको निर्णय सही थियो।,かれ の はんだん は ただしい,His judgment is correct.
-631,JLPT2,組織,そしき,"organization, constitution, tissue",संगठन,Verbal Noun,彼はある組織のリーダーだ。,उनी एउटा संगठनका नेता हुन्।,かれ は ある そしき の りーだー だ,He's the leader of a certain organization.
-632,JLPT3,輸出,ゆしゅつ,export,निर्यात,Verbal Noun,彼の会社は車を輸出しています。,उनको कम्पनीले कार निर्यात गर्दछ।,かれ の かいしゃ は くるま を ゆしゅつ して います,His company exports cars.
-633,JLPT3,警察,けいさつ,police,प्रहरी,Noun,警察を呼んでください。,प्रहरीलाई बोलाउनुहोस्।,けいさつ を よんで ください,Call the police.
-634,JLPT3,伝える,つたえる,"convey, transmit, hand down",सञ्चार गर्नु,Verb,みんなにこのことを伝えてください。,सबैलाई यो कुरा जानकारी गराउनुहोस्।,みんな に この こと を つたえて ください,Please tell everyone about this matter.
-635,JLPT0,公開,こうかい,opening (to the public),सार्वजनिक,Verbal Noun,その映画は今日、公開されます。,त्यो चलचित्र आज सार्वजनिक भयो।,その えいが は きょう こうかい されます,The movie opens to the public today.
-636,JLPT0,向かう,むかう,"face, confront, head toward",तर्फ,Verb,今、会社に向かっています。,म अहिले कम्पनीतर्फ जाँदैछु।,いま かいしゃ に むかって います,I'm heading for the office right now.
-637,JLPT3,直す,なおす,"repair, cure, alter",मर्मत गर्नु,Verb,私がそれを直しました。,मैले यसलाई मर्मत गरे।,わたし が それ を なおしました,I mended it.
-638,JLPT0,具体的,ぐたいてき,"concrete, specific",विशिष्ट,Adjectival Noun,具体的な例をいくつか見せてください。,केही विशिष्ट उदाहरणहरू देखाउनुहोस्।,ぐたいてき な れい を いくつか みせて ください,Please show me some concrete examples.
-639,JLPT2,願う,ねがう,"wish, ask a favor, apply for",कामना गर्नु,Verb,彼が元気になるよう願っています。,म उहाँको स्वास्थ्यको कामना गर्छु।,かれ が げんき に なる よう ねがって います,We're praying that he gets well.
-640,JLPT2,グループ,グループ,group,समूह,Noun,店に学生のグループが来た。,दोकानमा विद्यार्थीहरूको समूह आयो।,みせ に がくせい の ぐるーぷ が きた,A group of students came to the shop.
-641,JLPT2,個人,こじん,individual,व्यक्तिगत,Noun,これは私個人の意見です。,यो मेरो व्यक्तिगत राय हो।,これ は わたし こじん の いけん です,This is my personal opinion.
-642,JLPT2,基づく,もとづく,be based on,आधारित,Verb,この話は真実に基づいています。,यो कुरा सत्यमा आधारित छ।,この はなし は しんじつ に もとづいて います,This story is based on truth.
-643,JLPT2,全く,まったく,"entirely, truly, indeed",पूर्ण रूपमा,Adverb,私には全く分かりません。,मलाई पूर्ण रूपमा थाहा छैन।,わたし に は まったく わかりません,I don't understand at all.
-644,JLPT0,見方,みかた,"view, way of looking",दृष्टिकोण,Noun,彼に対する見方が変わりました。,उनीप्रति मेरो दृष्टिकोण परिवर्तन भयो।,かれ に たいする みかた が かわりました,My view of him has changed.
-645,JLPT2,姿勢,しせい,"posture, attitude",अवस्था,Noun,あの子はいつも姿勢が悪い。,उनी सधैं गलत अवस्थामा बस्छिन्।,あの こ は いつも しせい が わるい,That kid always has bad posture.
-646,JLPT2,協力,きょうりょく,"cooperation, collaboration",सहयोग,Verbal Noun,このプロジェクトにはみんなの協力が必要です。,यस परियोजनाका लागि सबैको सहयोग आवश्यक छ।,この ぷろじぇくと に は みんな の きょうりょく が ひつよう です,This project requires everyone's cooperation.
-647,JLPT2,担当,たんとう,person in charge,प्रभारी,Verbal Noun,私はセールスを担当しています。,म बिक्रीको प्रभारी छु।,わたし は せーるす を たんとう して います,I'm in charge of sales.
-648,JLPT2,提案,ていあん,"proposition, proposal",प्रस्ताव,Verbal Noun,そのアイデアは彼の提案です。,त्यो आइडिया उनको प्रस्ताव हो।,その あいであ は かれ の ていあん です,He's the one who proposed that idea.
-649,JLPT3,最後,さいご,"last, final",अन्तिम,Noun,今日が夏休み最後の日だ。,आज गर्मी बिदाको अन्तिम दिन हो।,きょう が なつやすみ さいご の ひ だ,Today's the last day of summer vacation.
-650,JLPT2,招く,まねく,"invite, beckon, engage",आमन्त्रित गर्नु,Verb,両親を食事に招いた。,मैले मेरा बाबुआमालाई खानामा आमन्त्रित गरे।,りょうしん を しょくじ に まねいた,I invited my parents to a meal.
-651,JLPT4,ホテル,ホテル,hotel,होटल,Noun,今ホテルに着きました。,म अहिले होटलमा पुगेको छु।,いま ほてる に つきました,I arrived at the hotel just now.
-652,JLPT2,再び,ふたたび,"again, a second time",फेरि,Adverb,彼は再びここに戻ってきた。,उनी फेरि यहाँ आए।,かれ は ふたたび ここ に もどって きた,He came back here once again.
-653,JLPT1,上昇,じょうしょう,"ascension, rising",बृद्धि,Verbal Noun,地球の気温は上昇している。,पृथ्वीको तापक्रम बढिरहेको छ।,ちきゅう の きおん は じょうしょう して いる,The temperature of the earth is rising.
-654,JLPT3,機械,きかい,machine,मेशिन,Noun,新しい機械が壊れた。,नयाँ मेशिन बिग्रियो।,あたらしい きかい が こわれた,The new machine broke.
-655,JLPT2,注目,ちゅうもく,"attention, notice",ध्यान,Verbal Noun,私たちはその会社に注目している。,हामी त्यो कम्पनीमा ध्यान दिँदैछौं।,わたしたち は その かいしゃ に ちゅうもく して いる,We have our eyes on that company.
-656,JLPT2,過去,かこ,the past,अतीत,Noun,それは過去の話だ。,त्यो अतीतको कुरा हो।,それ は かこ の はなし だ,That's in the past now.
-657,JLPT2,作品,さくひん,"work of art, piece",कृति,Noun,この絵はゴッホの作品だ。,यो चित्र गोगको कृति हो।,この え は ごっほ の さくひん だ,This painting is one of van Gogh's works.
-658,JLPT2,直接,ちょくせつ,directly,प्रत्यक्ष,Adverb,彼に直接お願いしなさい。,उनीसँग प्रत्यक्ष अनुरोध गर्नुहोस्।,かれ に ちょくせつ おねがい しなさい,Ask him directly.
-659,JLPT2,批判,ひはん,"criticism, comment",आलोचना,Verbal Noun,彼は同僚を批判した。,उनीले आफ्नो सहकर्मीलाई आलोचना गरे।,かれ は どうりょう を ひはん した,He criticized his colleague.
-660,JLPT3,文化,ぶんか,culture,संस्कृति,Noun,私はこの国の文化を勉強しています。,म यो देशको संस्कृति अध्ययन गर्दै छु।,わたし は この くに の ぶんか を べんきょう して います,I'm studying this country's culture.
-661,JLPT1,施設,しせつ,"facilities, institution",सुविधा,Noun,そのホテルにはレジャー施設がたくさんある。,त्यो होटलमा धेरै मनोरञ्जन सुविधा छन्।,その ほてる に は れじゃー しせつ が たくさん ある,There are a lot of leisure facilities in the hotel.
-662,JLPT2,成功,せいこう,success,सफलता,Verbal Noun,ついに実験が成功した。,अन्ततः प्रयोग सफल भयो।,ついに じっけん が せいこう した,The experiment finally succeeded.
-663,JLPT2,実際,じっさい,"truth, actual state",वास्तविकता,Adverb,彼は実際にはあまり背が高くない。,वास्तवमा उनी धेरै अग्लो छैनन्।,かれ は じっさい に は あまり せ が たかく ない,"Actually, he's not very tall."
-664,JLPT1,当然,とうぜん,"natural, as a matter of course",स्वाभाविक,Adjectival Noun,彼女が怒るのも当然だ。,उनको रिसाउनु स्वाभाविक हो।,かのじょ が おこる の も とうぜん だ,It's natural that she should be angry.
-665,JLPT2,年間,ねんかん,period of one year,वर्ष,Noun,年間5万人がここを訪れます。,"हामीलाई वार्षिक ५०,००० मानिसहरू यहाँ आउँछन्।",ねんかん ごまんにん が ここ を おとずれます,"This place gets 50,000 visitors a year."
-666,JLPT3,簡単,かんたん,"simple, easy",सरल,Adjectival Noun,この料理はとても簡単です。,यो खाना धेरै सरल छ।,この りょうり は とても かんたん です,This dish is very easy to make.
-667,JLPT2,迫る,せまる,"press, close in on, be imminent",नजिकिनु,Verb,締め切りが迫っています。,समाप्तिको समय नजिकिँदैछ।,しめきり が せまって います,The deadline is approaching.
-668,JLPT0,まとめる,まとめる,"gather together, put in order",संग्रह गर्नु,Verb,彼女は荷物をまとめて出て行った。,उनले आफ्नो सामानहरू सङ्कलन गरेर बाहिर गइन्।,かのじょ は にもつ を まとめて でて いった,She packed her luggage and left.
-669,JLPT2,占める,しめる,"occupy, hold",धारण गर्नु,Verb,私に届くメールのうち、迷惑メールが7割を占めている。,मलाई पठाइएका इमेलहरूको ७०% स्प्याम हुन्छन्।,わたし に とどく めーる の うち めいわく めーる が ななわり を しめて いる,About 70 percent of emails sent to me are junk.
-670,JLPT2,残す,のこす,"leave, reserve, leave undone",छोड्नु,Verb,彼女はメッセージを残しました。,उनले सन्देश छोडेकी छन्।,かのじょ は めっせーじ を のこしました,She left a message.
-671,JLPT2,言語,げんご,"language, speech",भाषा,Noun,彼はアジアの言語を研究している。,उनी एशियाका भाषाहरूको अध्ययन गर्दैछन्।,かれ は あじあ の げんご を けんきゅう して いる,He's doing research in Asian languages.
-672,JLPT3,教育,きょういく,education,शिक्षा,Verbal Noun,彼は海外で教育を受けました。,उनले विदेशमा शिक्षा पाएका छन्।,かれ は かいがい で きょういく を うけました,He received his education abroad.
-673,JLPT2,他,た,"others, other things",अरु,Noun,留学生はアジア人が多く、その他は3割です。,"विद्यार्थीहरूको ७०% एशियाका छन्, र बाँकी अरु हुन्।",りゅうがくせい は あじあじん が おおく そのた は さんわり です,"The majority of foreign students are Asian, with 30 percent from other regions."
-674,JLPT1,取引,とりひき,"transaction, dealings",व्यापार,Verbal Noun,私たちは中国の会社と取引しています。,हामी चीनको कम्पनीसँग व्यापार गर्छौं।,わたしたち は ちゅうごく の かいしゃ と とりひき して います,We're dealing with a Chinese company.
-675,JLPT4,自動車,じどうしゃ,automobile,गाडी,Noun,彼は自動車会社に就職した。,उनी गाडीको कम्पनीमा काम गर्छन्।,かれ は じどうしゃ がいしゃ に しゅうしょく した,He got a job at a car company.
-676,JLPT3,反対,はんたい,"oppose, object",विरोध,Verbal Noun,私は反対です。,म विरोधमा छु।,わたし は はんたい です,I'm against it.
-677,JLPT0,若者,わかもの,"young person, youth",युवा,Noun,最近の若者は本を読まない。,हालसालका युवाहरू पुस्तक पढ्दैनन्।,さいきん の わかもの は ほん を よまない,Young people these days don't read books.
-678,JLPT2,分,ぶん,"amount, part, share",भाग,Noun,このケーキはあなたの分です。,यो केक तपाईंको भाग हो।,この けーき は あなた の ぶん です,This is your share of the cake.
-679,JLPT1,課題,かだい,"task, problem",कार्य,Noun,夏休みの課題は何ですか。,गर्मी बिदाको कार्य के हो?,なつやすみ の かだい は なん です か,What's our summer assignment?
-680,JLPT1,通常,つうじょう,"common, ordinary",सामान्यतया,Noun,通常は夜8時まで営業しています。,"सामान्यतया, हामी राति ८ बजे सम्म खुल्छौं।",つうじょう は よる はちじ まで えいぎょう して います,We're usually open until eight o'clock at night.
-681,JLPT2,同様,どうよう,similar,उस्तै,Adjectival Noun,私たちは彼を家族同様に思っている。,हामी उनलाई परिवार उस्तै मान्छौं।,わたしたち は かれ を かぞく どうよう に おもって いる,We think of him just like family.
-682,JLPT2,程度,ていど,"degree, extent",स्तर,Noun,この程度の怪我なら大丈夫です。,यो स्तरको चोट ठिक छ।,この ていど の けが なら だいじょうぶ です,"With an injury of this small extent, she's going to be fine."
-683,JLPT2,当たる,あたる,"hit, strike",लाग्नु,Verb,ボールが彼の頭に当たった。,बल उनको टाउकोमा लाग्यो।,ぼーる が かれ の あたま に あたった,The ball hit him on the head.
-684,JLPT2,訴える,うったえる,sue,मुद्दा गर्नु,Verb,彼女は会社を訴えた。,उनले कम्पनीमाथि मुद्दा गरिन्।,かのじょ は かいしゃ を うったえた,She sued the company.
-685,JLPT2,事情,じじょう,"circumstances, conditions",परिस्थिति,Noun,あなたの事情はよく分かりました。,मलाई तपाईंको परिस्थिति राम्रोसँग थाहा भयो।,あなた の じじょう は よく わかりました,I understand your situation well.
-686,JLPT1,発言,はつげん,"utterance, speech",बयान,Verbal Noun,会議で全員が発言した。,बैठकमा सबैले बयान गरे।,かいぎ で ぜんいん が はつげん した,Everyone spoke at the conference.
-687,JLPT2,傾向,けいこう,"tendency, disposition",प्रवृत्ति,Noun,最近の若者は難しい本を読まない傾向がある。,हालसालका युवाहरू कठिन किताबहरू पढ्दैनन्।,さいきん の わかもの は むずかしい ほん を よまない けいこう が ある,Young people these days tend not to read difficult books.
-688,JLPT1,開催,かいさい,"holding (of an event), opening",आयोजन,Verbal Noun,京都で国際会議が開催された。,क्योटोमा अन्तर्राष्ट्रिय सम्मेलन आयोजना गरियो।,きょうと で こくさいかいぎ が かいさい された,An international conference was held in Kyoto.
-689,JLPT2,文字,もじ,"character, letter",अक्षर,Noun,壁に文字が書いてあった。,भित्तामा अक्षर लेखिएको थियो।,かべ に もじ が かいて あった,There was some writing on the wall.
-690,JLPT3,子,こ,"child, kid",बालक,Noun,その子は日本語が分からない。,त्यो बच्चाले जापानी भाषा बुझ्दैन।,その こ は にほんご が わからない,That kid doesn't understand Japanese.
-691,JLPT2,述べる,のべる,"state orally, expound, mention",बयान गर्नु,Verb,上司が意見を述べた。,मालिकले आफ्नो विचार बयान गरे।,じょうし が いけん を のべた,Our boss gave us his opinion.
-692,JLPT2,活動,かつどう,activity,क्रियाकलाप,Verbal Noun,彼は地域の活動に参加した。,उनी क्षेत्रीय क्रियाकलापमा सहभागी भए।,かれ は ちいき の かつどう に さんか した,He took part in local activities.
-693,JLPT2,期間,きかん,"term, period",अवधि,Noun,テスト期間は10日から15日までだ。,परीक्षाको अवधि १० देखि १५ सम्म छ।,てすと きかん は とおか から じゅうごにち まで だ,The test period is from the 10th to the 15th.
-694,JLPT2,一定,いってい,"constant, standard",निश्चित,Verbal Noun,申し込むには一定の資格が要る。,आवेदन गर्न निश्चित योग्यताहरू आवश्यक छन्।,もうしこむ に は いってい の しかく が いる,You need certain qualifications to apply.
-695,JLPT2,住民,じゅうみん,"residents, dwellers",बासिन्दाहरू,Noun,地域の住民が集まって話合いをした。,क्षेत्रीय बासिन्दाहरू भेला भएर छलफल गरे।,ちいき の じゅうみん が あつまって はなしあい を した,The local residents got together and talked.
-696,JLPT2,届く,とどく,"reach, be received",पुग्नु,Verb,昨日、父から手紙が届いた。,"हिजो, मलाई पिताको पत्र पुग्यो।",きのう ちち から てがみ が とどいた,I got a letter from my father yesterday.
-697,JLPT3,やはり,やはり,"as expected, also, still",जसरी अपेक्षा गरिएको थियो,Adverb,彼はやはり遅刻しました。,उनी ढिला भए।,かれ は やはり ちこく しました,"He was late, as expected."
-698,JLPT2,効果,こうか,"effect, result",प्रभाव,Noun,この薬には胃を守る効果がある。,यो औषधिमा पेटलाई सुरक्षा दिने प्रभाव छ।,この くすり に は い を まもる こうか が ある,This medicine is effective in protecting your stomach.
-699,JLPT2,状況,じょうきょう,"state of affairs, conditions",परिस्थिति,Noun,この状況では出発は難しいです。,यस परिस्थितिमा प्रस्थान गर्न गाह्रो छ।,この じょうきょう で は しゅっぱつ は むずかしい です,It will be difficult to depart in these conditions.
-700,JLPT2,確認,かくにん,confirmation,पुष्टि,Verbal Noun,もう一度、予約を確認した。,मैले आरक्षण पुनः पुष्टि गरें।,もう いちど よやく を かくにん した,I confirmed my reservation one more time.
-701,JLPT2,位置,いち,"position, place",स्थिति,Verbal Noun,私の町は東京の北に位置します。,मेरो शहर टोकियोको उत्तरमा स्थित छ।,わたし の まち は とうきょう の きた に いち します,My town is located north of Tokyo.
-702,JLPT3,はっきり,はっきり,clearly,स्पष्ट रूपमा,Adverb,今日は山がはっきり見える。,आज पहाडहरू स्पष्ट रूपमा देखिन्छन्।,きょう は やま が はっきり みえる,You can see the mountains clearly today.
-703,JLPT2,つまり,つまり,"in short, basically",संक्षेपमा,Adverb,つまり、あなたは何も知らないのですね。,"संक्षेपमा, तपाईंले केही थाहा छैन।",つまり あなた は なに も しらない の です ね,"So, basically, you don't know anything."
-704,JLPT2,通過,つうか,"passing, passage",पारगमन,Verbal Noun,次の駅は通過します。,अर्को स्टेशन पार गरिनेछ।,つぎ の えき は つうか します,This train will not stop at the next station.
-705,JLPT3,深い,ふかい,"deep, profound, intimate",गहिरो,Adjective,あの池はとても深い。,त्यो पोखरी धेरै गहिरो छ।,あの いけ は とても ふかい,That pond is very deep.
-706,JLPT2,候補,こうほ,"candidacy, candidate",उम्मेदवार,Noun,会長の候補は3人います。,अध्यक्षको लागि तीन उम्मेदवार छन्।,かいちょう の こうほ は さんにん います,There are three candidates for chairman.
-707,JLPT2,選手,せんしゅ,representative athlete,खिलाडी,Noun,彼はプロのサッカー選手だ。,उनी पेशेवर फुटबल खेलाडी हुन्।,かれ は ぷろ の さっかー せんしゅ だ,He's a professional soccer player.
-708,JLPT3,音,おと,"sound, noise",ध्वनि,Noun,雨の音が聞こえる。,मलाई वर्षाको आवाज सुन्न सक्छ।,あめ の おと が きこえる,I can hear the sound of rain.
-709,JLPT2,大会,たいかい,"mass meeting, tournament",प्रतियोगिता,Noun,夏には川辺で花火大会があります。,गर्मीमा नदी किनारमा आतिशबाजी प्रतियोगिता हुन्छ।,なつ に は かわべ で はなびたいかい が あります,There are fireworks by the river in summer.
-710,JLPT2,基本,きほん,"basis, foundation",आधार,Noun,今、ジャズダンスの基本を習っています。,म अहिले ज्याज नृत्यको आधार सिक्दैछु।,いま じゃず だんす の きほん を ならって います,We're learning the basics of jazz dance at the moment.
-711,JLPT2,契約,けいやく,"contract, agreement",सम्झौता,Verbal Noun,その選手は新しいチームと契約した。,त्यो खेलाडीले नयाँ टिमसँग सम्झौता गर्यो।,その せんしゅ は あたらしい ちーむ と けいやく した,That player signed a contract with a new team.
-712,JLPT2,発見,はっけん,"discovery, revelation",खोज,Verbal Noun,新しい星が発見された。,नयाँ तारा पत्ता लाग्यो।,あたらしい ほし が はっけん された,A new star was discovered.
-713,JLPT2,当時,とうじ,"at that time, at the present time",त्यतिबेला,Noun,彼女は当時、まだ3才だった。,"उनी त्यतिबेला, अझै तीन वर्षकी थिइन्।",かのじょ は とうじ まだ さんさい だった,She was only three years old at the time.
-714,JLPT2,自宅,じたく,"one's house, one's home",घर,Noun,自宅に電話を下さい。,घरमा फोन गर्नुहोस्।,じたく に でんわ を ください,Please call home.
-715,JLPT3,空気,くうき,"air, atmosphere",हावा,Noun,ここは空気がきれいです。,यहाँको हावा शुद्ध छ।,ここ は くうき が きれい です,The air here is clean.
-716,JLPT1,設ける,もうける,"set up, establish",स्थापना गर्नु,Verb,授業の終わりに復習の時間を設けた。,कक्षाको अन्त्यमा पुनरावृत्ति समय स्थापना गरियो।,じゅぎょう の おわり に ふくしゅう の じかん を もうけた,I set up a review time at the end of class.
-717,JLPT3,歴史,れきし,history,इतिहास,Noun,私は歴史に興味があります。,म इतिहासमा रुचि राख्छु।,わたし は れきし に きょうみ が あります,I'm interested in history.
-718,JLPT0,各国,かっこく,every country,प्रत्येक देश,Noun,各国の代表がニューヨークに集まった。,प्रत्येक देशका प्रतिनिधिहरू न्यूयोर्कमा भेला भए।,かっこく の だいひょう が にゅーよーく に あつまった,Each country's representatives assembled in New York.
-719,JLPT3,特に,とくに,"specially, particularly",विशेष गरी,Adverb,特に質問はありません。,विशेष गरी कुनै प्रश्न छैन।,とくに しつもん は ありません,I don't particularly have any questions.
-720,JLPT2,実験,じっけん,experiment,प्रयोग,Verbal Noun,科学の授業で実験をした。,विज्ञानको कक्षामा प्रयोग गरियो।,かがく の じゅぎょう で じっけん を した,We did an experiment in science class.
-721,JLPT1,訪れる,おとずれる,"visit, call on",भ्रमण गर्नु,Verb,私は夏に京都を訪れました。,म गर्मीमा क्योटो भ्रमण गरें।,わたし は なつ に きょうと を おとずれました,I visited Kyoto this summer.
-722,JLPT4,建物,たてもの,"building, structure",भवन,Noun,これは日本一古い建物です。,यो जापानको सबैभन्दा पुरानो भवन हो।,これ は にほんいち ふるい たてもの です,This is the oldest building in Japan.
-723,JLPT3,ビル,ビル,building,भवन,Noun,私の会社はあのビルの8階です。,मेरो कम्पनी त्यो भवनको आठौं तलामा छ।,わたし の かいしゃ は あの びる の はちかい です,My company's on the eighth floor of that building.
-724,JLPT3,彼ら,かれら,they,उनीहरू,Noun,彼らはバスケットの選手です。,उनीहरू बास्केटबल खेलाडी हुन्।,かれら は ばすけっと の せんしゅ です,They're basketball players.
-725,JLPT2,少年,しょうねん,boy,केटा,Noun,少年たちがサッカーをしている。,केटाहरू फुटबल खेलिरहेका छन्।,しょうねんたち が さっかー を して いる,The boys are playing soccer.
-726,JLPT0,諸国,しょこく,various countries,विभिन्न देशहरू,Noun,彼はヨーロッパ諸国を旅行した。,उनी युरोपका विभिन्न देशहरू घुमे।,かれ は よーろっぱ しょこく を りょこう した,He traveled through various European countries.
-727,JLPT4,もちろん,もちろん,"of course, no doubt",पक्कै,Adverb,もちろん一緒に行きます。,पक्कै म सँगै जान्छु।,もちろん いっしょ に いきます,Of course I'll go with you.
-728,JLPT3,事務所,じむしょ,"office, one's place of business",कार्यालय,Noun,後で事務所に来てください。,पछि कार्यालयमा आउनुहोस्।,あとで じむしょ に きて ください,Please come to the office later.
-729,JLPT2,責任,せきにん,"responsibility, liability",जिम्मेवारी,Noun,彼は失敗の責任を取って、会社を辞めた。,उनले असफलताको जिम्मेवारी लिँदै कम्पनी छोडे।,かれ は しっぱい の せきにん を とって かいしゃ を やめた,He took responsibility for the mistake and resigned from the company.
-730,JLPT1,かつて,かつて,"once, formerly",पहिले,Adverb,かつて私が学生だった頃のことです。,यो कुरा मैले विद्यार्थी भएको बेलाको हो।,かつて わたし が がくせい だった ころ の こと です,That was when I was still a student.
-731,JLPT2,限る,かぎる,be limited to,सीमित हुनु,Verb,このサービスは週末に限ります,यो सेवा सप्ताहन्तमा मात्र सीमित छ।,この さーびす は しゅうまつ に かぎります,This service is limited to weekends.
-732,JLPT2,海外,かいがい,"overseas, abroad",विदेश,Noun,彼は海外での生活が長いです。,उनी लामो समयदेखि विदेशमा बसिरहेका छन्।,かれ は かいがい で の せいかつ が ながい です,He's lived abroad for a long time.
-733,JLPT2,条件,じょうけん,"condition, item",सर्त,Noun,この条件では厳し過ぎます。,यी सर्तहरू धेरै कडा छन्।,この じょうけん で は きびし すぎます,It's too harsh under these conditions.
-734,JLPT2,家庭,かてい,"home, family",परिवार,Noun,彼は家庭を大切にしている。,उनी आफ्नो परिवारलाई धेरै महत्व दिन्छन्।,かれ は かてい を たいせつ に して いる,He values his family.
-735,JLPT2,教授,きょうじゅ,professor,प्रोफेसर,Noun,彼は化学の教授です。,उनी रसायन विज्ञानका प्रोफेसर हुन्।,かれ は かがく の きょうじゅ です,He's a chemistry professor.
-736,JLPT3,人口,じんこう,population,जनसंख्या,Noun,その国の人口はどのくらいですか。,त्यो देशको जनसंख्या कति छ?,その くに の じんこう は どの くらい です か,What's the population of that country?
-737,JLPT4,海,うみ,"sea, ocean",समुद्र,Noun,海は広くて大きい。,समुद्र फराकिलो र ठूलो छ।,うみ は ひろく て おおきい,The sea is vast and wide.
-738,JLPT2,基準,きじゅん,"standard, criterion",मानक,Noun,判断の基準が示された。,निर्णयको मानक प्रस्तुत गरियो।,はんだん の きじゅん が しめされた,The standards of judgment were outlined.
-739,JLPT2,攻撃,こうげき,"attack, criticism",हमला,Verbal Noun,2003年にアメリカはイラクを攻撃した。,२००३ मा अमेरिका इराकलाई आक्रमण गर्यो।,にせんさんねん に あめりか は いらく を こうげき した,The United States attacked Iraq in 2003.
-740,JLPT3,時代,じだい,"age, antiquity",युग,Noun,今は便利さとスピードの時代だ。,यो सुविधा र गतिका युग हो।,いま は べんりさ と すぴーど の じだい だ,This is the age of convenience and speed.
-741,JLPT2,時期,じき,"time, season",समय,Noun,今はあなたにとって大事な時期です。,यो तपाईंको लागि महत्त्वपूर्ण समय हो।,いま は あなた に とって だいじ な じき です,It's an important time for you now.
-742,JLPT2,製造,せいぞう,"production, manufacture",उत्पादन,Verbal Noun,この工場ではエアコンを製造しています。,यस कारखानामा एसी उत्पादन गरिन्छ।,この こうじょう で は えあこん を せいぞう して います,This factory manufactures air conditioning units.
-743,JLPT0,大型,おおがた,"large, large scale",ठूलो,Noun,大型のテレビを買った。,मैले ठूलो टिभी किनें।,おおがた の てれび を かった,We bought a large television.
-744,JLPT2,周辺,しゅうへん,"environs, circumference",वरिपरि,Noun,この周辺には大学が多い。,यो वरपर धेरै विश्वविद्यालयहरू छन्।,この しゅうへん に は だいがく が おおい,There are a lot of universities in this area.
-745,JLPT2,異なる,ことなる,differ,भिन्न,Verb,彼と私はいつも意見が異なる。,उनी र म सधैं भिन्न राय राख्छौं।,かれ と わたし は いつも いけん が ことなる,He and I always have different opinions.
-746,JLPT2,逮捕,たいほ,"arrest, capture",गिरफ्तारी,Verbal Noun,逃げていた犯人が逮捕されました。,फरार अपराधीलाई गिरफ्तार गरियो।,にげて いた はんにん が たいほ されました,They arrested that criminal who escaped.
-747,JLPT2,関連,かんれん,"connection, relation",सम्बन्धित,Verbal Noun,関連のセクションへ連絡した。,सम्बन्धित विभागलाई सम्पर्क गरियो।,かんれん の せくしょん へ れんらく した,I contacted the related sections.
-748,JLPT3,貿易,ぼうえき,"trade, commerce",व्यापार,Verbal Noun,父は貿易の仕事をしています。,मेरो बुबा व्यापारको काम गर्छन्।,ちち は ぼうえき の しごと を して います,My father works in the trading business.
-749,JLPT0,社員,しゃいん,"staff member, employee",कर्मचारी,Noun,彼は優秀な社員です。,उनी एक उत्कृष्ट कर्मचारी हुन्।,かれ は ゆうしゅう な しゃいん です,He's an excellent employee.
-750,JLPT1,結合,けつごう,"combination, joining",संयोजन,Verbal Noun,ファイルを結合して1つにしました。,मैले फाइलहरू संयोजन गरें।,ふぁいる を けつごう して ひとつ に しました,I consolidated the files into just one.
-751,JLPT2,自然,しぜん,nature,"प्राकृतिक, स्वाभाविक",Noun,みんなで自然を守りましょう。,अभिभावकले बच्चालाई रक्षा गर्नु स्वाभाविक कुरा हो।,みんな で しぜん を まもりましょう,Let's all work to protect Nature.
-752,JLPT4,スポーツ,スポーツ,sport,खेलकुद,Noun,あなたは何かスポーツをしていますか。,के तपाईं कुनै खेल खेल्नुहुन्छ?,あなた は なにか すぽーつ を して います か,Which sport do you play?
-753,JLPT2,患者,かんじゃ,patient,रोगी,Noun,患者は眠っています。,रोगी सुतिरहेका छन्।,かんじゃ は ねむって います,The patient is sleeping.
-754,JLPT3,なぜ,なぜ,"why, for what reason",किन,Adverb,なぜ来なかったの。,तपाईं किन आउनुभएन?,なぜ こなかった の,Why didn't you come?
-755,JLPT4,映画,えいが,movie,चलचित्र,Noun,彼はよく映画を見ます。,उनी अक्सर चलचित्र हेर्छन्।,かれ は よく えいが を みます,He often watches movies.
-756,JLPT4,並ぶ,ならぶ,"line up, be parallel",लाइन लाग्नु,Verb,ここに並んでください。,यहाँ लाइन लाग्नुहोस्।,ここ に ならんで ください,Please line up here.
-757,JLPT4,生徒,せいと,"pupil, student",विद्यार्थी,Noun,このクラスの生徒は30人です。,यस कक्षामा ३० विद्यार्थीहरू छन्।,この くらす の せいと は さんじゅうにん です,There are 30 students in this class.
-758,JLPT2,そのまま,そのまま,"like that, unchanged",त्यसै अवस्थामा,Adverb,そのままお待ちください。,त्यसै अवस्थामा प्रतिक्षा गर्नुहोस्।,そのまま おまち ください,Please just wait a bit.
-759,JLPT3,今度,こんど,"this time, next time",यो समय,Noun,今度はどこに行きたいですか。,अर्को पटक कहाँ जान चाहनुहुन्छ?,こんど は どこ に いきたい です か,Where do you want to go this time?
-760,JLPT2,分ける,わける,"divide into parts, sort, share",विभाजन गर्नु,Verb,お菓子をみんなで分けました。,सबै मिलेर मिठाईहरू विभाजन गर्यौं।,おかし を みんな で わけました,We shared the sweets with everyone.
-761,JLPT3,運ぶ,はこぶ,"carry, transport",बोक्नु,Verb,いすを二階に運んでください。,कृपया कुर्सीलाई दोस्रो तलामा लैजानुहोस्।,いす を にかい に はこんで ください,Please carry the chair to the second floor.
-762,JLPT3,複雑,ふくざつ,"complicated, intricate",जटिल,Adjectival Noun,このプログラムはとても複雑です。,यो कार्यक्रम धेरै जटिल छ।,この ぷろぐらむ は とても ふくざつ です,This program is very complicated.
-763,JLPT3,回る,まわる,"turn round, go round, detour",घुम्नु,Verb,月は地球のまわりを回っています。,चन्द्रमा पृथ्वीको वरिपरि घुम्छ।,つき は ちきゅう の まわり を まわって います,The moon spins around the earth.
-764,JLPT3,高校,こうこう,high school,उच्च विद्यालय,Noun,妹は高校に通っています。,मेरो बहिनी उच्च विद्यालयमा पढ्छिन्।,いもうと は こうこう に かよって います,My little sister goes to high school.
-765,JLPT2,工事,こうじ,construction,निर्माण,Verbal Noun,工事の音がうるさい。,निर्माणको आवाजले धेरै ठूलो छ।,こうじ の おと が うるさい,The construction site is noisy.
-766,JLPT4,毎日,まいにち,every day,हरेक दिन,Noun,私たちは毎日散歩をします。,हामी हरेक दिन हिड्छौं।,わたしたち は まいにち さんぽ を します,We go for a walk every day.
-767,JLPT0,帰国,きこく,return to one's country,आफ्नो देश फर्कनु,Verbal Noun,彼は帰国しました。,उनी आफ्नो देश फर्केका छन्।,かれ は きこく しました,He returned to his country.
-768,JLPT4,雨,あめ,rain,वर्षा,Noun,雨が降っています。,वर्षा भइरहेको छ।,あめ が ふって います,It's raining.
-769,JLPT2,経つ,たつ,"pass, elapse",बित्न,Verb,あれから14年が経ちました。,त्यो घटना पछि १४ वर्ष बित्यो।,あれ から じゅうよねん が たちました,Fourteen years have passed since then.
-770,JLPT4,花,はな,flower,फूल,Noun,きれいな花が咲きました。,सुन्दर फूल फुल्यो।,きれい な はな が さきました,Beautiful flowers have bloomed.
-771,JLPT3,出席,しゅっせき,"attendance, presence",उपस्थिति,Verbal Noun,午後は会議に出席します。,दिउँसो म बैठकमा उपस्थित हुनेछु।,ごご は かいぎ に しゅっせき します,I'll attend a meeting in the afternoon.
-772,JLPT4,外国人,がいこくじん,foreigner,विदेशी,Noun,日本に住む外国人が増えています。,जापानमा बस्ने विदेशीहरूको संख्या बढ्दै छ।,にほん に すむ がいこくじん が ふえて います,The number of foreigners living in Japan is increasing.
-773,JLPT2,道路,どうろ,"road, street",सडक,Noun,この道路は3年前にできました。,यो सडक तीन वर्ष पहिले बनाइएको हो।,この どうろ は さんねんまえ に できました,This road was completed three years ago.
-774,JLPT2,地球,ちきゅう,the Earth,पृथ्वी,Noun,地球は丸い。,पृथ्वी गोलो छ।,ちきゅう は まるい,The earth is round.
-775,JLPT4,英語,えいご,English,अंग्रेजी,Noun,あなたは英語が話せますか。,के तपाईं अंग्रेजी बोल्न सक्नुहुन्छ?,あなた は えいご が はなせます か,Can you speak English?
-776,JLPT3,危険,きけん,"danger, dangerous",खतरा,Adjectival Noun,その地域は今、危険だ。,यो क्षेत्र अहिले खतरा छ।,その ちいき は いま きけん だ,That region is dangerous right now.
-777,JLPT3,普通,ふつう,"normal, regular",सामान्य,Adjectival Noun,彼女は普通の女の子だ。,उनी सामान्य केटी हुन्।,かのじょ は ふつう の おんな の こ だ,She's just a normal girl.
-778,JLPT3,説明,せつめい,"explanation, description",व्याख्या,Verbal Noun,この単語の意味を説明してください。,कृपया यो शब्दको अर्थ व्याख्या गर्नुहोस्।,この たんご の いみ を せつめい して ください,Please tell me the meaning of this word.
-779,JLPT4,半分,はんぶん,half,अर्ध,Noun,お菓子を友達に半分あげた。,मैले मिठाईको आधा भाग साथीलाई दिए।,おかし を ともだち に はんぶん あげた,I gave half the sweets to a friend.
-780,JLPT3,注意,ちゅうい,"attention, care, watch out",ध्यान,Verbal Noun,車に注意してください。,कारलाई ध्यान दिनुहोस्।,くるま に ちゅうい して ください,Please watch out for traffic.
-781,JLPT3,安全,あんぜん,"safety, security",सुरक्षा,Adjectival Noun,安全が第一です。,सुरक्षा पहिलो प्राथमिकता हो।,あんぜん が だいいち です,Safety comes first.
-782,JLPT4,手紙,てがみ,letter,पत्र,Noun,友人から手紙をもらいました。,मैले साथीकोबाट पत्र प्राप्त गरें।,ゆうじん から てがみ を もらいました,I got a letter from a friend.
-783,JLPT2,努力,どりょく,"endeavor, effort",प्रयास,Verbal Noun,もっと努力しよう。,हामी अझ धेरै प्रयास गरौं।,もっと どりょく しよう,Let's try harder.
-784,JLPT2,手術,しゅじゅつ,surgical operation,शल्यक्रिया,Verbal Noun,父は胸の手術をした。,मेरो बाबुले छातीको शल्यक्रिया गराए।,ちち は むね の しゅじゅつ を した,My father had a chest operation.
-785,JLPT3,準備,じゅんび,"provide for, prepare for",तयारी,Verbal Noun,明日の会議の準備をした。,मैले भोलिको बैठकको तयारी गरें।,あす の かいぎ の じゅんび を した,I prepared for tomorrow's meeting.
-786,JLPT2,守る,まもる,"protect, observe",राख्नु,Verb,彼は約束を守る人です。,उनी वचन राख्ने मानिस हुन्।,かれ は やくそく を まもる ひと です,He's one to keep his promises.
-787,JLPT3,驚く,おどろく,"be surprised, be startled",आश्चर्यचकित हुनु,Verb,彼は血を見て驚いた。,उनी रगत देखेर आश्चर्यचकित भए।,かれ は ち を みて おどろいた,He was surprised to see blood.
-788,JLPT3,地震,じしん,earthquake,भूकम्प,Noun,日本は地震が多いです。,जापानमा धेरै भूकम्प हुन्छ।,にほん は じしん が おおい です,Earthquakes are frequent in Japan.
-789,JLPT2,話し合う,はなしあう,"discuss, talk over",वार्ता गर्नु,Verb,私たちはよく話し合いました。,हामीले धेरै कुरा गर्यौं।,わたしたち は よく はなしあいました,We often talked to each other.
-790,JLPT4,木,き,"tree, wood",रुख,Noun,台風で木が倒れた。,आँधीले रुख ढाल्यो।,たいふう で き が たおれた,The tree fell because of the typhoon.
-791,JLPT2,許す,ゆるす,"permit, license, forgive",क्षमा गर्नु,Verb,私は彼を許しました。,मैले उनलाई क्षमा गरें।,わたし は かれ を ゆるしました,I forgave him.
-792,JLPT4,雪,ゆき,"snow, snowfall",हिउँ,Noun,クリスマスに雪が降りました。,क्रिसमसमा हिउँ परेको थियो।,くりすます に ゆき が ふりました,It snowed at Christmas.
-793,JLPT4,動物,どうぶつ,animal,जनावर,Noun,私は動物が大好きです。,म जनावरलाई धेरै माया गर्छु।,わたし は どうぶつ が だいすき です,I love animals.
-794,JLPT3,合う,あう,fit,सुहाउनु,Verb,この靴は私の足に合っている。,यो जुत्ता मेरो खुट्टामा सुहाउँछ।,この くつ は わたし の あし に あって いる,These shoes fit me.
-795,JLPT2,平和,へいわ,"peace, harmony",शान्ति,Adjectival Noun,この国は平和です。,यो देश शान्त छ।,この くに は へいわ です,This country is peaceful.
-796,JLPT3,非常に,ひじょうに,"very, extremely",धेरै,Adverb,これは非常に重要です。,यो अत्यन्तै महत्त्वपूर्ण छ।,これ は ひじょう に じゅうよう です,This is very important.
-797,JLPT3,遅れる,おくれる,be late,ढिला हुनु,Verb,今朝彼女は学校に遅れました。,आज बिहान उनी विद्यालय ढिला भए।,けさ かのじょ は がっこう に おくれました,She was late for school this morning.
-798,JLPT3,もし,もし,"if, in case of",यदि,Adverb,もし雨が降ったら、行きません。,"यदि मैले पैसा पाएको भए, म संसार घुम्ने थिएँ।",もし あめ が ふったら いきません,I won't go if it rains.
-799,JLPT3,卒業,そつぎょう,graduation,स्नातक,Verbal Noun,私は去年、大学を卒業した。,म गत वर्ष विश्वविद्यालयबाट स्नातक भएँ।,わたし は きょねん だいがく を そつぎょう した,I graduated from university last year.
-800,JLPT3,移る,うつる,"move, shift","सर्नु, स्थानान्तरण हुनु",Verb,彼女は新しい会社に移った。,उनी नयाँ कम्पनीमा सरेकी छिन्।,かのじょ は あたらしい かいしゃ に うつった,She moved to a new company.
-801,JLPT2,農業,のうぎょう,agriculture,कृषि,Noun,私は農業を勉強しています。,म कृषि अध्ययन गर्दैछु।,わたし は のうぎょう を べんきょう して います,I'm studying agriculture.
-802,JLPT3,空港,くうこう,airport,विमानस्थल,Noun,空港までリムジンバスで行った。,म विमानस्थलसम्म लिमोजिन बसबाट गएको थिएँ।,くうこう まで りむじん ばす で いった,I went to the airport by shuttle bus.
-803,JLPT3,珍しい,めずらしい,"rare, precious","दुर्लभ, मूल्यवान",Adjective,昨日珍しい果物を食べました。,हिजो मैले दुर्लभ फल खाएँ।,きのう めずらしい くだもの を たべました,I ate some unusual fruit yesterday.
-804,JLPT3,急ぐ,いそぐ,"hurry, hasten","हडबड गर्नु, छिटो गर्नु",Verb,私たちは駅へ急ぎました。,हामी स्टेसनतर्फ हडबड गर्‍यौं।,わたしたち は えき へ いそぎました,We hurried to the station.
-805,JLPT3,つもり,つもり,"intention, purpose","इरादा, उद्देश्य",Noun,明日からタバコを止めるつもりです。,भोलिदेखि चुरोट छोड्ने इरादा छ।,あした から たばこ を やめる つもり です,I'll stop smoking as of tomorrow.
-806,JLPT3,必ず,かならず,"without fail, certainly","निश्चित रूपमा, पक्कै",Adverb,必ずシートベルトを着けて下さい。,निश्चित रूपमा सिटबेल्ट लगाउनुहोस्।,かならず しーとべると を つけて ください,Always wear your seat belt.
-807,JLPT2,数字,すうじ,"figure, numeral","संख्या, अंक",Noun,数字は苦手です。,म अंकमा कमजोर छु।,すうじ は にがて です,I'm not good with numbers.
-808,JLPT3,やっと,やっと,"at last, finally","अन्ततः, अन्त्यमा",Adverb,やっと仕事が終わりました。,अन्ततः काम सकियो।,やっと しごと が おわりました,"Finally, I finished my work."
-809,JLPT4,旅行,りょこう,"travel, trip","यात्रा, भ्रमण",Verbal Noun,彼女は旅行が好きです。,उनीलाई यात्रा मन पर्छ।,かのじょ は りょこう が すき です,She likes traveling.
-810,JLPT4,音楽,おんがく,music,संगीत,Noun,私は音楽を聞くのが好きだ。,मलाई संगीत सुन्न मन पर्छ।,わたし は おんがく を きく の が すき だ,I like to listen to music.
-811,JLPT4,川,かわ,"river, stream","नदी, खोलो",Noun,小さな川を渡りました。,मैले सानो खोला तरेँ।,ちいさ な かわ を わたりました,I crossed a stream.
-812,JLPT3,例えば,たとえば,for example,उदाहरणका लागि,Adverb,例えば、このソフトで日本語を勉強することができます。,"उदाहरणका लागि, यस सफ्टवेयरबाट जापानी अध्ययन गर्न सकिन्छ।",たとえば この そふと で にほんご を べんきょう する こと が できます,"You can use this software to study Japanese, for example."
-813,JLPT3,小学校,しょうがっこう,elementary school,प्राथमिक विद्यालय,Noun,家の近くに小学校があります。,घरको नजिकै एक प्राथमिक विद्यालय छ।,いえ の ちかく に しょうがっこう が あります,There's an elementary school near my house.
-814,JLPT3,壁,かべ,"wall, partition","पर्खाल, विभाजन",Noun,壁に絵が掛かっている。,पर्खालमा चित्र टाँसिएको छ।,かべ に え が かかって いる,There's a painting on the wall.
-815,JLPT2,流れる,ながれる,"flow, pass, drift away","बहनु, प्रवाह हुनु",Verb,ラジオから美しい音楽が流れています。,रेडियोबाट सुन्दर संगीत बजिरहेको छ।,らじお から うつくしい おんがく が ながれて います,Beautiful music is coming from the radio.
-816,JLPT3,夢,ゆめ,dream,सपना,Noun,昨夜恐ろしい夢を見た。,हिजो राति मैले डरलाग्दो सपना देखेँ।,ゆうべ おそろしい ゆめ を みた,I had a terrible dream last night.
-817,JLPT3,逃げる,にげる,"escape, run away","भाग्नु, उम्कनु",Verb,鳥が窓から逃げたよ。,चराले झ्यालबाट भाग्यो।,とり が まど から にげた よ,The bird flew out of the window.
-818,JLPT3,過ぎる,すぎる,"pass by, exceed","बित्नु, पार गर्नु",Verb,時が過ぎるのは速い。,समय छिटो बित्छ।,とき が すぎる の は はやい 。,Time passes quickly.
-819,JLPT2,首都,しゅと,capital,राजधानी,Noun,東京は日本の首都です。,टोक्यो जापानको राजधानी हो।,とうきょう は にっぽん の しゅと です,Tokyo is the capital of Japan.
-820,JLPT2,教師,きょうし,"teacher, instructor","शिक्षक, प्रशिक्षक",Noun,彼は高校教師だ。,उहाँ उच्च विद्यालय शिक्षक हुनुहुन्छ।,かれ は こうこう きょうし だ,He's a high school teacher.
-821,JLPT3,相談,そうだん,"consultation, advice","परामर्श, सल्लाह",Verbal Noun,相談したいことがあります。,मलाई परामर्श लिनु पर्ने कुरा छ।,そうだん したい こと が あります,I'd like to get your advice on something.
-822,JLPT3,用意,ようい,"prepare, ready oneself","तयार गर्नु, तयारी गर्नु",Verbal Noun,食事の用意ができました。,खाना तयार भयो।,しょくじ の ようい が できました,The meal is ready.
-823,JLPT4,ニュース,ニュース,news,समाचार,Noun,夜のニュースを見ましたか。,तपाईंले रातको समाचार हेर्नुभयो?।,よる の にゅーす を みました か,Did you see the evening news?
-824,JLPT3,法律,ほうりつ,law,कानून,Noun,新しい法律ができた。,नयाँ कानून बन्यो।,あたらしい ほうりつ が できた,A new law has been passed.
-825,JLPT0,大変,たいへん,"awful, serious","गम्भीर, कठिन",Adjectival Noun,大変なことが起こりました。,गम्भीर घटना भयो।,たいへん な こと が おこりました,A terrible thing happened.
-826,JLPT3,戦争,せんそう,"war, battle","युद्ध, लडाइँ",Verbal Noun,2003年にイラクで戦争があった。,सन् २००३ मा इराकमा युद्ध भयो।,にせんさんねん に いらく で せんそう が あった,There was a war in Iraq in 2003.
-827,JLPT2,ずっと,ずっと,"all day, from start to finish","सधैँ, निरन्तर",Adverb,父は休みの日はずっとテレビを見ている。,बुबा छुट्टीको दिन सधैँ टिभी हेर्छन्।,ちち は やすみ の ひ は ずっと てれび を みて いる,My father spends his days off watching television all the time.
-828,JLPT2,自然,しぜん,"natural, naturally","प्राकृतिक, स्वाभाविक",Adjectival Noun,親が子供を守るのは自然なことだ。,अभिभावकले बच्चालाई रक्षा गर्नु स्वाभाविक कुरा हो।,おや が こども を まもる の は しぜん な こと だ,It's natural that parents protect their children.
-829,JLPT3,島,しま,"island, isle",टापु,Noun,日本は島国です。,जापान एक टापु राष्ट्र हो।,にっぽん は しまぐに です,Japan is an island nation.
-830,JLPT4,窓,まど,"window, windowpane",झ्याल,Noun,窓を開けてください。,झ्याल खोलिदिनुहोस्।,まど を あけて ください,Please open the window.
-831,JLPT2,考え,かんがえ,"thought, view, idea","विचार, धारणा",Noun,それは良い考えです。,यो राम्रो विचार हो।,それ は いい かんがえ です,That's a good idea.
-832,JLPT2,ビデオ,ビデオ,video,भिडियो,Noun,私はその番組をビデオに撮った。,मैले त्यो कार्यक्रमलाई भिडियोमा खिचें।,わたし は その ばんぐみ を びでお に とった,I recorded that program on video.
-833,JLPT2,マンション,マンション,"apartment, apartment block, condominium",अपार्टमेन्ट,Noun,彼はマンションに住んでいます。,उनी अपार्टमेन्टमा बस्छन्।,かれ は まんしょん に すんで います,He lives in an apartment.
-834,JLPT2,健康,けんこう,healthy,स्वास्थ्य,Adjectival Noun,私は健康な生活を送っています。,म स्वस्थ जीवन बिताउँदै छु।,わたし は けんこう な せいかつ を おくって います,I'm living a healthy lifestyle.
-835,JLPT3,通り,とおり,"passage, street","सडक, मार्ग",Noun,この通りはにぎやかですね。,यो सडक निकै व्यस्त छ।,この とおり は にぎやか です ね,"This street is lively, isn't it?"
-836,JLPT3,喜ぶ,よろこぶ,"be happy, be delighted","खुसी हुनु, हर्षित हुनु",Verb,彼女はとても喜びました。,उनी धेरै खुसी भइन्।,かのじょ は とても よろこびました,She was very pleased.
-837,JLPT3,入院,にゅういん,be hospitalized,अस्पताल भर्ना,Verbal Noun,昨日、母が入院しました。,हिजो मेरी आमालाई अस्पताल भर्ना गरियो।,きのう はは が にゅういん しました,My mother was hospitalized yesterday.
-838,JLPT2,増やす,ふやす,"increase, add","बढाउनु, थप्नु",Verb,あの町は緑を増やしています。,त्यो सहरले हरियाली बढाउँदैछ।,あの まち は みどり を ふやして います,That town is increasing its greenery.
-839,JLPT3,育てる,そだてる,"bring up, breed","पाल्नु, हुर्काउनु",Verb,彼女は三人の子を育てました。,उनी तीन बच्चालाई हुर्काएकी छिन्।,かのじょ は さんにん の こ を そだてました,She raised three children.
-840,JLPT2,温度,おんど,temperature,तापक्रम,Noun,今、部屋の温度は25度だ。,अहिले कोठाको तापक्रम २५ डिग्री छ।,いま へや の おんど は にじゅうごど だ,This room's temperature is currently 25 degrees.
-841,JLPT4,雑誌,ざっし,"magazine, journal",पत्रिका,Noun,この雑誌はよく売れています。,यो पत्रिका राम्रो बिक्छ।,この ざっし は よく うれて います,This magazine sells well.
-842,JLPT0,私たち,わたしたち,we,हामी,Noun,私たちは来月結婚します。,हामी अर्को महिना बिहे गर्दैछौं।,わたしたち は らいげつ けっこん します 。,We will get married next month.
-843,JLPT3,食事,しょくじ,"meal, dinner","खाना, भोजन",Verbal Noun,今日は上司と食事をする。,आज म बाससित भोजन गर्छु।,きょう は じょうし と しょくじ を する,I'm eating with the boss today.
-844,JLPT4,風,かぜ,wind,हावा,Noun,今日は風が強いです。,आज हावा कडा चल्दैछ।,きょう は かぜ が つよい です,The wind is strong today.
-845,JLPT0,早く,はやく,"early, soon","छिटो, चाँडै",Adverb,なるべく早く来て下さい。,जहाँसम्म चाँडो आउनुहोस्।,なるべく はやく きて ください,Please come as early as possible.
-846,JLPT0,明るい,あかるい,"bright, cheerful","प्रकाश, हर्षित",Adjective,彼女は明るい性格です。,उनी हर्षित स्वभावकी छिन्।,かのじょ は あかるい せいかく です,She has a cheerful personality.
-847,JLPT3,運転,うんてん,drive,गाडी चलाउनु,Verbal Noun,父は安全運転だ。,बुबा सुरक्षित गाडी चलाउँछन्।,ちち は あんぜん うんてん だ,My father drives safely.
-848,JLPT3,しばらく,しばらく,"awhile, long time, for the time being",केही समय,Adverb,そこでしばらく休んでいます。,त्यहाँ केही समय आराम गर्दैछु।,そこで しばらく やすんで います,He's resting over there for a while.
-849,JLPT0,高さ,たかさ,height,उचाइ,Noun,"富士山の高さは3,776メートルです。","फुजि पर्वतको उचाइ ३,७७६ मिटर हो।",ふじさん の たかさ は さんぜんななひゃく-ななじゅうろくめーとる です,"The height of Mt. Fuji is 3,776m."
-850,JLPT4,借りる,かりる,borrow,ऋण लिनु,Verb,彼にビデオを借りました。,मैले उनलाई भिडियो ऋण लिएँ।,かれ に びでお を かりました,I borrowed a video from him.
-851,JLPT3,放送,ほうそう,broadcasting,प्रसारण,Verbal Noun,その番組は来週放送されます。,त्यो कार्यक्रम अर्को हप्ता प्रसारण हुनेछ।,その ばんぐみ は らいしゅう ほうそう されます,The program will be broadcast next week.
-852,JLPT2,就職,しゅうしょく,finding employment,रोजगारी पाउनु,Verbal Noun,最近、若い人たちの就職が難しくなっています。,"हालसालै, युवाहरूको रोजगारी पाउनु गाह्रो हुँदै गएको छ।",さいきん わかい ひとたち の しゅうしょく が むずかしく なって います,It's been hard for young people to find jobs recently.
-853,JLPT0,大きさ,おおきさ,"size, dimensions",आकार,Noun,この大きさの封筒が欲しいのですが。,मलाई यो आकारको लिफाफा चाहिन्छ।,この おおきさ の ふうとう が ほしい の です が,I'd like an envelope of this size.
-854,JLPT4,困る,こまる,"be at a loss, in a jam, in trouble","समस्या हुनु, अप्ठ्यारो हुनु",Verb,ケータイをなくして困っています。,मेरो मोबाइल हराएर समस्या भइरहेको छ।,けーたい を なくして こまって います,I'm in a jam because I lost my cell phone.
-855,JLPT3,通る,とおる,"pass, take, go through","जाँदा, यात्रा गर्नु",Verb,毎日、この道を通ります。,म दैनिक यो बाटो हिँड्छु।,まいにち この みち を とおります,I take this road every day.
-856,JLPT2,ガス,ガス,gas,ग्यास,Noun,地震でガスが止まった。,भूकम्पले ग्यास बन्द गर्यो।,じしん で がす が とまった,The gas got cut off due to the earthquake.
-857,JLPT2,夫婦,ふうふ,"husband and wife, married couple",पति पत्नी,Noun,その夫婦はとても仲がいい。,त्यो पति पत्नी धेरै मिल्ने छन्।,その ふうふ は とても なか が いい,That couple gets on very well.
-858,JLPT3,立てる,たてる,"stand, set up, establish","उभ्याउनु, स्थापना गर्नु",Verb,彼はケーキにろうそくを立てた。,उनीले केकमा मैनबत्ती उभ्याए।,かれ は けーき に ろうそく を たてた,He stuck the candles into the cake.
-859,JLPT2,伸びる,のびる,"stretch, grow","फैलिनु, बढ्नु",Verb,髪がだいぶ伸びたね。,तिम्रो कपाल धेरै बढेको छ।,かみ が だいぶ のびた ね,"Your hair has grown a lot, hasn't it?"
-860,JLPT3,聞こえる,きこえる,"hear, be heard","सुन्नु, सुन्न सक्नु",Verb,隣の部屋からテレビの音が聞こえる。,छेउको कोठाबाट टिभीको आवाज सुन्न सकिन्छ।,となり の へや から てれび の おと が きこえる,I can hear the sound of the television from the next room.
-861,JLPT2,殺す,ころす,"kill, smother","मार्नु, नाश गर्नु",Verb,私は生き物を殺すのが嫌いだ。,म जीवजन्तु मार्न मन पराउँदिन।,わたし は いきもの を ころす の が きらい だ,I hate killing living things.
-862,JLPT4,静か,しずか,"quiet, tranquil","शान्त, शान्तिपूर्ण",Adjectival Noun,今年の夏休みには静かな所へ行きたい。,यो गर्मीको बिदामा म शान्त ठाउँमा जान चाहन्छु।,ことし の なつやすみ に は しずか な ところ へ いきたい,I want to go to a quiet place this summer vacation.
-863,JLPT2,分かれる,わかれる,"be divided, disperse, branch off","विभाजित हुनु, छुटिनु",Verb,グループの中で意見が分かれました。,समूहमा विचारहरू विभाजित भए।,ぐるーぷ の なか で いけん が わかれました,Opinion was divided within the group.
-864,JLPT2,詳しい,くわしい,"detailed, complete","विस्तृत, पूरा",Adjective,もっと詳しく説明してください。,कृपया थप विवरण दिनुहोस्।,もっと くわしく せつめい して ください,Please explain in greater detail.
-865,JLPT2,正確,せいかく,"accurate, precise","सही, ठ्याक्कै",Adjectival Noun,彼の計算は正確です。,उनको गणना सही छ।,かれ の けいさん は せいかく です,His calculation is accurate.
-866,JLPT3,うまい,うまい,good at,"स्वादिष्ट, राम्रो",Adjective,彼は野球がうまい。,मैले स्वादिष्ट सुशी पसल भेटें।,かれ は やきゅう が うまい,He's good at baseball.
-867,JLPT3,打つ,うつ,"hit, strike","प्रहार गर्नु, हान्नु",Verb,転んでひざを打ちました。,म लडेर घुँडा हानें।,ころんで ひざ を うちました,I fell down and hit my knee.
-868,JLPT3,工業,こうぎょう,"industry, manufacturing industry",उद्योग,Noun,そこは工業都市だ。,त्यो एक औद्योगिक सहर हो।,そこ は こうぎょう とし だ,That's an industrial city.
-869,JLPT2,サラリーマン,サラリーマン,"office worker, salaried worker, company employee",कम्पनी कर्मचारी,Noun,父はサラリーマンです。,मेरो बुबा एक कम्पनी कर्मचारी हुनुहुन्छ।,ちち は さらりーまん です,My father's a company employee.
-870,JLPT4,有名,ゆうめい,famous,प्रसिद्ध,Adjectival Noun,ボルドーはワインの生産で有名だ。,बोर्डो वाइन उत्पादनको लागि प्रसिद्ध छ।,ぼるどー は わいん の せいさん で ゆうめい だ,Bordeau is famous for wine production.
-871,JLPT3,捨てる,すてる,"discard, abandon","फाल्नु, त्याग गर्नु",Verb,ゴミを捨ててください。,कृपया फोहोर फालिदिनुहोस्।,ごみ を すてて ください,Please throw away the garbage.
-872,JLPT2,移す,うつす,"move, shift, transfer","सर्नु, स्थानान्तरण गर्नु",Verb,机を窓の傍に移しました。,मैले टेबल झ्यालको छेउमा सारें।,つくえ を まど の そば に うつしました,I moved the desk near the window.
-873,JLPT3,正しい,ただしい,"correct, righteous, lawful","सही, वैध",Adjective,それは正しい答えです。,त्यो सही उत्तर हो।,それ は ただしい こたえ です,That's the correct answer.
-874,JLPT2,売れる,うれる,"sell, be in demand","बेच्नु, मागमा हुनु",Verb,今年の夏はクーラーがよく売れた。,यस वर्षको गर्मीमा एयर कन्डिसनर राम्रो बेचियो।,ことし の なつ は くーらー が よく うれた,Air conditioners sold well this summer.
-875,JLPT3,番組,ばんぐみ,program,कार्यक्रम,Noun,私はこの番組が好きです。,मलाई यो कार्यक्रम मन पर्छ।,わたし は この ばんぐみ が すき です,I like this show.
-876,JLPT0,代わる,かわる,"substitute, be substituted for",प्रतिस्थापन गर्नु,Verb,上司に代わって会議に出た。,म बैठकमा मेरो वरिष्ठको सट्टामा गएँ।,じょうし に かわって かいぎ に でた,I attended the conference in place of my boss.
-877,JLPT4,着く,つく,"arrive, make contact, settle","पुग्नु, सम्पर्क गर्नु",Verb,午後8時に大阪に着きます。,म साँझ ८ बजे ओसाका पुग्छु।,ごご はちじ に おおさか に つきます,I arrive in Osaka at 8:00 pm.
-878,JLPT4,バス,バス,bus,बस,Noun,バスで行こう。,हामी बसबाट जान्छौं।,ばす で いこう,Let's go by bus.
-879,JLPT2,中学,ちゅうがく,junior high school,माध्यमिक विद्यालय,Noun,息子は中学に通っています。,मेरो छोरो माध्यमिक विद्यालयमा जान्छ।,むすこ は ちゅうがく に かよって います,My son goes to junior high.
-880,JLPT4,歌,うた,song,गीत,Noun,私はその歌を知らなかった。,म त्यो गीतलाई चिनेको छैन।,わたし は その うた を しらなかった 。,I didn't know that song.
-881,JLPT4,薄い,うすい,"thin, weak, pale","पातलो, हल्का",Adjective,この電子辞書はとても薄い。,यो इलेक्ट्रोनिक शब्दकोश धेरै पातलो छ।,この でんし じしょ は とても うすい,This electronic dictionary is very thin.
-882,JLPT2,減らす,へらす,"decrease, reduce","घटाउनु, कम गर्नु",Verb,最近、食事を減らしています。,"हालसालै, मैले खाना घटाउँदैछु।",さいきん しょくじ を へらして います,I've been eating less recently.
-883,JLPT3,科学,かがく,science,विज्ञान,Noun,科学は常に進歩している。,विज्ञान सधैं प्रगति गर्दैछ।,かがく は つねに しんぽ して いる,Science is always advancing.
-884,JLPT3,約束,やくそく,"promise, vow",प्रतिज्ञा,Verbal Noun,約束は守ります。,म वाचा पूरा गर्छु।,やくそく は まもります,I keep my promises.
-885,JLPT3,出発,しゅっぱつ,"departure, starting",प्रस्थान,Verbal Noun,あと15分で出発です。,१५ मिनेटमा प्रस्थान हुन्छ।,あと じゅうごふん で しゅっぱつ です,Departure will be in fifteen minutes.
-886,JLPT2,動かす,うごかす,"move, operate","चलाउनु, सञ्चालन गर्नु",Verb,部屋の家具を動かしました。,मैले कोठाका फर्निचर चलाएँ।,へや の かぐ を うごかしました,I moved the furniture in the room.
-887,JLPT3,紹介,しょうかい,"introduction, presentation",परिचय,Verbal Noun,両親に彼女を紹介した。,मैले मेरा अभिभावकलाई उनको परिचय गराएँ।,りょうしん に かのじょ を しょうかい した,I introduced my girlfriend to my parents.
-888,JLPT3,倒れる,たおれる,"fall over, succumb","लड्नु, समर्पण गर्नु",Verb,強風で木が倒れた。,बलियो हावाले रुख लडायो।,きょうふう で き が たおれた,The tree fell in the gale.
-889,JLPT3,席,せき,"seat, one's place",सिट,Noun,この席、空いてますか。,यो सिट खाली छ?।,この せき あいてます か,Is this seat free?
-890,JLPT3,熱,ねつ,"heat, fever","तापक्रम, ज्वरो",Noun,昨日の夜、熱が出ました。,हिजो राति मलाई ज्वरो आयो।,きのう の よる ねつ が でました,I had a fever last night.
-891,JLPT2,値段,ねだん,price,मूल्य,Noun,このベルトの値段は2500円でした。,यो बेल्टको मूल्य २५०० येन थियो।,この べると の ねだん は にせんごひゃくえん でした,"The price of this belt was 2,500 yen."
-892,JLPT0,長さ,ながさ,length,लम्बाइ,Noun,このケーブルの長さは1メートルです。,यो केबलको लम्बाइ १ मिटर हो।,この けーぶる の ながさ は いちめーとる です,The length of this cable is one meter.
-893,JLPT4,クラス,クラス,class,कक्षा,Noun,この学校は1クラス30人です。,यस विद्यालयमा एक कक्षामा ३० विद्यार्थी छन्।,この がっこう は 1 くらす 30 にん です 。,In this school there are 30 people per class.
-894,JLPT4,隣,となり,"neighboring house, next seat","छिमेकी, छेउ",Noun,隣の家には犬がいます。,छेउको घरमा कुकुर छ।,となり の いえ に は いぬ が います,They have a dog next door.
-895,JLPT2,トラック,トラック,"truck, lorry",ट्रक,Noun,トラックを運転できますか。,के तपाईं ट्रक चलाउन सक्नुहुन्छ?,とらっく を うんてん できます か,Can you drive a truck?
-896,JLPT4,大使館,たいしかん,embassy,दूतावास,Noun,彼は大使館に勤めています。,उनी दूतावासमा काम गर्छन्।,かれ は たいしかん に つとめて います,He's working for the embassy.
-897,JLPT3,亡くなる,なくなる,"die, pass away","मर्नु, बित्नु",Verb,おととい、昔の友人が亡くなった。,"अर्को दिन, पुरानो साथी बित्यो।",おととい むかし の ゆうじん が なくなった,An old friend died the day before yesterday.
-898,JLPT4,パーティー,パーティー,party,पार्टी,Verbal Noun,明日、うちでパーティーを開きます。,"भोलि, हामी घरमा पार्टी गर्नेछौं।",あした うち で ぱーてぃー を ひらきます,Tomorrow I'm having a party at my house.
-899,JLPT2,犬,いぬ,dog,कुकुर,Noun,この犬はとても賢い。,यो कुकुर धेरै होशियार छ।,この いぬ は とても かしこい,This dog is very clever.
-900,JLPT3,うまい,うまい,"delicious, tasty","स्वादिष्ट, राम्रो",Adjective,うまい寿司屋を見つけたよ。,मैले स्वादिष्ट सुशी पसल भेटें।,うまい すしや を みつけた よ,I found a good sushi shop.
-901,JLPT3,特別,とくべつ,"special, extraordinary",विशेष,Adjectival Noun,あなたは私にとって特別な人です。,तिमी मेरो लागि विशेष व्यक्ति हौ।,あなた は わたし に とって とくべつ な ひと です,You're special to me.
-902,JLPT4,教室,きょうしつ,"classroom, class",कक्षा,Noun,私の教室は3階にあります。,मेरो कक्षा तेस्रो तलामा छ।,わたし の きょうしつ は さんがい に あります,My classroom is on the third floor.
-903,JLPT3,ガラス,ガラス,glass,सिसा,Noun,クリスタルガラスの花瓶を買いました。,मैले क्रिस्टल गिलासको फूलदानी किनेँ।,くりすたるがらす の かびん を かいました,I bought a crystal glass vase.
-904,JLPT2,振る,ふる,"wave, shake, brandish","हल्लाउनु, हल्लाउनु",Verb,犬がしっぽを振っている。,कुकुरले पुच्छर हल्लाउँदैछ।,いぬ が しっぽ を ふって いる,The dog is wagging its tail.
-905,JLPT0,落とす,おとす,"drop, omit","खसाल्नु, हटाउनु",Verb,途中で財布を落としました。,मैले बाटोमा पर्स खसालें।,とちゅう で さいふ を おとしました,I lost my purse on the way.
-906,JLPT4,夕方,ゆうがた,evening,साँझ,Noun,夕方そちらに着きます。,साँझमा त्यहाँ पुग्छु।,ゆうがた そちら に つきます,I'll arrive there in the evening.
-907,JLPT2,コース,コース,"course, route",कोर्स,Noun,私は日本語コースを取っています。,म जापानी भाषा कोर्स लिइरहेको छु।,わたし は にほんご こーす を とって います,I'm taking a Japanese course.
-908,JLPT4,アパート,アパート,"apartment, flat, apartment house",अपार्टमेन्ट,Noun,彼はアパートに住んでいます。,उनी अपार्टमेन्टमा बस्छन्।,かれ は あぱーと に すんで います,He lives in an apartment.
-909,JLPT3,小説,しょうせつ,"novel, story",उपन्यास,Noun,私は月に3冊くらい小説を読みます。,म महिनामा तीन उपन्यास पढ्छु।,わたし は つき に さんさつ くらい しょうせつ を よみます,I read about three novels a month.
-910,JLPT4,レコード,レコード,record,रेकर्ड,Noun,ジャズのレコードをかけました。,मैले ज्याजको रेकर्ड बजाएँ।,じゃず の れこーど を かけました,I put on a jazz record.
-911,JLPT2,どんどん,どんどん,knock,ठोक्नु,Adverb,ドアをどんどんとたたいた。,म ठोक्दै थिएँ।,どあ を どんどん と たたいた,I banged on the door.
-912,JLPT3,通う,かよう,"go to and from, frequent a place","जाने, आउँदै-गर्दै",Verb,私はジムに通っています。,म जिममा जान्छु।,わたし は じむ に かよって います,I go to a gym.
-913,JLPT2,秘密,ひみつ,"secret, privacy",रहस्य,Adjectival Noun,これは秘密です。,यो गोप्य कुरा हो।,これ は ひみつ です,This is a secret.
-914,JLPT4,料理,りょうり,"cooking, handling","खाना बनाउने, व्यवस्थापन गर्ने",Verbal Noun,母は料理が得意です。,आमालाई खाना पकाउन राम्रो लाग्छ।,はは は りょうり が とくい です,My mother is good at cooking.
-915,JLPT2,苦しい,くるしい,"painful, difficult","पीडादायक, गाह्रो",Adjective,食べ過ぎておなかが苦しい。,धेरै खाएर पेट गाह्रो भयो।,たべすぎて おなか が くるしい,I have eaten too much and my stomach hurts.
-916,JLPT2,信じる,しんじる,"believe, trust, have faith in",विश्वास गर्नु,Verb,彼はキリストを信じている。,उनी क्राइस्टलाई विश्वास गर्छन्।,かれ は きりすと を しんじて いる,He believes in Christ.
-917,JLPT2,何か,なにか,"something, some",केहि,Noun,道に何か落ちています。,बाटोमा केहि खसेको छ।,みち に なにか おちて います,Something has fallen on the road.
-918,JLPT4,カメラ,カメラ,camera,क्यामेरा,Noun,カメラが壊れた。,क्यामेरा बिग्रियो।,かめら が こわれた,The camera broke.
-919,JLPT3,下げる,さげる,"lower, turn down","घटाउनु, तल झार्नु",Verb,少し音量を下げてください。,कृपया भोल्युम अलिकति घटाउनुहोस्।,すこし おんりょう を さげて ください,Please turn the volume down a little.
-920,JLPT2,留学,りゅうがく,studying abroad,विदेश अध्ययन,Verbal Noun,1年間、アメリカに留学しました。,म एक वर्ष अमेरिकामा अध्ययन गरें।,いちねんかん あめりか に りゅうがく しました,I went to study in the United States for a year.
-921,JLPT3,無理,むり,"unreasonable, impossible, forced","असंभव, जबरजस्ती",Adjectival Noun,5時までに家に帰るのは無理です。,घरमा ५ बजेसम्म फर्कन असम्भव छ।,ごじ まで に いえ に かえる の は むり です,I can't possibly get home by five o'clock.
-922,JLPT3,飾る,かざる,"decorate, exhibit","सजाउनु, प्रदर्शन गर्नु",Verb,テーブルの上に花を飾りました。,मैले टेबलमा फूल सजाएँ।,てーぶる の うえ に はな を かざりました,I decorated the table with flowers.
-923,JLPT4,北,きた,north,उत्तर,Noun,ロシアは日本の北にあります。,रूस जापानको उत्तरमा छ।,ろしあ は にっぽん の きた に あります,Russia is north of Japan.
-924,JLPT3,訪ねる,たずねる,"visit, call on","भेट्न जानु, कल गर्नु",Verb,彼はニューヨークの友達を訪ねた。,उनी न्यूयोर्कका साथीलाई भेट्न गए।,かれ は にゅーよーく の ともだち を たずねた,He visited his friend in New York.
-925,JLPT4,テープ,テープ,"tape, cassette",टेप,Noun,彼女はその会話をテープに録音した。,उनीले त्यो कुराकानीलाई टेपमा रेकर्ड गरिन्।,かのじょ は その かいわ を てーぷ に ろくおん した,She recorded the conversation on tape.
-926,JLPT2,馬,うま,horse,घोडा,Noun,彼は牧場で馬に乗った。,उनी फार्ममा घोडामा चढे।,かれ は ぼくじょう で うま に のった,He rode a horse at the ranch.
-927,JLPT2,長男,ちょうなん,eldest son,ठूलो छोरा,Noun,彼の長男は8才です。,उनको ठूलो छोरा ८ वर्षको छ।,かれ の ちょうなん は はっさい です,His oldest son is eight years old.
-928,JLPT3,近所,きんじょ,neighborhood,छिमेक,Noun,近所にカナダ人が住んでいる。,छिमेकमा क्यानाडेली बस्छन्।,きんじょ に かなだじん が すんで いる,A Canadian lives in my neighborhood.
-929,JLPT3,数学,すうがく,mathematics,गणित,Noun,兄は数学の先生です。,मेरो दाजु गणित शिक्षक हुन्।,あに は すうがく の せんせい です,My big brother's a math teacher.
-930,JLPT3,入学,にゅうがく,"enter a school, matriculate",विद्यालय प्रवेश,Verbal Noun,妹は九月にアメリカの大学に入学します。,मेरो बहिनी सेप्टेम्बरमा अमेरिकी विश्वविद्यालयमा भर्ना हुँदैछ।,いもうと は くがつ に あめりか の だいがく に にゅうがく します,My little sister's entering college in the United States in September.
-931,JLPT4,黒い,くろい,"black, dark",कालो,Adjective,彼女は黒いドレスを着ています。,उनीले कालो पोशाक लगाएकी छिन्।,かのじょ は くろい どれす を きて います,She's wearing a black dress.
-932,JLPT4,頼む,たのむ,"ask, request","माग्नु, अनुरोध गर्नु",Verb,私はハンバーガーを頼みました。,मैले बर्गर अर्डर गरें।,わたし は はんばーがー を たのみました,I ordered a hamburger.
-933,JLPT4,並べる,ならべる,"line up, display, set up","लाइनमा राख्नु, प्रदर्शन गर्नु",Verb,私は料理をテーブルに並べた。,मैले टेबलमा खाना राखें।,わたし は りょうり を てーぶる に ならべた,I arranged the food on the table.
-934,JLPT2,受け取る,うけとる,"receive, understand","प्राप्त गर्नु, बुझ्नु",Verb,彼からメールを受け取りました。,मैले उनलाई इमेल प्राप्त गरें।,かれ から めーる を うけとりました,I got an email from him.
-935,JLPT2,太陽,たいよう,sun,सूर्य,Noun,太陽が雲に隠れた。,सूर्य बादलमा लुक्यो।,たいよう が くも に かくれた,The sun hid behind the clouds.
-936,JLPT0,年寄り,としより,"old person, older councilor",बूढो व्यक्ति,Noun,あの村にはお年寄りがたくさん住んでいます。,त्यो गाउँमा धेरै बूढो व्यक्ति बस्छन्।,あの むら に は おとしより が たくさん すんで います,A lot of elderly people live in that village.
-937,JLPT3,味,あじ,"taste, flavor",स्वाद,Noun,この料理は味が薄い。,यो खाना स्वादमा हल्का छ।,この りょうり は あじ が うすい,This food is tasteless.
-938,JLPT3,思い出す,おもいだす,"recollect, recall",स्मरण गर्नु,Verb,大切な用事を思い出しました。,महत्वपूर्ण काम सम्झें।,たいせつ な ようじ を おもいだしました,I just remembered something important I need to take care of.
-939,JLPT3,細かい,こまかい,"minute, elaborate","सूक्ष्म, विस्तृत",Adjective,彼女は細かいことにうるさい。,उनी सूक्ष्म कुरामा बढी ध्यान दिन्छिन्।,かのじょ は こまかい こと に うるさい,She's fussy about small details.
-940,JLPT2,成績,せいせき,"results, record","परिणाम, कीर्तिमान",Noun,成績が上がりました。,मेरो नतिजा सुधार भयो।,せいせき が あがりました,His grades went up.
-941,JLPT2,涙,なみだ,tear,आँसु,Noun,彼女の目から涙がこぼれた。,उनको आँखाबाट आँसु बगे।,かのじょ の め から なみだ が こぼれた,Tears rolled down from her eyes.
-942,JLPT4,横,よこ,"side, width across","साइड, चौडाइ",Noun,横の長さは1メートルです。,चौडाइ १ मिटर छ।,よこ の ながさ は いちめーとる です,Its width is one meter.
-943,JLPT2,穴,あな,"hole, cavity",प्वाल,Noun,靴下に穴が開いている。,जुत्तामा प्वाल छ।,くつした に あな が あいて いる,There are holes in my socks.
-944,JLPT3,季節,きせつ,season,मौसम,Noun,私の一番好きな季節は春です。,मेरो मनपर्ने मौसम वसन्त हो।,わたし の いちばん すき な きせつ は はる です,My favorite season is spring.
-945,JLPT2,ビール,ビール,"beer, lager",बियर,Noun,夏はビールがとても美味しい。,गर्मीमा बियर धेरै स्वादिलो हुन्छ।,なつ は びーる が とても おいしい,Beer tastes really good in summer.
-946,JLPT3,故障,こしょう,"malfunction, fault, breakdown","बिग्रनु, दोष",Verbal Noun,冷蔵庫が故障しました。,फ्रिज बिग्रियो।,れいぞうこ が こしょう しました,The refrigerator broke down.
-947,JLPT3,裏,うら,"rear, reverse, inside","पछाडि, भित्री",Noun,会社の裏に公園があります。,कम्पनीको पछाडि पार्क छ।,かいしゃ の うら に こうえん が あります,There's a park behind the company.
-948,JLPT2,ページ,ページ,page,पृष्ठ,Noun,32ページを開いてください。,कृपया पृष्ठ ३२ खोल्नुहोस्।,さんじゅうにぺーじ を ひらいて ください,Please open to page 32.
-949,JLPT3,迎える,むかえる,"welcome, go out to meet, invite","स्वागत गर्नु, भेट्न जानु",Verb,姉が空港まで迎えに来てくれます。,मेरो दिदी विमानस्थलमा मलाई भेट्न आउँछिन्।,あね が くうこう まで むかえに きて くれます,My big sister is coming to pick me up at the airport.
-950,JLPT4,野菜,やさい,vegetable,तरकारी,Noun,私は毎日たくさん野菜を食べます。,म दैनिक धेरै तरकारी खान्छु।,わたし は まいにち たくさん やさい を たべます,I eat a lot of vegetables every day.
-951,JLPT4,渡す,わたす,"carry across, hand over","हस्तान्तरण गर्नु, सुम्पनु",Verb,彼に手紙を渡しました。,मैले उनलाई पत्र दिएँ।,かれ に てがみ を わたしました,I handed him the letter.
-952,JLPT2,贈る,おくる,"offer, give","प्रदान गर्नु, उपहार दिनु",Verb,母に花を贈った。,मैले आमालाई फूल दिएँ।,はは に はな を おくった,I sent my mother some flowers.
-953,JLPT2,合格,ごうかく,"passing an examination, eligibility",परीक्षा पास गर्नु,Verbal Noun,娘が入学試験に合格しました。,मेरो छोरीले प्रवेश परीक्षा पास गरिन्।,むすめ が にゅうがく しけん に ごうかく しました,My daughter passed the university entrance exam.
-954,JLPT0,グラフ,グラフ,"chart, graph","चार्ट, ग्राफ",Noun,彼は売上をグラフにした。,उनले बिक्रीलाई ग्राफमा देखाए।,かれ は うりあげ を ぐらふ に した,He made a chart of the sales figures.
-955,JLPT4,公園,こうえん,"park, public garden",पार्क,Noun,子供たちが公園で遊んでいる。,बच्चाहरू पार्कमा खेल्दैछन्।,こどもたち が こうえん で あそんで いる,The children are playing in the park.
-956,JLPT4,戸,と,"door, shutter",ढोका,Noun,部屋の戸が開いています。,कोठाको ढोका खुला छ।,へや の と が あいて います,The room's door is open.
-957,JLPT0,中学生,ちゅうがくせい,junior high school student,माध्यमिक विद्यालय विद्यार्थी,Noun,息子は中学生です。,मेरो छोरो माध्यमिक विद्यालयको विद्यार्थी हो।,むすこ は ちゅうがくせい です,My son is a junior high school student.
-958,JLPT4,玄関,げんかん,"entrance, door",प्रवेशद्वार,Noun,玄関に花を飾りました。,मैले प्रवेशद्वारमा फूल सजाएँ।,げんかん に はな を かざりました,I decorated the entrance with flowers.
-959,JLPT4,撮る,とる,"photograph, shoot, film",फोटो खिच्नु,Verb,写真をたくさん撮りました。,मैले धेरै फोटो खिचें।,しゃしん を たくさん とりました,I took a lot of photographs.
-960,JLPT4,夏休み,なつやすみ,summer vacation,गर्मीको बिदा,Noun,今日が夏休み最後の日だ。,आज गर्मीको बिदाको अन्तिम दिन हो।,きょう が なつやすみ さいご の ひ だ,Today's the last day of summer vacation.
-961,JLPT4,毎年,まいとし,every year,हरेक वर्ष,Noun,私は毎年、海外旅行に行きます。,म हरेक वर्ष विदेश यात्रा गर्छु।,わたし は まいとし かいがい りょこう に いきます,I travel abroad every year.
-962,JLPT4,地図,ちず,"map, atlas",नक्सा,Noun,地図を見て来てください。,नक्सा हेरेर आउनुहोस्।,ちず を みて きて ください,Please look at the map to get here.
-963,JLPT3,海岸,かいがん,"seashore, coast",समुद्र किनारा,Noun,海岸を散歩しましょう。,समुद्र किनारमा हिँडौं।,かいがん を さんぽ しましょう,Let's take a walk along the coast.
-964,JLPT2,急に,きゅうに,"suddenly, unexpectedly",अचानक,Adverb,急に用事を思い出した。,अचानक मलाई काम सम्झना आयो।,きゅうに ようじ を おもいだした,I suddenly remembered I have something to do.
-965,JLPT4,女の子,おんなのこ,"girl, daughter","केटी, छोरी",Noun,あの女の子を知っていますか。,तपाईं त्यो केटीलाई चिन्नुहुन्छ?,あの おんなのこ を しって います か,Do you know that girl?
-966,JLPT2,ポスト,ポスト,"post box, letter box",हुलाक बक्स,Noun,手紙をポストに入れました。,मैले पत्र हुलाक बक्समा हालेँ।,てがみ を ぽすと に いれました,I put the letter in the mailbox.
-967,JLPT4,暗い,くらい,"dark, dreary, shadowy",अँध्यारो,Adjective,東の空が暗いです。,पूर्वको आकाश अँध्यारो छ।,ひがし の そら が くらい です,The eastern sky is dark.
-968,JLPT3,両方,りょうほう,both,दुबै,Noun,チョコレートとケーキを両方ください。,मलाई चकलेट र केक दुबै दिनुहोस्।,ちょこれーと と けーき を りょうほう ください,"I'll have both the chocolate and the cake, please."
-969,JLPT4,向こう,むこう,"the other side, the other party, opponent","उता, अर्को पक्ष",Noun,友達は向こうにいます。,मेरो साथी उता छ।,ともだち は むこう に います,My friend is over there.
-970,JLPT4,忙しい,いそがしい,"busy, occupied",व्यस्त,Adjective,忙しいので手伝ってください。,"म व्यस्त छु, कृपया मद्दत गर्नुहोस्।",いそがしい の で てつだって ください,"I have a lot to do, so please help me out."
-971,JLPT2,給料,きゅうりょう,"salary, pay",तलब,Noun,来年から給料が上がります。,अर्को वर्षदेखि तलब बढ्नेछ।,らいねん から きゅうりょう が あがります,I'm getting a pay raise as of next year.
-972,JLPT4,テスト,テスト,"test, exam",परीक्षा,Verbal Noun,テストを始めてください。,परीक्षा सुरु गर्नुहोस्।,てすと を はじめて ください,Please start the test.
-973,JLPT2,あちこち,あちこち,all over,सर्वत्र,Noun,私たちは朝からあちこち散歩しました。,हामी बिहानैदेखि सर्वत्र घुम्यौं।,わたしたち は あさ から あちこち さんぽ しました,We strolled about here and there from the morning.
-974,JLPT2,切れる,きれる,"run out, expire, can cut","समाप्त हुनु, काट्न सक्नु",Verb,このはさみはよく切れますね。,यो कैंचीले राम्रो काट्छ।,この はさみ は よく きれます ね,These scissors cut well.
-975,JLPT0,野球,やきゅう,baseball,बेसबल,Noun,友達と野球をしました。,मैले साथीहरूसँग बेसबल खेलेँ।,ともだち と やきゅう を しました,I played baseball with a friend.
-976,JLPT3,試験,しけん,"test, examination",परीक्षा,Verbal Noun,明日の試験、頑張ってね。,"भोलिको परीक्षा, शुभकामना।",あした の しけん がんばって ね,Good luck on tomorrow's exam.
-977,JLPT3,台風,たいふう,typhoon,तूफान,Noun,台風が近づいている。,तूफान नजिकिदैछ।,たいふう が ちかづいて いる,The typhoon's getting closer.
-978,JLPT3,規則,きそく,"rule, regulation",नियम,Noun,あの会社の規則は厳しいです。,त्यो कम्पनीको नियम कडा छ।,あの かいしゃ の きそく は きびしい です,That company's rules are strict.
-979,JLPT3,遠く,とおく,great distance,दूर,Adverb,遠くに船が見えます。,दूर सिप देख्न सकिन्छ।,とおく に ふね が みえます,I can see a ship in the distance.
-980,JLPT0,ゴルフ,ゴルフ,golf,गोल्फ,Noun,兄はゴルフを始めました。,मेरो दाजुले गोल्फ सुरु गरे।,あに は ごるふ を はじめました,My older brother started playing golf.
-981,JLPT3,看護婦,かんごふ,female nurse,महिला नर्स,Noun,母は看護婦です。,मेरो आमा महिला नर्स हुनुहुन्छ।,はは は かんごふ です,My mother's a nurse.
-982,JLPT4,ラジオ,ラジオ,radio,रेडियो,Noun,彼女はラジオを聞いています。,उनी रेडियो सुनिरहेकी छिन्।,かのじょ は らじお を きいて います,She's listening to the radio.
-983,JLPT0,逢う,あう,meet,भेट्नु,Verb,ついに素晴らしい女性に逢えた。,अन्ततः म एक अद्भुत महिलालाई भेटें।,ついに すばらしい じょせい に あえた 。,I've finally met a wonderful woman.
-984,JLPT4,タクシー,タクシー,"taxi, cab",ट्याक्सी,Noun,タクシーを呼んでください。,कृपया ट्याक्सी बोलाउनुहोस्।,たくしー を よんで ください,Please call a taxi.
-985,JLPT4,来月,らいげつ,next month,अर्को महिना,Noun,来月から大学生になります。,अर्को महिनादेखि म विश्वविद्यालय विद्यार्थी हुन्छु।,らいげつ から だいがくせい に なります,I'll be a college student beginning next month.
-986,JLPT2,教科書,きょうかしょ,"textbook, schoolbook",पाठ्यपुस्तक,Noun,日本語の教科書を忘れた。,मैले जापानी पाठ्यपुस्तक बिर्सें।,にほんご の きょうかしょ を わすれた,I forgot my Japanese textbook.
-987,JLPT4,電気,でんき,"electricity, electric light",बिजुली,Noun,電気をつけてください。,कृपया बत्ती बाल्नुहोस्।,でんき をつけてください,Please turn on the light.
-988,JLPT3,急,きゅう,"urgent, dire, pressing","अत्यावश्यक, गम्भीर",Adjectival Noun,急な坂道を上った。,हामीले गम्भीर उकालो चढ्यौं।,きゅう な さかみち を のぼった,I went up the steep hill.
-989,JLPT4,ゆっくり,ゆっくり,slowly,बिस्तारै,Adverb,もっとゆっくり話してください。,अलि बिस्तारै बोल्नुहोस्।,もっと ゆっくり はなして ください,Please speak more slowly.
-990,JLPT4,兄弟,きょうだい,sibling,दाजुभाइ,Noun,彼は3人兄弟です。,उनी तीन दाजुभाइ छन्।,かれ は さんにん きょうだい です,He has two siblings.
-991,JLPT4,牛肉,ぎゅうにく,beef,गाईको मासु,Noun,夕食に牛肉を買った。,रातको भोजनका लागि गाईको मासु किनें।,ゆうしょく に ぎゅうにく を かった,I bought beef for dinner.
-992,JLPT3,確か,たしか,"for sure, for certain",निश्चित,Adjectival Noun,彼の昇進は確かだ。,उनको पदोन्नति निश्चित छ।,かれ の しょうしん は たしか だ,He's sure to get a promotion.
-993,JLPT3,慣れる,なれる,grow accustomed to,बानी पर्नु,Verb,新しい家にはもう慣れましたか。,के तपाईं नयाँ घरमा बानी पर्नुभयो?,あたらしい いえ に は もう なれました か,Have you gotten used to the new house yet?
-994,JLPT4,厚い,あつい,"thick, bulky",मोटो,Adjective,その辞書はとても厚い。,त्यो शब्दकोश धेरै मोटो छ।,その じしょ は とても あつい,That dictionary is very thick.
-995,JLPT4,返す,かえす,"return, repay",फिर्ता गर्नु,Verb,図書館に本を返した。,मैले पुस्तक पुस्तकालयमा फिर्ता गरें।,としょかん に ほん を かえした,I returned the book to the library.
-996,JLPT3,中学校,ちゅうがっこう,junior high school,माध्यमिक विद्यालय,Noun,息子の中学校は家から5分です。,मेरो छोरोको माध्यमिक विद्यालय घरबाट ५ मिनेट टाढा छ।,むすこ の ちゅうがっこう は いえ から ごふん です,My son's junior high is five minutes from our house.
-997,JLPT2,森,もり,"thick woods, forest",जङ्गल,Noun,私は森を歩くのが好きです。,मलाई जङ्गलमा हिँड्न मन पर्छ।,わたし は もり を あるく の が すき です,I like to walk in the forest.
-998,JLPT4,降りる,おりる,"get off, land",ओर्लनु,Verb,次の駅で降ります。,अर्को स्टेसनमा ओर्लन्छु।,つぎ の えき で おります。,I get off at the next station.
-999,JLPT0,曲,きょく,"song, melody, tune","गाना, धुन",Noun,私はこの曲が大好きです。,मलाई यो गाना धेरै मन पर्छ।,わたし は この きょく が だいすき です,I love this song.
-1000,JLPT3,遊び,あそび,"play, amusement",खेल,Noun,お正月には色々な遊びをします。,हामी नयाँ वर्षमा विभिन्न खेल खेल्छौं।,おしょうがつ に は いろいろ な あそび を します,We play a lot of games at New Year's.
+Core-index,jlpt,Vocab-expression,Vocab-kana,Vocab-meaning-eng,Nep-meaning,Vocab-pos,Sentence-expression,Sentence-meaning-nep,Sentence-kana,Sentence-meaning-eng,Mnemonic,Explanation
+501,JLPT3,技術,ぎじゅつ,"skill, technology","कौशल, प्रविधि",Noun,彼は非常に高い技術を持っている。,उहाँसँग धेरै उच्च स्तरको कौशल छ।,かれ は ひじょう に たかい ぎじゅつ を もって いる,He has very advanced skills.,"गिद्द जुत्ता कल्पना गर्नुहोस् कि एउटा गिद्दले प्रविधिसँग जोडिएको विशेष कौशलको जुत्ता लगाइरहेको छ। यो दृश्य हास्यास्पद छ र सजिलै सम्झन सकिन्छ। यसरी, ""ぎ"" लाई ""गिद्द"" र ""じゅつ"" लाई ""जुत्ता"" सँग जोडेर तपाईं ぎじゅつ (कौशल, प्रविधि) शब्दलाई सजिलै सम्झन सक्नुहुन्छ।","{'word': '技術', 'pronunciation': 'ぎじゅつ', 'meanings': [{'nepali': 'कौशल', 'english': 'skill', 'details': ['कुनै काम वा प्रक्रियामा दक्षता र दक्षताको स्तर।', 'जस्तै - चित्रकलामा कलाकारको कौशल, नृत्यमा नर्तकको कौशल, लेखनमा लेखकको कौशल आदि।']}, {'nepali': 'प्रविधि', 'english': 'technology, method', 'details': ['वैज्ञानिक र प्राविधिक ज्ञानको उपयोग गरेर विकास गरिएको विधि वा उपकरण।', 'जस्तै - कम्प्युटर प्रविधि, सूचना प्रविधि, निर्माण प्रविधि आदि।']}]}"
+502,JLPT0,まま,まま,"as is, still (in the current state)","जस्ताको तस्तै, अझै पनि (वर्तमान अवस्थामा)",Noun,電気がついたままですよ。,बत्ती अझै पनि बलिरहेको छ।,でんき が ついた まま です よ,The light is still on.,मामा घरमा जस्तै अझै पनि वर्तमान अवस्थामा। मामा जस्तै।,"{'word': 'まま', 'pronunciation': 'まま', 'meanings': [{'nepali': 'जस्ताको तस्तै', 'english': 'as is', 'details': ['कुनै परिवर्तन नगरी, जस्तो अवस्थामा हो त्यसै।']}, {'nepali': 'अझै पनि (वर्तमान अवस्थामा)', 'english': 'still (in the current state)', 'details': ['वर्तमान अवस्थालाई निरन्तर राखेर।']}]}"
+503,JLPT2,完成,かんせい,"completion, finish","सम्पन्नता, समाप्त",Verbal Noun,新しいホームページが完成した。,नयाँ होमपेज सम्पूर्ण भयो।,あたらしい ほーむぺーじ が かんせい した,We finished our new home page.,कानसेई - कानमा सेइ लगाएर केही काम सम्पन्न गरेको दृश्य कल्पना गर्नुहोस्।,"{'word': '完成', 'pronunciation': 'かんせい', 'meanings': [{'nepali': 'सम्पन्नता', 'english': 'completion', 'details': ['कुनै काम वा परियोजनाको सम्पूर्णता।']}, {'nepali': 'समाप्त', 'english': 'finish', 'details': ['कुनै कामको अन्तिम चरण।']}]}"
+504,JLPT2,変化,へんか,change,परिवर्तन,Verbal Noun,今年は変化の多い年でした。,यस वर्ष धेरै परिवर्तन भएको वर्ष थियो।,ことし は へんか の おおい とし でした,There was a lot of change this year.,हेन्का - परिवर्तनको बेलामा हेन्जको टमाटर ससलाई बदल्नु पर्ने कल्पना गर्नुहोस्।,"{'word': '変化', 'pronunciation': 'へんか', 'meanings': [{'nepali': 'परिवर्तन', 'english': 'change', 'details': ['कुनै कुरा वा अवस्थामा भएको रूपान्तरण।']}]}"
+505,JLPT2,存在,そんざい,"existence, being",अस्तित्व,Verbal Noun,宇宙人は存在すると思いますか。,तपाईंलाई लाग्छ कि एलियन्सको अस्तित्व छ?,うちゅうじん は そんざい する と おもいます か,Do you think that aliens exist?,सोनजाई - एक सोनाजाईको रूपमा अस्तित्वमा रहेको कल्पना गर्नुहोस्।,"{'word': '存在', 'pronunciation': 'そんざい', 'meanings': [{'nepali': 'अस्तित्व', 'english': 'existence', 'details': ['कुनै चीज वा व्यक्तिको वर्तमान अवस्था।']}, {'nepali': 'स्थिति', 'english': 'being', 'details': ['कुनै व्यक्तिको अस्तित्व वा उपस्थिति।']}]}"
+506,JLPT2,参加,さんか,participation,सहभागिता,Verbal Noun,明日は市民マラソンに参加します。,भोलि नगर म्याराथनमा सहभागी हुनेछु।,あす は しみん まらそん に さんか します,I'll participate in the citizens' marathon tomorrow.,सानका - एक सानको रूपमा भाग लिने कल्पना गर्नुहोस्।,"{'word': '参加', 'pronunciation': 'さんか', 'meanings': [{'nepali': 'सहभागिता', 'english': 'participation', 'details': ['कुनै गतिविधिमा भाग लिने क्रिया।']}]}"
+507,JLPT4,テレビ,テレビ,television,टेलिभिजन,Noun,私はテレビをあまり見ません。,म धेरै टेलिभिजन हेर्दिन।,わたし は てれび を あまり みません,I don't watch much TV.,टेलिभिजनमा टेलीपोर्ट हुने सोचेमा।,"{'word': 'テレビ', 'pronunciation': 'てれび', 'meanings': [{'nepali': 'टेलिभिजन', 'english': 'television', 'details': ['दूरसञ्चार माध्यम जसले आवाज र तस्वीरहरू प्रसारण गर्दछ।']}]}"
+508,JLPT2,土地,とち,land,भूमि,Noun,ここは父の土地です。,यो मेरो बुवाको भूमि हो।,ここ は ちち の とち です,This is my father's land.,टोटली आफ्नो भूमि।,"{'word': '土地', 'pronunciation': 'とち', 'meanings': [{'nepali': 'भूमि', 'english': 'land', 'details': ['जमिनको क्षेत्रफल, जुन कुनै व्यक्तिको स्वामित्वमा हुन्छ।']}]}"
+509,JLPT2,減る,へる,"decrease, diminish",घट्नु,Verb,体重がかなり減りました。,मेरो तौल धेरै घट्यो।,たいじゅう が かなり へりました,I've lost a lot of weight.,घरेलु काम गर्दा तौल घट्ने।,"{'word': '減る', 'pronunciation': 'へる', 'meanings': [{'nepali': 'घट्नु', 'english': 'decrease, diminish', 'details': ['कुनै वस्तु वा मात्रामा कमी आउनु।']}]}"
+510,JLPT2,検討,けんとう,"consideration, inspection","विचार, जाँच",Verbal Noun,今日中にこの問題を検討してください。,कृपया आज यो समस्यालाई विचार गर्नुहोस्।,きょう じゅう に この もんだい を けんとう して ください,Please consider this problem by the end of the day.,कैंटो - कैंटो गरी जाँच गर्ने।,"{'word': '検討', 'pronunciation': 'けんとう', 'meanings': [{'nepali': 'विचार', 'english': 'consideration', 'details': ['कुनै विषयमा गहिरो सोच।']}, {'nepali': 'जाँच', 'english': 'inspection', 'details': ['कुनै वस्तुको जाँच र समीक्षा।']}]}"
+511,JLPT3,政治,せいじ,politics,राजनीति,Noun,私は政治に関心がある。,मलाई राजनीतिमा चासो छ।,わたし は せいじ に かんしん が ある,I'm interested in politics.,सेइजी - सेइ (सही) राजनीति।,"{'word': '政治', 'pronunciation': 'せいじ', 'meanings': [{'nepali': 'राजनीति', 'english': 'politics', 'details': ['देश वा समाजको प्रशासनिक प्रणाली।']}]}"
+512,JLPT2,実施,じっし,"enforcement, implementation",कार्यान्वयन,Verbal Noun,現在、スペシャルキャンペーンを実施中です。,"हाल, विशेष अभियान कार्यान्वयनमा छ।",げんざい すぺしゃるきゃんぺーん を じっしちゅう です,A special campaign is now under way.,जित्सी - जित्न कार्यान्वयन गर्नु।,"{'word': '実施', 'pronunciation': 'じっし', 'meanings': [{'nepali': 'कार्यान्वयन', 'english': 'enforcement', 'details': ['कुनै योजना वा नियमलाई कार्यान्वयन गर्नु।']}, {'nepali': 'अमल', 'english': 'implementation', 'details': ['कुनै कुरा लागू गर्नु।']}]}"
+513,JLPT2,開始,かいし,beginning,सुरू,Verbal Noun,運動会は9時開始です。,खेलकुद प्रतियोगिता बिहान ९ बजे सुरू हुन्छ।,うんどうかい は くじ かいし です,The athletic meet begins at nine o'clock.,कैशी - खेलको शुरूवात।,"{'word': '開始', 'pronunciation': 'かいし', 'meanings': [{'nepali': 'सुरू', 'english': 'beginning', 'details': ['कुनै कामको प्रारम्भ।']}]}"
+514,JLPT2,備える,そなえる,"provide for, furnish","तयार गर्नु, व्यवस्था गर्नु",Verb,災害に備えて大量の水を買い込んだ。,प्राकृतिक प्रकोपको तयारीका लागि धेरै पानी किनें।,さいがい に そなえて たいりょう の みず を かいこんだ,I bought large quantities of water to prepare for disasters.,सोनाएरु - सोना (सुन) तैयार गर्ने।,"{'word': '備える', 'pronunciation': 'そなえる', 'meanings': [{'nepali': 'तयार गर्नु', 'english': 'provide for', 'details': ['कुनै स्थिति वा घटनाका लागि तयार हुनु।']}, {'nepali': 'व्यवस्था गर्नु', 'english': 'furnish', 'details': ['आवश्यक वस्तुहरू जुटाउनु।']}]}"
+515,JLPT2,輸入,ゆにゅう,import,आयात,Verbal Noun,これはイタリアから輸入した服です。,यो इटालीबाट आयात गरिएको लुगा हो।,これ は いたりあ から ゆにゅう した ふく です,These clothes are imported from Italy.,युन्यु - विदेशी लुगा।,"{'word': '輸入', 'pronunciation': 'ゆにゅう', 'meanings': [{'nepali': 'आयात', 'english': 'import', 'details': ['विदेशी सामान ल्याउनु।']}]}"
+516,JLPT0,最大,さいだい,"biggest, largest",सबैभन्दा ठूलो,Noun,これは世界最大の船です。,यो संसारको सबैभन्दा ठूलो जहाज हो।,これ は せかい さいだい の ふね です,This is the world's largest ship.,साइदाई - सबैभन्दा ठूलो साइ (साँचो)।,"{'word': '最大', 'pronunciation': 'さいだい', 'meanings': [{'nepali': 'सबैभन्दा ठूलो', 'english': 'biggest', 'details': ['सबैभन्दा ठूलो आकार वा परिमाण।']}, {'nepali': 'विशाल', 'english': 'largest', 'details': ['विस्तृत वा महान् परिमाण।']}]}"
+517,JLPT3,競争,きょうそう,competition,प्रतिस्पर्धा,Verbal Noun,2社は互いに競争している。,दुई कम्पनीहरू एकअर्कासँग प्रतिस्पर्धा गर्दैछन्।,にしゃ は たがい に きょうそう して いる,Two companies are competing with each other.,क्युसो - क्यूसो (चाउचाउ) प्रतिस्पर्धामा।,"{'word': '競争', 'pronunciation': 'きょうそう', 'meanings': [{'nepali': 'प्रतिस्पर्धा', 'english': 'competition', 'details': ['कुनै लक्ष्यमा पुग्न दुई वा दुईभन्दा बढी व्यक्तिहरू बीचको संघर्ष।']}]}"
+518,JLPT2,部分,ぶぶん,"part, section","भाग, खण्ड",Noun,この部分は問題ないです。,यो भाग समस्यामुक्त छ।,この ぶぶん は もんだい ない です,There's no problem with this part.,बु-फन - बुफन (फूल) को भाग।,"{'word': '部分', 'pronunciation': 'ぶぶん', 'meanings': [{'nepali': 'भाग', 'english': 'part', 'details': ['कुनै वस्तु वा संरचनाको एउटा हिस्सा।']}, {'nepali': 'खण्ड', 'english': 'section', 'details': ['कुनै वस्तु वा संरचनाको उपविभाग।']}]}"
+519,JLPT4,消える,きえる,"be extinguished, disappear","मेटिनु, हराउनु",Verb,突然、電気が消えた。,अचानक बत्ती मेटियो।,とつぜん でんき が きえた,Suddenly the electricity went out.,किएरु - किला (नेपाली कागती) हराउनु।,"{'word': '消える', 'pronunciation': 'きえる', 'meanings': [{'nepali': 'मेटिनु', 'english': 'be extinguished', 'details': ['केही वस्तु वा उज्यालो बन्द हुनु।']}, {'nepali': 'हराउनु', 'english': 'disappear', 'details': ['कुनै वस्तु वा व्यक्ति दृश्यबाट हट्नु।']}]}"
+520,JLPT4,家族,かぞく,"family, household","परिवार, घर",Noun,うちは五人家族です。,हामी पाँच जनाको परिवार हौं।,うち は ごにん かぞく です,We're a family of five.,काजोक - काज (पर्खाल) मा जोक परिवार।,"{'word': '家族', 'pronunciation': 'かぞく', 'meanings': [{'nepali': 'परिवार', 'english': 'family', 'details': ['रक्त सम्बन्ध वा विवाहद्वारा सम्बन्धित व्यक्तिहरूको समूह।']}, {'nepali': 'घर', 'english': 'household', 'details': ['एउटै घरमा बस्ने व्यक्तिहरूको समूह।']}]}"
+521,JLPT2,内容,ないよう,contents,"सामग्री, विषयवस्तु",Noun,この本の内容を説明してください。,यस पुस्तकको सामग्री वर्णन गर्नुहोस्।,この ほん の ないよう を せつめい して ください,Please explain the content of this book.,नाइयो - नायको सामग्री।,"{'word': '内容', 'pronunciation': 'ないよう', 'meanings': [{'nepali': 'सामग्री', 'english': 'contents', 'details': ['कुनै वस्तु वा लेखको सामग्री वा विवरण।']}, {'nepali': 'विषयवस्तु', 'english': 'subject matter', 'details': ['कुनै लेख, पुस्तक वा छलफलको मुख्य विषय।']}]}"
+522,JLPT3,比べる,くらべる,"compare, contrast",तुलना गर्नु,Verb,今月と先月の売上を比べた。,यो महिना र गत महिनाको बिक्री तुलना गरियो।,こんげつ と せんげつ の うりあげ を くらべた,I compared this month's sales with last month's.,कुराबेरु - कुरो (बात) को तुलना।,"{'word': '比べる', 'pronunciation': 'くらべる', 'meanings': [{'nepali': 'तुलना गर्नु', 'english': 'compare', 'details': ['दुई वा दुई भन्दा बढी वस्तुहरूका विशेषताहरूको तुलना गर्नु।']}, {'nepali': 'मूल्याङ्कन गर्नु', 'english': 'contrast', 'details': ['दुई वा दुई भन्दा बढी वस्तुहरूको भिन्नता तुलना गर्नु।']}]}"
+523,JLPT4,生まれる,うまれる,"be born, come into existence",जन्मनु,Verb,姉夫婦に男の子が生まれました。,मेरो दिदीभिनाजुको एउटा छोरा जन्मियो।,あね ふうふ に おとこのこ が うまれました,My sister and her husband had a baby boy.,उमारेरे - उमारे (फुल्ने) समय जन्मनु।,"{'word': '生まれる', 'pronunciation': 'うまれる', 'meanings': [{'nepali': 'जन्मनु', 'english': 'be born', 'details': ['कुनै व्यक्तिको जन्म हुनु।']}, {'nepali': 'उत्पन्न हुनु', 'english': 'come into existence', 'details': ['कुनै नयाँ वस्तु वा विचारको उत्पत्ति हुनु।']}]}"
+524,JLPT2,与える,あたえる,give,दिनु,Verb,そのニュースは彼に大きなショックを与えた。,त्यो समाचारले उसलाई ठूलो झटका दियो।,その にゅーす は かれ に おおき な しょっく を あたえた,The news gave him a great shock.,अताएरे - अताए (अतिका) धेरै दिनु।,"{'word': '与える', 'pronunciation': 'あたえる', 'meanings': [{'nepali': 'दिनु', 'english': 'give', 'details': ['कसैलाई केही प्रदान गर्नु।']}, {'nepali': 'प्रभाव पार्नु', 'english': 'affect', 'details': ['कुनै कुरा वा घटना कसैमा प्रभाव पार्नु।']}]}"
+525,JLPT1,選挙,せんきょ,election,निर्वाचन,Verbal Noun,彼は選挙に出るつもりだ。,उहाँ निर्वाचनमा उठ्न चाहनुहुन्छ।,かれ は せんきょ に でる つもり だ,He intends to run in the election.,सेनक्यो - सेना (फौज) निर्वाचनमा।,"{'word': '選挙', 'pronunciation': 'せんきょ', 'meanings': [{'nepali': 'निर्वाचन', 'english': 'election', 'details': ['जनताले आफ्नो प्रतिनिधि चयन गर्न मतदान गर्ने प्रक्रिया।']}]}"
+526,JLPT2,対立,たいりつ,"opposition, antagonism","विरोध, प्रतिद्वन्द्विता",Verbal Noun,その2社は対立しています。,ती दुई कम्पनीहरू एकअर्काको विरोधमा छन्।,その にしゃ は たいりつ して います,The two companies are against each other.,ताइरित्सु - ताइ (उडान) गर्ने विरोध।,"{'word': '対立', 'pronunciation': 'たいりつ', 'meanings': [{'nepali': 'विरोध', 'english': 'opposition', 'details': ['कुनै विचार, प्रस्ताव वा व्यक्तिको विरोध गर्नु।']}, {'nepali': 'प्रतिद्वन्द्विता', 'english': 'antagonism', 'details': ['दुई वा दुईभन्दा बढी पक्षहरूको बीचमा हुने प्रतिद्वन्द्विता।']}]}"
+527,JLPT3,理由,りゆう,"reason, cause",कारण,Noun,遅れた理由を教えてください。,किन ढिलो भएको भन्ने कारण बताउनुहोस्।,おくれた りゆう を おしえて ください,Please tell me why you were late.,रियु - रेलको कारण।,"{'word': '理由', 'pronunciation': 'りゆう', 'meanings': [{'nepali': 'कारण', 'english': 'reason', 'details': ['कुनै घटनाको कारण।']}, {'nepali': 'कारक', 'english': 'cause', 'details': ['कुनै परिणाम ल्याउने कारक।']}]}"
+528,JLPT2,構成,こうせい,organization,"संरचना, संगठन",Verbal Noun,システムの構成を変えてみました。,मैले प्रणालीको संरचना परिवर्तन गरें।,しすてむ の こうせい を かえて みました,I've tried to reorganize the system.,कोसे - कोसे बिस्कुट संरचना।,"{'word': '構成', 'pronunciation': 'こうせい', 'meanings': [{'nepali': 'संरचना', 'english': 'organization', 'details': ['कुनै वस्तुको बनावट वा संरचना।']}, {'nepali': 'संगठन', 'english': 'constitution', 'details': ['कुनै समूह वा प्रणालीको गठन।']}]}"
+529,JLPT2,管理,かんり,"management, administration","व्यवस्थापन, प्रशासन",Verbal Noun,彼女が私のスケジュールを管理している。,उहाँले मेरो तालिका व्यवस्थापन गर्नुहुन्छ।,かのじょ が わたし の すけじゅーる を かんり して いる,She manages my schedule.,कानरी - कानमा रिंग (छेड्न) व्यवस्थापन गर्नु।,"{'word': '管理', 'pronunciation': 'かんり', 'meanings': [{'nepali': 'व्यवस्थापन', 'english': 'management', 'details': ['स्रोतहरू, प्रक्रियाहरू, र मानिसहरूको समुचित नियन्त्रण र समन्वय।']}, {'nepali': 'प्रशासन', 'english': 'administration', 'details': ['कुनै संगठन वा प्रणालीको सञ्चालन र व्यवस्थापन।']}]}"
+530,JLPT2,増加,ぞうか,"increase, gain",वृद्धि,Verbal Noun,島の人口は年々増加しています。,द्वीपको जनसंख्या हरेक वर्ष बढ्दैछ।,しま の じんこう は ねんねん ぞうか して います,The population of the island increases every year.,जोक (जोकर) द्वारा जनसंख्या वृद्धि।,"{'word': '増加', 'pronunciation': 'ぞうか', 'meanings': [{'nepali': 'वृद्धि', 'english': 'increase', 'details': ['कुनै वस्तु, परिमाण, वा जनसंख्याको बृद्धि।']}, {'nepali': 'वृद्धि हुनु', 'english': 'gain', 'details': ['परिमाणमा वृद्धि हुनु।']}]}"
+531,JLPT1,改革,かいかく,reform,सुधार,Verbal Noun,彼は行政を改革したいと思っている。,उहाँ प्रशासनलाई सुधार गर्न चाहनुहुन्छ।,かれ は ぎょうせい を かいかく したい と おもって いる,He wants to reform the administration.,कैकाकु - काई (कीरा) सुधार गर्नु।,"{'word': '改革', 'pronunciation': 'かいかく', 'meanings': [{'nepali': 'सुधार', 'english': 'reform', 'details': ['कुनै प्रणाली, संगठन, वा प्रक्रियामा सुधार गर्नु।']}]}"
+532,JLPT1,会談,かいだん,"conversation, meeting","वार्ता, बैठक",Verbal Noun,会談の内容が発表されました。,वार्ताको सामग्री घोषणा गरियो।,かいだん の ないよう が はっぴょう されました,The content of the talks was announced.,कैदान - काई (सीढी) मा वार्ता।,"{'word': '会談', 'pronunciation': 'かいだん', 'meanings': [{'nepali': 'वार्ता', 'english': 'conversation', 'details': ['दुई वा दुईभन्दा बढी व्यक्तिहरू बीचको औपचारिक छलफल।']}, {'nepali': 'बैठक', 'english': 'meeting', 'details': ['कुनै विशेष उद्देश्यका लागि आयोजना गरिएको सभा।']}]}"
+533,JLPT0,会長,かいちょう,"president, chairperson","अध्यक्ष, सभापति",Noun,初めに会長が挨拶した。,पहिले अध्यक्षले अभिवादन गर्नुभयो।,はじめ に かいちょう が あいさつ した,First was the chairman's greetings.,कैचो - कै (हात) चोप्ने अध्यक्ष।,"{'word': '会長', 'pronunciation': 'かいちょう', 'meanings': [{'nepali': 'अध्यक्ष', 'english': 'president', 'details': ['कुनै संगठनको प्रमुख।']}, {'nepali': 'सभापति', 'english': 'chairperson', 'details': ['कुनै सभा वा समितिको अध्यक्षता गर्ने व्यक्ति।']}]}"
+534,JLPT1,ソフト,ソフト,"software, programme",सफ्टवेयर,Noun,このソフトで日本語を勉強することができます。,यो सफ्टवेयरले जापानी भाषा सिक्न सकिन्छ।,この そふと で にほんご を べんきょう する こと が できます,You can study Japanese with this software.,सफ्ट - सफ्टवेयर।,"{'word': 'ソフト', 'pronunciation': 'そふと', 'meanings': [{'nepali': 'सफ्टवेयर', 'english': 'software', 'details': ['कम्प्युटर प्रोग्रामहरू र डेटा।']}]}"
+535,JLPT1,提供,ていきょう,"offer, provide","प्रदान, प्रस्ताव",Verbal Noun,彼がパーティー会場を提供してくれました。,उहाँले पार्टी स्थल प्रदान गर्नुभयो।,かれ が ぱーてぃー かいじょう を ていきょう して くれました,He provided us with the venue for the party.,तेईक्यो - टेई (टे) को प्रस्ताव।,"{'word': '提供', 'pronunciation': 'ていきょう', 'meanings': [{'nepali': 'प्रदान', 'english': 'offer', 'details': ['कुनै सेवा वा वस्तु प्रदान गर्नु।']}, {'nepali': 'प्रस्ताव', 'english': 'provide', 'details': ['आवश्यकताहरू पूरा गर्ने प्रस्ताव गर्नु।']}]}"
+536,JLPT2,ただ,ただ,free,निःशुल्क,Noun,この温泉はただです。,यो तातोपानी निःशुल्क छ।,この おんせん は ただ です,This hot spring is free.,तादा - ताज (मुकुट) निःशुल्क।,"{'word': 'ただ', 'pronunciation': 'ただ', 'meanings': [{'nepali': 'निःशुल्क', 'english': 'free', 'details': ['कुनै मूल्य नलाग्ने।']}]}"
+537,JLPT2,これら,これら,these,यी,Noun,今日はこれらの問題について話し合います。,आज हामी यी समस्याहरूको बारेमा छलफल गर्छौं।,きょう は これら の もんだい に ついて はなしあいます,We will discuss these issues today.,कोरेरा - को (कुनै) रे (रेखा) रा (र) यी।,"{'word': 'これら', 'pronunciation': 'これら', 'meanings': [{'nepali': 'यी', 'english': 'these', 'details': ['कुनै निश्चित कुराहरू।']}]}"
+538,JLPT2,広がる,ひろがる,"spread out, reach","फैलिनु, पुग्नु",Verb,留学してから私の世界が広がった。,विद्यार्थी भएपछि मेरो संसार फैलियो।,りゅうがく して から わたし の せかい が ひろがった,My world expanded after studying abroad.,हिरोगारु - हिरो (विस्तार) गर्ने फैलिने।,"{'word': '広がる', 'pronunciation': 'ひろがる', 'meanings': [{'nepali': 'फैलिनु', 'english': 'spread out', 'details': ['कुनै कुरा विस्तार हुनु।']}, {'nepali': 'पुग्नु', 'english': 'reach', 'details': ['कुनै कुरा विस्तार भएर पुग्नु।']}]}"
+539,JLPT2,特徴,とくちょう,"distinctive feature, characteristic","विशेषता, चरित्र",Noun,この曲線がこの車の特徴です。,यो कारको यो वक्र रेखा यसको विशेषता हो।,この きょくせん が この くるま の とくちょう です,These curves are a unique feature of this car.,तोकुचो - तोकु (टोकेको) चरित्र।,"{'word': '特徴', 'pronunciation': 'とくちょう', 'meanings': [{'nepali': 'विशेषता', 'english': 'distinctive feature', 'details': ['कुनै वस्तु वा व्यक्तिको विशेष गुण।']}, {'nepali': 'चरित्र', 'english': 'characteristic', 'details': ['कुनै वस्तु वा व्यक्तिको विशिष्टता।']}]}"
+540,JLPT3,調べる,しらべる,"investigate, check","अनुसन्धान गर्नु, जाँच गर्नु",Verb,この単語の意味を辞書で調べましょう。,यस शब्दको अर्थ शब्दकोशमा जाँचौं।,この たんご の いみ を じしょ で しらべましょう,Let's look up the meaning of this word in the dictionary.,शिराबेरु - शिर (टाउको) मा अनुसन्धान गर्नु।,"{'word': '調べる', 'pronunciation': 'しらべる', 'meanings': [{'nepali': 'अनुसन्धान गर्नु', 'english': 'investigate', 'details': ['कुनै विषय वा समस्याको बारेमा गहिरो अनुसन्धान गर्नु।']}, {'nepali': 'जाँच गर्नु', 'english': 'check', 'details': ['कुनै वस्तु वा कुराको सटीकता वा स्थिति जाँच गर्नु।']}]}"
+541,JLPT2,強調,きょうちょう,"emphasis, stress","जोड, बलियो बनाउनु",Verbal Noun,彼は良いところだけを強調した。,उहाँले राम्रो पक्ष मात्र जोड दिनुभयो।,かれ は よい ところ だけ を きょうちょう した,He only emphasized the strong points.,क्योचो - क्यो (क्यो) जोड दिनु।,"{'word': '強調', 'pronunciation': 'きょうちょう', 'meanings': [{'nepali': 'जोड', 'english': 'emphasis', 'details': ['कुनै कुरा वा बिन्दुलाई जोड दिनु।']}, {'nepali': 'बलियो बनाउनु', 'english': 'stress', 'details': ['कुनै कुरा वा बिन्दुलाई विशेष महत्व दिनु।']}]}"
+542,JLPT2,制度,せいど,"system, organization","प्रणाली, संगठन",Noun,来年から新しい制度が始まります。,भोलि नयाँ प्रणाली सुरु हुनेछ।,らいねん から あたらしい せいど が はじまります,A new system will start from next year.,सेइदो - सेइ (सही) प्रणाली।,"{'word': '制度', 'pronunciation': 'せいど', 'meanings': [{'nepali': 'प्रणाली', 'english': 'system', 'details': ['कुनै संस्था वा समाजको सञ्चालनको विधि वा संरचना।']}, {'nepali': 'संगठन', 'english': 'organization', 'details': ['कुनै संस्था वा समाजको संरचना।']}]}"
+543,JLPT2,方針,ほうしん,"course, policy","नीति, दिशा",Noun,今後の方針が決まった。,अबको नीति निर्णय भयो।,こんご の ほうしん が きまった,We've decided our future policy.,होशिन - हो (हो) नीति।,"{'word': '方針', 'pronunciation': 'ほうしん', 'meanings': [{'nepali': 'नीति', 'english': 'policy', 'details': ['कुनै संस्थाको लक्ष्य वा उद्देश्य पूरा गर्ने योजना।']}, {'nepali': 'दिशा', 'english': 'course', 'details': ['कुनै योजना वा मार्गनिर्देशनको दिशा।']}]}"
+544,JLPT1,従来,じゅうらい,"former, old","पूर्व, पुरानो",Noun,このプリンターは従来のものより速い。,यो प्रिन्टर पुरानो भन्दा छिटो छ।,この ぷりんたー は じゅうらい の もの より はやい,This printer prints faster than previous models.,जुराइ - जुराउने पुरानो तरिका।,"{'word': '従来', 'pronunciation': 'じゅうらい', 'meanings': [{'nepali': 'पूर्व', 'english': 'former', 'details': ['पहिलेको समय वा अवस्था।']}, {'nepali': 'पुरानो', 'english': 'old', 'details': ['पहिलेको वा अघिल्लो।']}]}"
+545,JLPT2,いずれ,いずれ,"eventually, sometime","अन्ततः, कहिले",Adverb,いずれまたお会いしましょう。,कहिले फेरि भेटौं।,いずれ また おあい しましょう,Let's meet again sometime.,इजुरे - इजु (बाँसुरी) को कहिले।,"{'word': 'いずれ', 'pronunciation': 'いずれ', 'meanings': [{'nepali': 'अन्ततः', 'english': 'eventually', 'details': ['अन्ततः कुनै समयमा।']}, {'nepali': 'कहिले', 'english': 'sometime', 'details': ['अज्ञात समयमा।']}]}"
+546,JLPT3,事故,じこ,"accident, incident","दुर्घटना, घटना",Noun,彼は事故で怪我をしました。,उहाँ दुर्घटनामा घाइते हुनुभयो।,かれ は じこ で けが を しました,He was injured in the accident.,जिको - जीको (जी) दुर्घटना।,"{'word': '事故', 'pronunciation': 'じこ', 'meanings': [{'nepali': 'दुर्घटना', 'english': 'accident', 'details': ['अकस्मात हुने दुर्घटना।']}, {'nepali': 'घटना', 'english': 'incident', 'details': ['विशेष घटना वा अवस्था।']}]}"
+547,JLPT4,電話,でんわ,"telephone, phone call","टेलिफोन, फोन कल",Verbal Noun,あとで電話します。,पछि फोन गर्छु।,あとで でんわ します,I will call you later.,डेनवा - डेन (दिन) मा फोन।,"{'word': '電話', 'pronunciation': 'でんわ', 'meanings': [{'nepali': 'टेलिफोन', 'english': 'telephone', 'details': ['दूरसञ्चारको साधन।']}, {'nepali': 'फोन कल', 'english': 'phone call', 'details': ['फोनबाट गरिने कल।']}]}"
+548,JLPT4,外国,がいこく,foreign country,विदेशी देश,Noun,母はまだ外国に行ったことがありません。,आमालाई अझै विदेश जानु भएको छैन।,はは は まだ がいこく に いった こと が ありません,My mother hasn't been abroad yet.,गाइकोकु - गाई (गाई) विदेशमा।,"{'word': '外国', 'pronunciation': 'がいこく', 'meanings': [{'nepali': 'विदेशी देश', 'english': 'foreign country', 'details': ['आफ्नो देश बाहिरको कुनै पनि देश।']}]}"
+549,JLPT2,目的,もくてき,"object, purpose","उद्देश्य, उद्देश्यपूर्ण",Noun,彼が来た目的が分かりません。,उहाँ किन आए भन्ने मलाई थाहा छैन।,かれ が きた もくてき が わかりません,I don't know the purpose of his visit.,मोकुटेकी - मोकु (मौका) उद्देश्य।,"{'word': '目的', 'pronunciation': 'もくてき', 'meanings': [{'nepali': 'उद्देश्य', 'english': 'object', 'details': ['कुनै कार्यको लक्ष्य वा उद्देश्य।']}, {'nepali': 'उद्देश्यपूर्ण', 'english': 'purpose', 'details': ['कुनै कार्य वा गतिविधिको मुख्य कारण।']}]}"
+550,JLPT3,自由,じゆう,freedom,स्वतन्त्रता,Adjectival Noun,今日は自由な時間が多い。,आजको दिन स्वतन्त्र समय छ।,きょう は じゆう な じかん が おおい,I have a lot of free time today.,जियु - जि (जी) यू (तिमी) स्वतन्त्र।,"{'word': '自由', 'pronunciation': 'じゆう', 'meanings': [{'nepali': 'स्वतन्त्रता', 'english': 'freedom', 'details': ['बिना प्रतिबन्धको अवस्था।']}]}"
+551,JLPT1,資金,しきん,"funds, capital","पूँजी, रकम",Noun,私たちは今、結婚資金を貯めています。,हामी अहिले विवाहको लागि पूँजी जम्मा गर्दैछौं।,わたしたち は いま けっこん しきん を ためて います,We're saving for the wedding now.,सिकिन - सिकिन (सिकेर) पूँजी।,"{'word': '資金', 'pronunciation': 'しきん', 'meanings': [{'nepali': 'पूँजी', 'english': 'funds', 'details': ['आर्थिक स्रोतहरू।']}, {'nepali': 'रकम', 'english': 'capital', 'details': ['व्यवसायमा लगानीको लागि चाहिने आर्थिक स्रोत।']}]}"
+552,JLPT4,銀行,ぎんこう,bank,बैंक,Noun,銀行は3時まで開いています。,बैंक तीन बजेसम्म खुल्छ।,ぎんこう は さんじ まで あいて います,The bank is open until three o'clock.,गिन्को - गिन (गिन्ती) गर्ने बैंक।,"{'word': '銀行', 'pronunciation': 'ぎんこう', 'meanings': [{'nepali': 'बैंक', 'english': 'bank', 'details': ['आर्थिक कारोबारको लागि संस्था।']}]}"
+553,JLPT2,事実,じじつ,"fact, truth","तथ्य, साँचो कुरा",Noun,それは全て事実ですか。,यो सबै साँचो हो?,それ は すべて じじつ です か,Is it all true?,जिजित्सु - जी (जी) को तथ्य।,"{'word': '事実', 'pronunciation': 'じじつ', 'meanings': [{'nepali': 'तथ्य', 'english': 'fact', 'details': ['कुनै कुरा वा घटनाको वास्तविकता।']}, {'nepali': 'साँचो कुरा', 'english': 'truth', 'details': ['कुनै कुरा वा घटनाको सत्यता।']}]}"
+554,JLPT2,決定,けってい,"decision, settlement","निर्णय, स्थिरता",Verbal Noun,会議で重要な決定がありました。,बैठकमा महत्वपूर्ण निर्णय गरियो।,かいぎ で じゅうよう な けってい が ありました,An important decision was made at the conference.,केतेई - के (के) को निर्णय।,"{'word': '決定', 'pronunciation': 'けってい', 'meanings': [{'nepali': 'निर्णय', 'english': 'decision', 'details': ['कुनै कार्य वा योजनाको लागि लिइएको अन्तिम निर्णय।']}, {'nepali': 'स्थिरता', 'english': 'settlement', 'details': ['कुनै विवाद वा मुद्दाको अन्तिम स्थिरता।']}]}"
+555,JLPT2,方向,ほうこう,"direction, course","दिशा, मार्ग",Noun,あの人たちは皆、同じ方向を見ている。,ती सबै व्यक्ति एउटै दिशामा हेरिरहेका छन्।,あの ひとたち は みな おなじ ほうこう を みて いる,Those people are all looking in the same direction.,होकौ - हो (हो) को दिशा।,"{'word': '方向', 'pronunciation': 'ほうこう', 'meanings': [{'nepali': 'दिशा', 'english': 'direction', 'details': ['कुनै स्थान वा गन्तव्यको दिशा।']}, {'nepali': 'मार्ग', 'english': 'course', 'details': ['कुनै कार्य वा यात्रा गर्ने मार्ग।']}]}"
+556,JLPT2,住宅,じゅうたく,"housing, residence","आवास, निवास",Noun,ここは静かな住宅地だ。,यो शान्त आवासीय क्षेत्र हो।,ここ は しずかな じゅうたくち だ,This is a quiet residential area.,जुताकु - जुत्ता (जुत्ता) को आवास।,"{'word': '住宅', 'pronunciation': 'じゅうたく', 'meanings': [{'nepali': 'आवास', 'english': 'housing', 'details': ['बसेर बस्ने स्थान।']}, {'nepali': 'निवास', 'english': 'residence', 'details': ['रहने स्थान।']}]}"
+557,JLPT2,代表,だいひょう,representative,प्रतिनिधि,Verbal Noun,彼がクラスの代表だ。,उहाँ कक्षाको प्रतिनिधि हुनुहुन्छ।,かれ が くらす の だいひょう だ,He's the class representative.,दाइह्यो - दाइ (भाइ) को प्रतिनिधि।,"{'word': '代表', 'pronunciation': 'だいひょう', 'meanings': [{'nepali': 'प्रतिनिधि', 'english': 'representative', 'details': ['कुनै समूहको प्रतिनिधित्व गर्ने व्यक्ति।']}]}"
+558,JLPT2,激しい,はげしい,"violent, intense","भीषण, तीव्र",Adjective,激しい雨が降っています。,भीषण वर्षा भइरहेको छ।,はげしい あめ が ふって います,A very heavy rain is falling.,हागशी - हागो (हल्ला) भीषण।,"{'word': '激しい', 'pronunciation': 'はげしい', 'meanings': [{'nepali': 'भीषण', 'english': 'violent', 'details': ['धेरै बलियो वा उग्र।']}, {'nepali': 'तीव्र', 'english': 'intense', 'details': ['धेरै शक्तिशाली वा उग्र।']}]}"
+559,JLPT2,株,かぶ,"stocks, shares","सेयर, शेयर",Noun,最近株を始めました。,भर्खर सेयर कारोबार सुरु गरें।,さいきん かぶ を はじめました,I recently started investing in stocks.,काबु - काबु (नियन्त्रण) सेयर।,"{'word': '株', 'pronunciation': 'かぶ', 'meanings': [{'nepali': 'सेयर', 'english': 'stocks', 'details': ['कुनै कम्पनीको स्वामित्वको हिस्सा।']}, {'nepali': 'शेयर', 'english': 'shares', 'details': ['कुनै कम्पनीको स्वामित्वको हिस्सा।']}]}"
+560,JLPT1,交渉,こうしょう,"negotiation, bargaining","वार्ता, मोलमोलाई",Verbal Noun,今、値段を交渉しています。,म अहिले मूल्यमा मोलमोलाई गरिरहेको छु।,いま ねだん を こうしょう して います,We're currently negotiating the price.,कोशो - को (कस) को वार्ता।,"{'word': '交渉', 'pronunciation': 'こうしょう', 'meanings': [{'nepali': 'वार्ता', 'english': 'negotiation', 'details': ['दुई पक्षबीचको छलफल।']}, {'nepali': 'मोलमोलाई', 'english': 'bargaining', 'details': ['मूल्य वा सर्तहरूमा सम्झौता गर्ने प्रक्रिया।']}]}"
+561,JLPT2,結果,けっか,"result, outcome",परिणाम,Noun,試合の結果を早く知りたい。,म खेलको परिणाम चाँडै जान्न चाहन्छु।,しあい の けっか を はやく しりたい,I want to know soon the results of the game.,केक्का - के (के) को परिणाम।,"{'word': '結果', 'pronunciation': 'けっか', 'meanings': [{'nepali': 'परिणाम', 'english': 'result', 'details': ['कुनै कार्य वा घटनाको अन्तिम स्थिति।']}, {'nepali': 'निष्कर्ष', 'english': 'outcome', 'details': ['कुनै प्रक्रिया वा घटनाको अन्तिम स्थिति।']}]}"
+562,JLPT2,全体,ぜんたい,"whole, total","समग्र, कुल",Noun,全体の80パーセントが完成しました。,समग्रको ८० प्रतिशत पूरा भयो।,ぜんたい の はちじゅっぱーせんと が かんせい しました,80 percent of the total was completed.,जेन्ताई - जे (जो) अन्तै (सबै) समग्र।,"{'word': '全体', 'pronunciation': 'ぜんたい', 'meanings': [{'nepali': 'समग्र', 'english': 'whole', 'details': ['कुनै वस्तु वा समूहको सम्पूर्ण।']}, {'nepali': 'कुल', 'english': 'total', 'details': ['कुनै वस्तु वा समूहको पूर्ण परिमाण।']}]}"
+563,JLPT2,後,のち,"after, afterwards","पछि, पछाडि",Noun,後に彼は総理大臣になりました。,पछि उहाँ प्रधानमन्त्री बन्नुभयो।,のち に かれ は そうり だいじん に なりました,He would later become Prime Minister.,अतो - अ (अ) तो (पछाडि) पछि।,"{'word': '後', 'pronunciation': 'あと', 'meanings': [{'nepali': 'पछि', 'english': 'after', 'details': ['कुनै समय वा घटनाको पछाडि।']}, {'nepali': 'पछाडि', 'english': 'afterwards', 'details': ['कुनै समय वा घटनाको पछाडि।']}]}"
+564,JLPT2,命令,めいれい,"command, order",आदेश,Verbal Noun,彼女は命令に従わなかった。,उहाँले आदेश पालना गर्नुभएन।,かのじょ は めいれい に したがわなかった,She did not obey orders.,मेइरेई - मेइ (म) र (र) ई (ई) आदेश।,"{'word': '命令', 'pronunciation': 'めいれい', 'meanings': [{'nepali': 'आदेश', 'english': 'command', 'details': ['कुनै उच्च अधिकारी वा व्यक्तिबाट दिइएको निर्देशन।']}, {'nepali': 'आदेश', 'english': 'order', 'details': ['कुनै कार्य वा गतिविधिका लागि दिइएको निर्देशन।']}]}"
+565,JLPT3,十分,じゅうぶん,"full, plentiful","प्रचुर, पर्याप्त",Adjectival Noun,お金はまだ十分あります。,पैसा अझै पनि प्रचुर छ।,おかね は まだ じゅうぶん あります,We still have plenty of money.,जुबुन - जु (जू) बन (बन) प्रचुर।,"{'word': '十分', 'pronunciation': 'じゅうぶん', 'meanings': [{'nepali': 'प्रचुर', 'english': 'plentiful', 'details': ['प्रचुर मात्रामा भएको।']}, {'nepali': 'पर्याप्त', 'english': 'sufficient', 'details': ['कुनै आवश्यकता वा उद्देश्य पूरा गर्न पर्याप्त।']}]}"
+566,JLPT4,あまり,あまり,(not) much,"त्यति, धेरै",Adverb,このビールはあまり美味しくありません。,यो बियर त्यति मिठो छैन।,この びーる は あまり おいしく ありません,This beer isn't very good.,अमारी - आ (अ) मारी (मारे) त्यति।,"{'word': 'あまり', 'pronunciation': 'あまり', 'meanings': [{'nepali': 'त्यति', 'english': '(not) much', 'details': ['कुनै कुरा त्यति धेरै नभएको।']}, {'nepali': 'धेरै', 'english': 'much', 'details': ['धेरै मात्रामा।']}]}"
+567,JLPT2,経営,けいえい,"management, operation",व्यवस्थापन,Verbal Noun,我が社の経営はうまくいっています。,हाम्रो कम्पनीको व्यवस्थापन राम्रो छ।,わがしゃ の けいえい は うまく いって います,Our company is well managed.,केईएइ - के (के) आइ (आए) व्यवस्थापन।,"{'word': '経営', 'pronunciation': 'けいえい', 'meanings': [{'nepali': 'व्यवस्थापन', 'english': 'management', 'details': ['स्रोतहरू, प्रक्रियाहरू, र मानिसहरूको समुचित नियन्त्रण र समन्वय।']}, {'nepali': 'सञ्चालन', 'english': 'operation', 'details': ['कुनै व्यवसाय वा संगठनको सञ्चालन।']}]}"
+568,JLPT3,原因,げんいん,"cause, origin","कारण, उत्पत्ति",Noun,この事故の原因は何ですか。,यो दुर्घटनाको कारण के हो?,このじこ の げんいん は なん です か,What's the cause of the accident?,गेनिन - गे (ग) इन (भित्र) कारण।,"{'word': '原因', 'pronunciation': 'げんいん', 'meanings': [{'nepali': 'कारण', 'english': 'cause', 'details': ['कुनै घटनाको उत्पत्तिको मुख्य कारण।']}, {'nepali': 'उत्पत्ति', 'english': 'origin', 'details': ['कुनै वस्तु वा घटनाको उत्पत्ति।']}]}"
+569,JLPT4,写真,しゃしん,photograph,"फोटो, तस्बिर",Noun,写真は良い思い出になります。,फोटो राम्रो सम्झना हुन्छ।,しゃしん は いい おもいで に なります,Photographs make a good souvenir.,शाशिन - शा (साँ) शिन (शिन) फोटो।,"{'word': '写真', 'pronunciation': 'しゃしん', 'meanings': [{'nepali': 'फोटो', 'english': 'photograph', 'details': ['कुनै दृश्य वा व्यक्तिको छायाचित्र।']}, {'nepali': 'तस्बिर', 'english': 'picture', 'details': ['कुनै दृश्य वा व्यक्तिको छायाचित्र।']}]}"
+570,JLPT2,立場,たちば,"standpoint, position","स्थिति, दृष्टिकोण",Noun,彼女は自分の立場を分かっていない。,उहाँ आफ्नो स्थिति बुझ्नुहुन्न।,かのじょ は じぶん の たちば を わかって いない,She doesn't understand her position.,ताचिबा - ता (ता) चि (ची) बा (बा) स्थिति।,"{'word': '立場', 'pronunciation': 'たちば', 'meanings': [{'nepali': 'स्थिति', 'english': 'standpoint', 'details': ['कुनै विशेष दृष्टिकोण वा स्थिति।']}, {'nepali': 'दृष्टिकोण', 'english': 'position', 'details': ['कुनै विशेष दृष्टिकोण वा स्थिति।']}]}"
+571,JLPT2,対策,たいさく,"measure, action","उपाय, उपाय योजना",Noun,一緒に対策を考えましょう。,संगै उपाय योजना गरौं।,いっしょ に たいさく を かんがえましょう,Let's think together about what measures we'll take.,ताइसाकु - ता (ता) इ (ई) साकु (सक्ने) उपाय।,"{'word': '対策', 'pronunciation': 'たいさく', 'meanings': [{'nepali': 'उपाय', 'english': 'measure', 'details': ['कुनै समस्याको समाधानका लागि लिइएको उपाय।']}, {'nepali': 'उपाय योजना', 'english': 'action', 'details': ['कुनै समस्याको समाधानका लागि गरिने कार्य।']}]}"
+572,JLPT2,繰り返す,くりかえす,repeat,"पुनरावृत्ति गर्नु, दोहोर्याउनु",Verb,彼女は同じ間違いを繰り返した。,उहाँले उस्तै गल्ती पुनरावृत्ति गरिन्।,かのじょ は おなじ まちがい を くりかえした,She repeated the same mistake.,कुरिकासु - कु (कु) रि (रिसाउने) पुनरावृत्ति।,"{'word': '繰り返す', 'pronunciation': 'くりかえす', 'meanings': [{'nepali': 'पुनरावृत्ति गर्नु', 'english': 'repeat', 'details': ['कुनै क्रिया वा प्रक्रियालाई फेरि गर्नु।']}, {'nepali': 'दोहोर्याउनु', 'english': 'reiterate', 'details': ['कुनै कुरा फेरि भनिनु वा गरिनु।']}]}"
+573,JLPT2,評価,ひょうか,"evaluation, appraisal","मूल्याङ्कन, प्रशंसा",Verbal Noun,最近、彼の評価が上がった。,हालै उहाँको मूल्याङ्कन बढेको छ।,さいきん かれ の ひょうか が あがった,He's been receiving more recognition lately.,ह्योक - ह्या (ह्याउँदै) क (कुनै) मूल्याङ्कन।,"{'word': '評価', 'pronunciation': 'ひょうか', 'meanings': [{'nepali': 'मूल्याङ्कन', 'english': 'evaluation', 'details': ['कुनै वस्तु, व्यक्ति वा प्रक्रियाको गुणस्तर वा मूल्य निर्धारण।']}, {'nepali': 'प्रशंसा', 'english': 'appraisal', 'details': ['कुनै वस्तु वा व्यक्तिको गुणस्तर वा मूल्यको प्रशंसा।']}]}"
+574,JLPT2,なお,なお,"still, in addition","अझै, थप",Adverb,なお、雨の場合は中止です。,"अझै, वर्षा भएमा रद्द गरिनेछ।",なお あめ の ばあい は ちゅうし です,"Moreover, it will be canceled in the event of rain.",नाओ - नाव (डुंगा) अझै।,"{'word': 'なお', 'pronunciation': 'なお', 'meanings': [{'nepali': 'अझै', 'english': 'still', 'details': ['अहिलेसम्म पनि।']}, {'nepali': 'थप', 'english': 'in addition', 'details': ['अर्को कुरा थप गर्नु।']}]}"
+575,JLPT2,計算,けいさん,calculation,"गणना, हिसाब",Verbal Noun,その計算は間違っている。,यो गणना गलत छ।,その けいさん は まちがって いる,That calculation is wrong.,केइसान - केई (के) सान (सानो) गणना।,"{'word': '計算', 'pronunciation': 'けいさん', 'meanings': [{'nepali': 'गणना', 'english': 'calculation', 'details': ['कुनै संख्याको हिसाब गर्नु।']}, {'nepali': 'हिसाब', 'english': 'accounting', 'details': ['अर्थ सम्बन्धी गणना।']}]}"
+576,JLPT1,投資,とうし,investment,लगानी,Verbal Noun,私は4つの会社に投資しています。,मैले चारवटा कम्पनीमा लगानी गरेको छु।,わたし は よっつ の かいしゃ に とうし して います,I'm investing in four companies.,तोशी - तो (तो) शी (सिलिन्डर) लगानी।,"{'word': '投資', 'pronunciation': 'とうし', 'meanings': [{'nepali': 'लगानी', 'english': 'investment', 'details': ['कुनै कम्पनी वा परियोजनामा पैसा लगाउनु।']}]}"
+577,JLPT2,可能,かのう,"possible, potential",संभव,Adjectival Noun,20キロのダイエットは可能だと思いますか。,२० किलो तौल घटाउनु सम्भव छ भनी तपाईं सोच्नुहुन्छ?,にじゅっきろ の だいえっと は かのう だ と おもいます か,Do you think it's possible to go on a twenty kilogram diet?,कानो - कान (कान) को सम्भव।,"{'word': '可能', 'pronunciation': 'かのう', 'meanings': [{'nepali': 'संभव', 'english': 'possible', 'details': ['केही गर्न सकिने।']}, {'nepali': 'संभावना', 'english': 'potential', 'details': ['केही गर्न सकिने सम्भावना।']}]}"
+578,JLPT2,加える,くわえる,"add, include","थप्नु, समावेश गर्नु",Verb,塩、コショウを加えてください。,"नुन, मरिच थप्नुहोस्।",しお こしょう を くわえて ください,Please add the salt and pepper.,कूवाएरे - कुवा (कु) थप्नु।,"{'word': '加える', 'pronunciation': 'くわえる', 'meanings': [{'nepali': 'थप्नु', 'english': 'add', 'details': ['केही कुरा थप्नु।']}, {'nepali': 'समावेश गर्नु', 'english': 'include', 'details': ['केही कुरा समावेश गर्नु।']}]}"
+579,JLPT2,種類,しゅるい,"kind, species","प्रकार, जात",Noun,バラには色々な種類があります。,गुलाबका विभिन्न प्रकार छन्।,ばら に は いろいろ な しゅるい が あります,There are many varieties of rose.,शुरुई - सुरु (सुरु) प्रकार।,"{'word': '種類', 'pronunciation': 'しゅるい', 'meanings': [{'nepali': 'प्रकार', 'english': 'kind', 'details': ['कुनै वस्तुको विविधता।']}, {'nepali': 'जात', 'english': 'species', 'details': ['जीवहरूको विविधता।']}]}"
+580,JLPT2,強化,きょうか,strengthening,"मजबूत, सुदृढ",Verbal Noun,国は国語教育を強化しています。,देशले मातृभाषा शिक्षालाई सुदृढ गरिरहेको छ।,くに は こくご きょういく を きょうか して います,Our government is strengthening its program in native language education.,क्योक - क्यो (क्यो) का (का) सुदृढ।,"{'word': '強化', 'pronunciation': 'きょうか', 'meanings': [{'nepali': 'मजबूत', 'english': 'strengthening', 'details': ['केही कुरा अझ बलियो बनाउनु।']}, {'nepali': 'सुदृढ', 'english': 'reinforcement', 'details': ['केही कुरा अझ बलियो बनाउन थप्नु।']}]}"
+581,JLPT3,意見,いけん,opinion,"विचार, मत",Noun,あなたの意見が聞きたいです。,तपाईंको विचार सुन्न चाहन्छु।,あなた の いけん が ききたい です,I want to hear your opinion.,इकेन - इ (ई) केन (कन) विचार।,"{'word': '意見', 'pronunciation': 'いけん', 'meanings': [{'nepali': 'विचार', 'english': 'opinion', 'details': ['कुनै विषयमा व्यक्त गरिएको विचार।']}, {'nepali': 'मत', 'english': 'view', 'details': ['कुनै विषयमा व्यक्त गरिएको दृष्टिकोण।']}]}"
+582,JLPT1,伴う,ともなう,"accompany, go with","साथमा हुनु, साथमा लिने",Verb,その仕事は危険を伴う。,त्यो काम खतरासँग हुन्छ।,その しごと は きけん を ともなう,Danger comes with the job.,तोमोनाउ - तोमो (साथी) सँग साथमा।,"{'word': '伴う', 'pronunciation': 'ともなう', 'meanings': [{'nepali': 'साथमा हुनु', 'english': 'accompany', 'details': ['कुनै कुराको साथमा हुनु।']}, {'nepali': 'साथमा लिने', 'english': 'go with', 'details': ['कुनै कुराको साथमा जानु।']}]}"
+583,JLPT4,新聞,しんぶん,newspaper,समाचारपत्र,Noun,今日の新聞、どこに置いた?,आजको समाचारपत्र कहाँ राखिएको छ?,きょう の しんぶん どこ に おいた,Where did you put today's newspaper?,शिन्बुन - शिन (शिन) बुन (बुन) समाचारपत्र।,"{'word': '新聞', 'pronunciation': 'しんぶん', 'meanings': [{'nepali': 'समाचारपत्र', 'english': 'newspaper', 'details': ['समाचार र जानकारी दिने छापिएको पत्र।']}]}"
+584,JLPT2,文章,ぶんしょう,"writing, prose","लेखन, गद्य",Noun,彼は文章がとてもうまい。,उहाँको लेखन धेरै राम्रो छ।,かれ は ぶんしょう が とても うまい,His writing is very good.,बुंशो - बु (बु) शो (शो) लेखन।,"{'word': '文章', 'pronunciation': 'ぶんしょう', 'meanings': [{'nepali': 'लेखन', 'english': 'writing', 'details': ['लेखिएको सामग्री।']}, {'nepali': 'गद्य', 'english': 'prose', 'details': ['गद्यमा लेखिएको साहित्य।']}]}"
+585,JLPT2,目立つ,めだつ,"stand out, be conspicuous",目立つ,Verb,彼女の大きな帽子はとても目立つ。,उहाँको ठूलो टोपी धेरै目立つ।,かのじょ の おおき な ぼうし は とても めだつ,Her big hat really stands out.,मेदात्सु - म (म) दात्सु (दाँत)目立つ।,"{'word': '目立つ', 'pronunciation': 'めだつ', 'meanings': [{'nepali': '目立つ', 'english': 'stand out', 'details': ['धेरै राम्रोसँग目立つ।']}, {'nepali': 'प्रमुख हुनु', 'english': 'be conspicuous', 'details': ['सजिलै देखिनु वा目立つ。']}]}"
+586,JLPT2,設計,せっけい,"design, plan","डिजाइन, योजना",Verbal Noun,兄は船の設計をしています。,भाइ जहाज डिजाइन गर्छन्।,あに は ふね の せっけい を して います,My big brother is designing a ship.,सेक्केई - से (से) केई (के) डिजाइन।,"{'word': '設計', 'pronunciation': 'せっけい', 'meanings': [{'nepali': 'डिजाइन', 'english': 'design', 'details': ['कुनै वस्तु वा संरचनाको डिजाइन।']}, {'nepali': 'योजना', 'english': 'plan', 'details': ['कुनै वस्तु वा परियोजनाको योजना।']}]}"
+587,JLPT2,構造,こうぞう,"construction, structure",संरचना,Noun,この建物の構造は複雑です。,यो भवनको संरचना जटिल छ।,この たてもの の こうぞう は ふくざつ です,The structure of this building is complex.,कोजो - को (को) जो (जो) संरचना।,"{'word': '構造', 'pronunciation': 'こうぞう', 'meanings': [{'nepali': 'संरचना', 'english': 'construction', 'details': ['कुनै वस्तु वा संरचनाको निर्माण।']}, {'nepali': 'संरचना', 'english': 'structure', 'details': ['कुनै वस्तु वा संरचनाको संरचना।']}]}"
+588,JLPT2,国会,こっかい,"National Diet, parliament",राष्ट्रिय संसद,Noun,国会が再開した。,राष्ट्रिय संसद पुनः सुरु भयो।,こっかい が さいかい した,The Diet reconvened.,कोक्काई - को (को) काई (काई) राष्ट्रिय संसद।,"{'word': '国会', 'pronunciation': 'こっかい', 'meanings': [{'nepali': 'राष्ट्रिय संसद', 'english': 'National Diet', 'details': ['कुनै देशको राष्ट्रिय संसद।']}, {'nepali': 'संसद', 'english': 'parliament', 'details': ['कुनै देशको संसद।']}]}"
+589,JLPT2,ほぼ,ほぼ,"almost, nearly",लगभग,Adverb,仕事がほぼ終わりました。,काम लगभग समाप्त भयो।,しごと が ほぼ おわりました,My work is almost finished.,हबो - हो (हो) बो (बो) लगभग।,"{'word': 'ほぼ', 'pronunciation': 'ほぼ', 'meanings': [{'nepali': 'लगभग', 'english': 'almost', 'details': ['कुनै कुरा लगभग पूरा हुनु।']}, {'nepali': 'लगभग', 'english': 'nearly', 'details': ['कुनै कुरा लगभग पूरा हुनु।']}]}"
+590,JLPT2,相手,あいて,opponent,"प्रतिद्वन्द्वी, साथी",Noun,試合の相手は誰ですか。,खेलको प्रतिद्वन्द्वी को हो?,しあい の あいて は だれ です か,Who are they playing against?,आइते - आ (आ) इ (ई) ते (ते) प्रतिद्वन्द्वी।,"{'word': '相手', 'pronunciation': 'あいて', 'meanings': [{'nepali': 'प्रतिद्वन्द्वी', 'english': 'opponent', 'details': ['खेल वा प्रतिस्पर्धामा प्रतिस्पर्धा गर्ने व्यक्ति।']}, {'nepali': 'साथी', 'english': 'partner', 'details': ['कुनै कार्य वा गतिविधिमा सहभागी व्यक्ति।']}]}"
+591,JLPT1,発生,はっせい,"occurrence, happening","घटना, घटित हुनु",Verbal Noun,交差点で事故が発生した。,चोकमा दुर्घटना भयो।,こうさてん で じこ が はっせい した,There was an accident at the intersection.,हास्सेई - हा (हा) सेई (सेई) घटना।,"{'word': '発生', 'pronunciation': 'はっせい', 'meanings': [{'nepali': 'घटना', 'english': 'occurrence', 'details': ['कुनै घटना हुनु।']}, {'nepali': 'घटित हुनु', 'english': 'happening', 'details': ['कुनै घटना घटित हुनु।']}]}"
+592,JLPT1,採用,さいよう,employment,"भर्ना, रोजगारी",Verbal Noun,その会社は女性を多く採用している。,त्यो कम्पनीले धेरै महिलालाई भर्ना गरेको छ।,その かいしゃ は じょせい を おおく さいよう して いる,This company employs many women.,साइयो - साइ (साई) यो (यो) भर्ना।,"{'word': '採用', 'pronunciation': 'さいよう', 'meanings': [{'nepali': 'भर्ना', 'english': 'employment', 'details': ['कुनै कम्पनी वा संस्थामा काममा लगाउनु।']}, {'nepali': 'रोजगारी', 'english': 'recruitment', 'details': ['कुनै कम्पनी वा संस्थामा नयाँ कर्मचारी भर्ना गर्नु।']}]}"
+593,JLPT3,残る,のこる,"remain, be left over",बाँकी रहनु,Verb,料理がたくさん残りました。,धेरै खाना बाँकी रह्यो।,りょうり が たくさん のこりました,A lot of food was left over.,नोकुरु - नो (नो) कु (कु) रु (रु) बाँकी।,"{'word': '残る', 'pronunciation': 'のこる', 'meanings': [{'nepali': 'बाँकी रहनु', 'english': 'remain', 'details': ['कुनै कुरा बाँकी रहनु।']}, {'nepali': 'बाँकी रहनु', 'english': 'be left over', 'details': ['कुनै कुरा बाँकी रहनु।']}]}"
+594,JLPT2,段階,だんかい,stage,चरण,Noun,この段階では、決断するのはまだ早い。,"यस चरणमा, निर्णय गर्न अझै चाँडो छ।",この だんかい で は けつだん する の は まだ はやい,"At this stage, it is still early to decide.",डान्काइ - डान (डान) काइ (काई) चरण।,"{'word': '段階', 'pronunciation': 'だんかい', 'meanings': [{'nepali': 'चरण', 'english': 'stage', 'details': ['कुनै प्रक्रिया वा कार्यको चरण।']}, {'nepali': 'चरण', 'english': 'phase', 'details': ['कुनै प्रक्रिया वा कार्यको चरण।']}]}"
+595,JLPT2,報告,ほうこく,report,रिपोर्ट,Verbal Noun,昨日の会議について報告があります。,हिजोको बैठकको बारेमा रिपोर्ट छ।,きのう の かいぎ に ついて ほうこく が あります,There's a report about yesterday's conference.,होकोक - हो (हो) कोक (कोक) रिपोर्ट।,"{'word': '報告', 'pronunciation': 'ほうこく', 'meanings': [{'nepali': 'रिपोर्ट', 'english': 'report', 'details': ['कुनै घटनाको लेखाजोखा।']}, {'nepali': 'रिपोर्ट', 'english': 'documentation', 'details': ['कुनै घटनाको लेखाजोखा।']}]}"

@@ -1,0 +1,89 @@
+<!-- <div id="card-back">
+  <div class="main-div1">
+    <div class="header">{{Nepali-meaning}}</div>
+  </div>
+  <div class="main-div2">
+    <div class="main-div2-sub-div1">
+      <div class="vocab-kana">{{Vocab-kana}}</div>
+      <div class="kanji">Kanji: {{Kanji}}</div>
+      <div class="vocab-meaning-eng">English: {{Vocab-meaning-eng}}</div>
+    </div>
+    <div class="main-div2-sub-div2">
+      <div class="common-lvl">Common: {{Common Level}}</div>
+      <div class="jlpt-lvl">JLPT: {{JLPT Level}}</div>
+      <div class="vocab-pos">{{Vocab-pos}}</div>
+    </div>
+  </div>
+  <div class="main-div3">
+    <div class="main-div3-sub-div1">
+      <div class="sentence-expression">{{Sentence-expression}}</div>
+      <div class="sentence-kana">{{Sentence-kana}}</div>
+      <div class="sentence-meaning-nep">{{Sentence-meaning-nep}}</div>
+      <div class="sentence-meaning-eng">{{Sentence-meaning-eng}}</div>
+    </div>
+  </div>
+</div> -->
+
+<div id="card-back">
+  <div class="card">
+    <div class="container purple-bg">
+      <div class="circle zinc-bg">
+        <span class="number zinc-text">{{Common Level}}</span>
+      </div>
+      <div class="nep-meaning">{{Nepali-meaning}}</div>
+    </div>
+    <div class="container light-bg">
+      <h2 class="title">Japanese Vocabulary</h2>
+    </div>
+    <div class="container dark-bg">
+      <input
+        type="text"
+        placeholder="Your Response"
+        class="input-field zinc-bg"
+      />
+    </div>
+  </div>
+  <section class="reading">
+    <h2 class="reading-title">Reading</h2>
+    <hr />
+    <div class="japanese-reading">{{Vocab-kana}}</div>
+    <div class="kanji-reading">Kanji: {{Kanji}}</div>
+    <h3 class="reading-nemonic-title">Mnemonic</h3>
+    <div class="reading-nemonic">{{Mnemonic}}</div>
+  </section>
+  <section class="meaning">
+    <h2 class="meaning-title">Meaning</h2>
+    <hr />
+    <div class="english-meaning">{{Vocab-meaning-eng}}</div>
+    <h3 class="explanation">Explanation</h3>
+    <div class="vocab-explanation">
+      <p>
+        <strong>{{Kanji}} ({{Vocab-kana}})</strong>
+      </p>
+
+      {{Explanation}}
+      <!-- This will be replaced with the dynamically generated content -->
+    </div>
+  </section>
+  <section class="sentences">
+    <h2 class="sentences-title">Sentences</h2>
+    <hr />
+    <div class="japanese-sentences">
+      <p class="kanji-sentence">{{Sentence-expression}}</p>
+      <p class="kana-sentence">{{Sentence-kana}}</p>
+    </div>
+    <hr />
+    <div class="sentence-meanings">
+      <p class="nepali-sentence-meaning">{{Sentence-meaning-nep}}</p>
+      <hr />
+      <p class="english-sentence-meaning">{{Sentence-meaning-eng}}</p>
+    </div>
+  </section>
+  <section class="details">
+    <h2 class="details-title">Details</h2>
+    <hr />
+    <div class="common-lvl">Common Level: {{Common Level}}</div>
+    <div class="jlpt-lvl">JLPT Level: {{JLPT Level}}</div>
+    <div class="vocab-pos">Vocab-pos: {{Vocab-pos}}</div>
+  </section>
+</div>

@@ -26,8 +26,8 @@ def main():
         header = next(csv_reader)  # Skip the header row
 
         # Create a dictionary from the Nepali list for faster lookup
-        nepali_dict = {item["word"]: {"Nep-meaning": item["Nep-meaning"],
-                                      "sent-Nep": item["sent-Nep"]} for item in nepali_list}
+        nepali_dict = {item["word"]: {"Nep-meaning": item["Nep-meaning"], "sent-Nep": item["sent-Nep"],
+                                      "mnemonic": item['mnemonic'], "explanation": item['explanation']} for item in nepali_list}
 
         # Process each row within the specified range and check for matches
         row_count = 0
@@ -40,10 +40,12 @@ def main():
                     # Insert the Nepali meaning and sentence before the 6th and 10th columns respectively
                     row.insert(5, nepali_dict[word]["Nep-meaning"])
                     row.insert(8, nepali_dict[word]["sent-Nep"])
+                    row.insert(11, nepali_dict[word]["mnemonic"])
+                    row.insert(12, nepali_dict[word]["explanation"])
                     new_list.append(row)
 
     headers = ["Core-index", "jlpt", "Vocab-expression", "Vocab-kana", "Vocab-meaning-eng",
-               "Nep-meaning", "Vocab-pos", "Sentence-expression", "Sentence-meaning-nep", "Sentence-kana", "Sentence-meaning-eng"]
+               "Nep-meaning", "Vocab-pos", "Sentence-expression", "Sentence-meaning-nep", "Sentence-kana", "Sentence-meaning-eng", "Mnemonic", "Explanation"]
 
     with open(new_file, 'w', newline='') as csv_file:
         csv_writer = csv.writer(csv_file, delimiter=',')
